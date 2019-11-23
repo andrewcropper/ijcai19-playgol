@@ -1,0 +1,7 @@
+
+true.
+
+games([]).
+true.
+
+

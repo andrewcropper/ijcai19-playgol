@@ -1,0 +1,3951 @@
+# -*- coding: utf-8 -*-
+
+%p1
+@alice => alice
+@bob => bob
+@carol => carol
+@dave => dave
+@edith => edith
+@fred => fred
+@gill => gill
+@harry => harry
+@ingrid => ingrid
+@jeanne => jeanne
+
+%p2
+My name is John => John
+My name is Bill => Bill
+My name is Josh => Josh
+My name is Albert => Albert
+My name is Richard => Richard
+My name is Alice => Alice
+My name is Bob => Bob
+My name is Charlie => Charlie
+My name is Jeanne => Jeanne
+My name is Laura => Laura
+
+%p3
+james => J
+charles => C
+thomas => T
+paul => P
+chris => C
+alice => A
+laura => L
+sarah => S
+nigel => N
+edith => E
+
+%p4
+james => James
+charles => Charles
+thomas => Thomas
+paul => Paul
+chris => Chris
+ben => Ben
+frank => Frank
+jozie => Jozie
+laura => Laura
+amy => Amy
+
+%p5
+james. => james
+charles. => charles
+thomas. => thomas
+paul. => paul
+chris. => chris
+amelia. => amelia
+edwin. => edwin
+edward. => edward
+max. => max
+tom. => tom
+
+%p6
+Joanie Faas => Faas
+Annita Nicely => Nicely
+Verlene Ottley => Ottley
+Oma Cornelison => Cornelison
+Marin Lorentzen => Lorentzen
+David Beckham => Beckham
+Micheal Owen => Owen
+James Brown => Brown
+Tim Howard => Howard
+David Batty => Batty
+
+%p7
+Arthur Joe Juan => AJJ
+Jose Larry Scott => JLS
+Kevin Jason Matthew => KJM
+Donald Steven George => DSG
+Raymond Frank Timothy => RFT
+David James James => DJJ
+Alice Bob Charlie => ABC
+Bob Ben Carol => BBC
+Sam Andy Sid => SAS
+Jeanne Laura Sarah => JLS
+
+%p8
+Arthur Joe Juan => Juan
+Jose Larry Scott => Scott
+Kevin Jason Matthew => Matthew
+Donald Steven George => George
+Raymond Frank Timothy => Timothy
+David James James => James
+Alice Bob Charlie => Charlie
+Bob Ben Carol => Carol
+Sam Andy Sid => Sid
+Jeanne Laura Sarah => Sarah
+
+%p9
+Arthur Joe Juan => Arthur
+Jose Larry Scott => Jose
+Kevin Jason Matthew => Kevin
+Donald Steven George => Donald
+Raymond Frank Timothy => Raymond
+David James James => David
+Alice Bob Charlie => Alice
+Bob Ben Carol => Bob
+Sam Andy Sid => Sam
+Jeanne Laura Sarah => Jeanne
+
+%p10
+Arthur Joe Juan => Arthur Juan
+Jose Larry Scott => Jose Scott
+Kevin Jason Matthew => Kevin Matthew
+Donald Steven George => Donald George
+Raymond Frank Timothy => Raymond Timothy
+David James James => David James
+Alice Bob Charlie => Alice Charlie
+Bob Ben Carol => Bob Carol
+Sam Andy Sid => Sam Sid
+Jeanne Laura Sarah => Jeanne Sarah
+
+%p11
+Arthur Joe Juan => AJ Juan
+Jose Larry Scott => JL Scott
+Kevin Jason Matthew => KJ Matthew
+Donald Steven George => DS George
+Raymond Frank Timothy => RF Timothy
+David James James => DJ James
+Alice Bob Charlie => AB Charlie
+Bob Ben Carol => BB Carol
+Sam Andy Sid => SA Sid
+Jeanne Laura Sarah => JL Sarah
+
+%p12
+jim.smith@gmail.com => Jim Smith
+ruby.clinton@mit.edu => Ruby Clinton
+jim.james@fas.harvard.edu => Jim James
+brent.harold@hotmail.com => Brent Harold
+matthew.rosman@yahoo.com => Matthew Rosman
+alan.turing@cam.ac.uk => Alan Turing
+thom.yorke@radiohead.com => Thom Yorke
+lisa.simpson@yahoo.com => Lisa Simpson
+bob.smith@gmail.com => Bob Smith
+alice.cooper@rock.com => Alice Cooper
+
+%p13
+jim.smith@gmail.com => gmail
+ruby.clinton@mit.edu => mit
+jim.james@fas.harvard.edu => harvard
+brent.harold@hotmail.com => hotmail
+matthew.rosman@yahoo.com => yahoo
+alan.turing@cam.ac.uk => cam
+thom.yorke@radiohead.com => radiohead
+lisa.simpson@yahoo.com => yahoo
+bob.smith@gmail.com => gmail
+alice.cooper@rock.com => rock
+
+%p14
+BTR KRNL WK CORN 15Z => 15Z
+O F TOMATO PASTE 6 OZ => 6 OZ
+CAMP DRY DBL NDL 3.6 OZ => 3.6 OZ
+CHORE BOY HD SC SPNG 1 PK => 1 PK
+FRENCH WORCESTERSHIRE 5 Z => 5 Z
+BKD BEANS 28 OZ => 28 OZ
+BSH ORIG BEANS 8.3oz => 8.3oz
+Nestle Smarties 4x38g => 4x38g
+Heinz Classic Cream of Tomato Soup 400g => 400g
+Doritos Chilli Heatwave 180g => 180g
+
+%p15
+/Company/Code/index.html => /Company/Code/
+/Company/Docs/Spec/specs.doc => /Company/Docs/Spec/
+/Work/Presentations/talk.ppt => /Work/Presentations/
+/Work/Records/2010/January.dat => /Work/Records/2010/
+/Proj/Numerical/NBody/nbody.c => /Proj/Numerical/NBody/
+/usr/local/bin/ncdu.exe => /usr/local/bin/
+/usr/local/Homebrew/CONTRIBUTING.md => /usr/local/Homebrew/
+/usr/local/texlive/2017/doc.html => /usr/local/texlive/2017/
+/var/db/auth.db => /var/db/
+/Users/jim/Downloads/pdf.pdf => /Users/jim/Downloads/
+
+%p16
+/Company/Code/index.html => index.html
+/Company/Docs/Spec/specs.doc => specs.doc
+/Work/Presentations/talk.ppt => talk.ppt
+/Work/Records/2010/January.dat => January.dat
+/Proj/Numerical/Simulators/NBody/nbody.c => nbody.c
+/usr/local/bin/ncdu.exe => ncdu.exe
+/usr/local/Homebrew/CONTRIBUTING.md => CONTRIBUTING.md
+/usr/local/texlive/2017/doc.html => doc.html
+/var/db/auth.db => auth.db
+/Users/jim/Downloads/pdf.pdf => pdf.pdf
+
+%p17
+Very Large Data Bases => VLDB
+Algorithmic Learning Theory => ALT
+Computer Aided Verification => CAV
+Principles Of Programming Languages => POPL
+Neural Information Processing Systems => NIPS
+Inductive Logic Programming => ILP
+Design Automation Conference => DAC
+International Semantic Web Conference => ISWC
+European Conference Artificial Intelligence => ECAI
+British Machine Vision Conference => BMVC
+
+%p18
+Very Large Data Bases => Very Bases
+Algorithmic Learning Theory => Algorithmic Theory
+Computer Aided Verification => Computer Verification
+Principles Of Programming Languages => Principles Languages
+Neural Information Processing Systems => Neural Systems
+Inductive Logic Programming => Inductive Programming
+Design Automation Conference => Design Conference
+International Semantic Web Conference => International Conference
+European Conference Artificial Intelligence => European Intelligence
+British Machine Vision Conference => British Conference
+
+%p19
+Very Large Data Bases => Large Data Bases
+Algorithmic Learning Theory => Learning Theory
+Computer Aided Verification => Aided Verification
+Principles Of Programming Languages => Of Programming Languages
+Neural Information Processing Systems => Information Processing Systems
+Inductive Logic Programming => Logic Programming
+Design Automation Conference => Automation Conference
+International Semantic Web Conference => Semantic Web Conference
+European Conference Artificial Intelligence => Conference Artificial Intelligence
+British Machine Vision Conference => Machine Vision Conference
+
+%p20
+very large data bases => Bases
+algorithmic learning theory => Theory
+computer aided verification => Verification
+principles of programming languages => Languages
+neural information processing systems => Systems
+inductive logic programming => Programming
+design automation conference => Conference
+international semantic web conference => Conference
+european conference artificial intelligence => Intelligence
+british machine vision conference => Conference
+
+%p21
+Very Large Data Bases => Bases
+Algorithmic Learning Theory => Theory
+Computer Aided Verification => Verification
+Principles Of Programming Languages => Languages
+Neural Information Processing Systems => Systems
+Inductive Logic Programming => Programming
+Design Automation Conference => Conference
+International Semantic Web Conference => Conference
+European Conference Artificial Intelligence => Intelligence
+British Machine Vision Conference => Conference
+
+%p22
+very large data bases => VLDB
+algorithmic learning theory => ALT
+computer aided verification => CAV
+principles of programming languages => POPL
+neural information processing systems => NIPS
+inductive logic programming => ILP
+design automation conference => DAC
+international semantic web conference => ISWC
+european conference artificial intelligence => ECAI
+british machine vision conference => BMVC
+
+%p23
+1/21/2001 => 01
+22.02.2002 => 02
+2003-23-03 => 03
+21/1/2001 => 01
+5/5/1987 => 87
+27-05-1970 => 70
+01-01-2000 => 00
+26/6/2006 => 06
+1/1/2001 => 01
+1/1/01 => 01
+
+%p24
+1112011 => 2011
+12012011 => 2011
+1252010 => 2010
+11152011 => 2011
+6222005 => 2005
+01012001 => 2001
+26062006 => 2006
+27051970 => 1970
+22022002 => 2002
+22021002 => 1002
+
+%p25
+alice5bob3 => 5
+bob3charlie6 => 3
+charlie6dave4 => 5
+dave4edith5 => 4
+edith5frank5 => 5
+frank5harry => 5
+harry5inge4 => 5
+inge4jeanne6 => 4
+jeanne6kat3 => 6
+kat3laura5 => 3
+
+%p26
+IaN => Ian
+miKe => Mike
+mary => Mary
+MELVIN => Melvin
+StaNleY => Stanley
+AliCe => Alice
+BoB => Bob
+CHArlie => Charlie
+DAVE => Dave
+lAUrA => Laura
+
+%p27
+IaN => iAn
+miKe => MIkE
+mary => MARY
+MELVIN => melvin
+StaNleY => sTAnLEy
+AliCe => aLIcE
+BoB => bOb
+CHArlie => chaRLIE
+DAVE => dave
+lAUrA => LauRa
+
+%p28
+IaN RoDny => Ian Rodny
+miKe dwIGHT => Mike Dwight
+mary gelman => Mary Gelman
+MELVIN Julian => Melvin Julian
+StaNleY TRAVis => Stanley Travis
+AliCe HEEr => Alice Heer
+BoB BAD => Bob Bad
+CHArlie PEAnuts => Charlie Peanuts
+DAVE daviD => Dave David
+lAUrA Love => Laura Love
+
+%p29
+January 8 => January
+July 4, 2015 => July
+December 1990 => December
+August 12, 1993 => August
+2007 (September) => September
+May 27 1950 => May
+May 21 => May
+July 15, 20011 => July
+November, 27, 2011 => November
+June 20 - 2002 => June
+
+%p30
+3 Ames St., Portland, OR 02142 => 3
+47 Foskett St. #2, Cambridge, MA 02144 => 47
+43 Vassar St. 46-4053, Cambridge, MA 02139 => 43
+3113 Greenfield Ave., Los Angeles, CA 90034 => 3113
+43 Margaret St. #1, Dorchester, MA 02125 => 43
+77 Massachusetts Ave, Cambridge, MA 02139 => 77
+5000 Forbes Ave, Pittsburgh, PA 15213 => 5000
+450 Serra Mall, Stanford, CA 94305 => 450
+253 Cory Hall, Berkeley, CA 94720 => 253
+262 Washington Rd, Princeton, NJ 08540 => 262
+
+%p31
+3 Ames St., Portland, OR 02142 => Ames
+47 Foskett St. #2, Cambridge, MA 02144 => Foskett
+43 Vassar St. 46-4053, Cambridge, MA 02139 => Vassar
+3113 Greenfield Ave., Los Angeles, CA 90034 => Greenfield
+43 Margaret St. #1, Dorchester, MA 02125 => Margaret
+77 Massachusetts Ave, Cambridge, MA 02139 => Massachusetts
+5000 Forbes Ave, Pittsburgh, PA 15213 => Forbes
+450 Serra Mall, Stanford, CA 94305 => Serra
+253 Cory Hall, Berkeley, CA 94720 => Cory
+262 Washington Rd, Princeton, NJ 08540 => Washington
+
+%p32
+3 Ames St., Portland, OR 02142 => Portland
+47 Foskett St. #2, Cambridge, MA 02144 => Cambridge
+43 Vassar St. 46-4053, Cambridge, MA 02139 => Cambridge
+3113 Greenfield Ave., Los Angeles, CA 90034 => Los Angeles
+43 Margaret St. #1, Dorchester, MA 02125 => Dorchester
+77 Massachusetts Ave, Cambridge, MA 02139 => Cambridge
+5000 Forbes Ave, Pittsburgh, PA 15213 => Pittsburgh
+450 Serra Mall, Stanford, CA 94305 => Stanford
+253 Cory Hall, Berkeley, CA 94720 => Berkeley
+262 Washington Rd, Princeton, NJ 08540 => Princeton
+
+%p33
+3 Ames St., Portland, OR 02142 => OR
+47 Foskett St. #2, Cambridge, MA 02144 => MA
+43 Vassar St. 46-4053, Cambridge, MA 02139 => MA
+3113 Greenfield Ave., Los Angeles, CA 90034 => CA
+43 Margaret St. #1, Dorchester, MA 02125 => MA
+77 Massachusetts Ave, Cambridge, MA 02139 => MA
+5000 Forbes Ave, Pittsburgh, PA 15213 =>PA
+450 Serra Mall, Stanford, CA 94305 => CA
+253 Cory Hall, Berkeley, CA 94720 => CA
+262 Washington Rd, Princeton, NJ 08540 => NJ
+
+%p34
+3 Ames St., Portland, OR 02142 => 02142
+47 Foskett St. #2, Cambridge, MA 02144 => 02144
+43 Vassar St. 46-4053, Cambridge, MA 02139 => 02139
+3113 Greenfield Ave., Los Angeles, CA 90034 => 90034
+43 Margaret St. #1, Dorchester, MA 02125 => 02125
+77 Massachusetts Ave, Cambridge, MA 02139 => 02139
+5000 Forbes Ave, Pittsburgh, PA 15213 => 15213
+450 Serra Mall, Stanford, CA 94305 => 94305
+253 Cory Hall, Berkeley, CA 94720 => 94720
+262 Washington Rd, Princeton, NJ 08540 => 08540
+
+%p35
+Joanie Faas => J Faas
+Annita Nicely => A Nicely
+Verlene Ottley => V Ottley
+Oma Cornelison => O Cornelison
+Marin Lorentzen => M Lorentzen
+David Beckham => D Beckham
+James Brown => J Brown
+Daniele Dunetti => D Dunetti
+Ian Goodfellow => I Goodfellow
+Yoshua Bengio => Y Bengio
+
+%p36
+Joanie Faas => JF
+Annita Nicely => AN
+Verlene Ottley => VO
+Oma Cornelison => OC
+Marin Lorentzen => ML
+David Beckham => DB
+James Brown => JB
+Daniele Dunetti => DD
+Ian Goodfellow => IG
+Yoshua Bengio => YB
+
+%p37
+<os> => os
+<sys.h> => sys
+<stdio.h> => stdio
+<malloc.h> => malloc
+<stdlib> => stdlib
+<math> => math
+<system> => system
+<iostream> => iostream
+<numpy> => numpy
+<main> => main
+
+%p38
+<os> => OS
+<sys.h> => SYS
+<stdio.h> => STDIO
+<malloc.h> => MALLOC
+<stdlib> => STDLIB
+<math> => MATH
+<system> => SYSTEM
+<iostream> => IOSTREAM
+<numpy> => NUMPY
+<main> => MAIN
+
+%p39
+#include <os> => os
+#include <sys.h> => sys
+#include <stdio.h> => stdio
+#include <malloc.h> => malloc
+#include <stdlib> => stdlib
+#include <math> => math
+#include <system> => system
+#include <iostream> => iostream
+#include <numpy> => numpy
+#include <main> => main
+
+%p40
+#include <os> => OS
+#include <sys.h> => SYS
+#include <stdio.h> => STDIO
+#include <malloc.h> => MALLOC
+#include <stdlib> => STDLIB
+#include <math> => MATH
+#include <system> => SYSTEM
+#include <iostream> => IOSTREAM
+#include <numpy> => NUMPY
+#include <main> => MAIN
+
+%p41
+Mr Spongebob Squarepants => Spongebob Squarepants
+Mr Patrick Starfish => Patrick Starfish
+Professor Minerva Mcgonagall => Minerva Mcgonagall
+Professor Severus Snape => Severus Snape
+Dr Ray Stantz => Ray Stantz
+Ms Hermione Granger => Hermione Granger
+Mr Harry Potter => Harry Potter
+Dr Bernard Rieux => Bernard Rieux
+Dr Montgomery Montgomery => Montgomery Montgomery
+Ms Daenerys Targaryen => Daenerys Targaryen
+
+%p42
+Mr Spongebob Squarepants => Mr Squarepants
+Mr Patrick Starfish => Mr Starfish
+Professor Minerva Mcgonagall => Professor Mcgonagall
+Professor Severus Snape => Professor Snape
+Dr Ray Stantz => Dr Stantz
+Ms Hermione Granger => Ms Granger
+Mr Harry Potter => Mr Potter
+Dr Bernard Rieux => Dr Rieux
+Dr Montgomery Montgomery => Dr Montgomery
+Ms Daenerys Targaryen => Ms Targaryen
+
+%p43
+Mr Spongebob Squarepants => Mr
+Mr Patrick Starfish => Mr
+Professor Minerva Mcgonagall => Professor
+Professor Severus Snape => Professor
+Dr Ray Stantz => Dr
+Ms Hermione Granger => Ms
+Mr Harry Potter => Mr
+Dr Bernard Rieux => Dr
+Dr Montgomery Montgomery => Dr
+Ms Daenerys Targaryen => Ms
+
+%p44
+MR SPONGEBOB SQUAREPANTS => Spongebob Squarepants
+MR PATRICK STARFISH => Patrick Starfish
+PROFESSOR MINERVA MCGONAGALL => Minerva McGonagall
+PROFESSOR SEVERUS SNAPE => Severus Snape
+DR RAY STANTZ => Ray Stantz
+MS HERMIONE GRANGER => Hermione Granger
+MR HARRY POTTER => Harry Potter
+DR BERNARD RIEUX => Bernard Rieux
+DR MONTGOMERY MONTGOMERY => Montgomery Montgomery
+MS DAENERYS TARGARYEN => Daenerys Targaryen
+
+%p45
+MR SPONGEBOB SQUAREPANTS => Mr Squarepants
+MR PATRICK STARFISH => Mr Starfish
+PROFESSOR MINERVA MCGONAGALL => Professor Mcgonagall
+PROFESSOR SEVERUS SNAPE => Professor Snape
+DR RAY STANTZ => Dr Stantz
+MS HERMIONE GRANGER => Ms Granger
+MR HARRY POTTER => Mr Potter
+DR BERNARD RIEUX => Dr Rieux
+DR MONTGOMERY MONTGOMERY => Dr Montgomery
+MS DAENERYS TARGARYEN => Ms Targaryen
+
+%p46
+Energy kCal 708kCal 177kCal => 708kCal
+Energy kJ 2,923kJ 731kJ => 2,923kJ
+Protein 17.0g 4.3g => 17.0g
+Carbohydrate 3.1g 0.8g => 3.1g
+of which sugars 2.5g 0.6g => 2.5g
+Fat 69.0g 17.0g => 69.0g
+of which saturates 5.6g 1.4g => 5.6g
+Fibre 3.5g 0.9g => 0.9g
+Sodium N/A N/A => N/A
+Salt 0.1g Trace => 0.1g
+
+%p47
+jaMEs => james
+chARleS => charles
+thOMas => thomas
+paUL => paul
+chRIs => chris
+alICe => alice
+laURa => laura
+saRAh => sarah
+niGEl => nigel
+edITh => edith
+
+%p48
+james => jaMEs
+charles => chARleS
+thomas => thOMas
+paul => paUL
+chris => chRIs
+alice => alICe
+laura => laURa
+sarah => saRAh
+nigel => niGEl
+edith => edITh
+
+%p49
+16,079 inferences, 0.003 CPU in 0.003 seconds (95% CPU, 5842660 Lips) => 16,079
+9,675,636 inferences, 0.903 CPU in 0.929 seconds (97% CPU, 10718278 Lips) => 9,675,636
+514,102 inferences, 0.051 CPU in 0.059 seconds (86% CPU, 10154499 Lips) => 514,102
+215,282,111 inferences, 23.671 CPU in 24.283 seconds (97% CPU, 9094687 Lips) => 215,282,111
+1,085 inferences, 0.000 CPU in 0.000 seconds (91% CPU, 4254902 Lips) => 1,085
+12,111 inferences, 0.002 CPU in 0.002 seconds (95% CPU, 6255682 Lips) => 12,111
+35,698 inferences, 0.005 CPU in 0.006 seconds (82% CPU, 6854455 Lips) => 35,698
+35,695 inferences, 0.005 CPU in 0.006 seconds (82% CPU, 6902920 Lips) => 35,695
+5,860 inferences, 0.001 CPU in 0.001 seconds (98% CPU, 6475138 Lips) => 5,860
+39,258 inferences, 0.007 CPU in 0.008 seconds (85% CPU, 5972615 Lips) => 39,258
+
+%p50
+16,079 inferences, 0.003 CPU in 0.003 seconds (95% CPU, 5842660 Lips) => 0.003
+9,675,636 inferences, 0.903 CPU in 0.929 seconds (97% CPU, 10718278 Lips) => 0.903
+514,102 inferences, 0.051 CPU in 0.059 seconds (86% CPU, 10154499 Lips) => 0.051
+215,282,111 inferences, 23.671 CPU in 24.283 seconds (97% CPU, 9094687 Lips) => 23.671
+1,085 inferences, 0.000 CPU in 0.000 seconds (91% CPU, 4254902 Lips) => 0.000
+12,111 inferences, 0.002 CPU in 0.002 seconds (95% CPU, 6255682 Lips) => 0.002
+35,698 inferences, 0.005 CPU in 0.006 seconds (82% CPU, 6854455 Lips) => 0.005
+35,695 inferences, 0.005 CPU in 0.006 seconds (82% CPU, 6902920 Lips) => 0.005
+5,860 inferences, 0.001 CPU in 0.001 seconds (98% CPU, 6475138 Lips) => 0.001
+39,258 inferences, 0.007 CPU in 0.008 seconds (85% CPU, 5972615 Lips) => 0.007
+
+%p51
+16,079 inferences, 0.003 CPU in 0.003 seconds (95% CPU, 5842660 Lips) => 0.003
+9,675,636 inferences, 0.903 CPU in 0.929 seconds (97% CPU, 10718278 Lips) => 0.929
+514,102 inferences, 0.051 CPU in 0.059 seconds (86% CPU, 10154499 Lips) => 0.059
+215,282,111 inferences, 23.671 CPU in 24.283 seconds (97% CPU, 9094687 Lips) => 24.283
+1,085 inferences, 0.000 CPU in 0.000 seconds (91% CPU, 4254902 Lips) => 0.000
+12,111 inferences, 0.002 CPU in 0.002 seconds (95% CPU, 6255682 Lips) => 0.002
+35,698 inferences, 0.005 CPU in 0.006 seconds (82% CPU, 6854455 Lips) => 0.006
+35,695 inferences, 0.005 CPU in 0.006 seconds (82% CPU, 6902920 Lips) => 0.006
+5,860 inferences, 0.001 CPU in 0.001 seconds (98% CPU, 6475138 Lips) => 0.001
+39,258 inferences, 0.007 CPU in 0.008 seconds (85% CPU, 5972615 Lips) => 0.008
+
+%p52
+16,079 inferences, 0.003 CPU in 0.003 seconds (95% CPU, 5842660 Lips) => 5842660
+9,675,636 inferences, 0.903 CPU in 0.929 seconds (97% CPU, 10718278 Lips) => 10718278
+514,102 inferences, 0.051 CPU in 0.059 seconds (86% CPU, 10154499 Lips) => 10154499
+215,282,111 inferences, 23.671 CPU in 24.283 seconds (97% CPU, 9094687 Lips) => 9094687
+1,085 inferences, 0.000 CPU in 0.000 seconds (91% CPU, 4254902 Lips) => 4254902
+12,111 inferences, 0.002 CPU in 0.002 seconds (95% CPU, 6255682 Lips) => 6255682
+35,698 inferences, 0.005 CPU in 0.006 seconds (82% CPU, 6854455 Lips) => 6854455
+35,695 inferences, 0.005 CPU in 0.006 seconds (82% CPU, 6902920 Lips) => 6902920
+5,860 inferences, 0.001 CPU in 0.001 seconds (98% CPU, 6475138 Lips) => 6475138
+39,258 inferences, 0.007 CPU in 0.008 seconds (85% CPU, 5972615 Lips) => 5972615
+
+%p53
+<strong>&pound;625,000</strong> => 625,000
+<strong>&pound;775,000</strong> => 775,000
+<strong>&pound;2,950,000</strong> => 2,950,000
+<strong>&pound;625,000</strong> => 625,000
+<strong>&pound;635,000</strong> => 635,000
+<strong>&pound;3,000</strong> => 3,000
+<strong>&pound;33,000</strong> => 33,000
+<strong>&pound;133,000</strong> => 133,000
+<strong>&pound;633,000</strong> => 633,000
+<strong>&pound;1,633,000</strong> => 1,633,000
+
+%p54
+<img src="sad.jpg"> => jpg
+<img src="stoic.jpg"> => jpg
+<img src="flamingo.jpg"> => jpg
+<img src="smiley.gif"> => gif
+<img src="small.jpg"> => jpg
+<img src="cow.gif"> => gif
+<img src="meme.gif"> => gif
+<img src="help.jpg"> => jpg
+<img src="yes.png"> => png
+<img src="no.png"> => png
+
+%p55
+<img src="sad.jpg"> => sad.jpg
+<img src="stoic.jpg"> => stoic.jpg
+<img src="flamingo.jpg"> => flamingo.jpg
+<img src="smiley.gif"> => smiley.gif
+<img src="small.jpg"> => small.jpg
+<img src="cow.gif"> => cow.gif
+<img src="meme.gif"> => meme.gif
+<img src="help.jpg"> => help.jpg
+<img src="yes.png"> => yes.png
+<img src="no.png"> => no.png
+
+%p56
+www.bbc.co.uk => bbc.co.uk
+www.nytimes.com => nytimes.com
+www.theguardian.com => theguardian.com
+www.lemonde.fr => lemonde.fr
+www.independent.co.uk => independent.co.uk
+www.telegraph.co.uk => telegraph.co.uk
+www.bild.de => bild.de
+www.corriere.it => corriere.it
+www.elpais.com => elpais.com
+www.washingtonpost.com => washingtonpost.com
+
+%p57
+www.bbc.co.uk => co.uk
+www.nytimes.com => com
+www.theguardian.com=> com
+www.lemonde.fr => fr
+www.independent.co.uk => co.uk
+www.telegraph.co.uk => co.uk
+www.bild.de => de
+www.corriere.it => it
+www.elpais.com => com
+www.washingtonpost.com => com
+
+%p58
+<a href="url">link text</a> => url
+<a href="homepage">link text</a> => homepage
+<a href="url">text</a> => url
+<a href="default.asp">HTML tutorial</a> => default.asp
+<a href="bbc.co.uk">bbc</a> => bbc.co.uk
+<a href="google.com">search</a> => google.com
+<a href="bbc.co.uk">news</a> => bbc.co.uk
+<a href="/html/default.asp">HTML tutorial</a> => /html/default.asp
+<a href="html_images.asp">HTML Images</a> => html_images.asp
+<a href="https://www.w3schools.com/">Visit W3Schools!</a> => https://www.w3schools.com/
+
+%p59
+James Cussens, Alessandra Russo: => Cussens, Russo
+Katsumi Inoue, Hayato Ohwada, Akihiro Yamamoto: => Inoue, Ohwada, Yamamoto
+Jesse Davis, Jan Ramon: => Davis, Ramon
+Gerson Zaverucha, Vitor Santos Costa, Aline Paes: => Zaverucha, Santos Costa, Paes
+Fabrizio Riguzzi, Filip Zelezny: => Riguzzi, Zelezny
+Stephen Muggleton, Alireza Tamaddoni-Nezhad, Francesca A. Lisi: => Muggleton, Tamaddoni-Nezhad, Lisi
+Paolo Frasconi, Francesca A. Lisi: => Frasconi, Lisi
+Luc De Raedt: => De Raedt
+Filip Zelezny, Nada Lavrac: => Zelezny, Lavrac
+Hendrik Blockeel, Jan Ramon, Jude W. Shavlik, Prasad Tadepalli: => Blockeel, Ramon, Shavlik, Tadepalli
+
+%p60
+James Cussens, Alessandra Russo: => J Cussens, A Russo
+Katsumi Inoue, Hayato Ohwada, Akihiro Yamamoto: => K Inoue, H Ohwada, A Yamamoto
+Jesse Davis, Jan Ramon: => Davis, Ramon
+Gerson Zaverucha, Vitor Santos Costa, Aline Paes: => G Zaverucha, V Santos Costa, A Paes
+Fabrizio Riguzzi, Filip Zelezny: => F Riguzzi, F Zelezny
+Stephen Muggleton, Alireza Tamaddoni-Nezhad, Francesca A. Lisi: => S Muggleton, A Tamaddoni-Nezhad, F Lisi
+Paolo Frasconi, Francesca A. Lisi: => P Frasconi, F Lisi
+Luc De Raedt: => L De Raedt
+Filip Zelezny, Nada Lavrac: => F Zelezny, N Lavrac
+Hendrik Blockeel, Jan Ramon, Jude W. Shavlik, Prasad Tadepalli: => H Blockeel, J Ramon, J Shavlik, P Tadepalli
+
+%p61
+ILP 2016, London, UK, September 4-6, 2016 => ILP 2016
+ILP 2015, Kyoto, Japan, August 20-22, 2015 => ILP 2015
+ILP 2014, Nancy, France, September 14-16, 2014 => ILP 2014
+ILP 2013, Rio de Janeiro, Brazil, August 28-30, 2013 => ILP 2013
+ILP 2012, Dubrovnik, Croatia, September 17-19, 2012 => ILP 2012
+ILP 2011, Windsor Great Park, UK, July 31 - August 3, 2011 => ILP 2011
+ILP 2010, Florence, Italy, June 27-30, 2010 => ILP 2010
+ILP 2009, Leuven, Belgium, July 02-04, 2009 => ILP 2009
+ILP 2008, Prague, Czech Republic, September 10-12, 2008 => ILP 2008
+ILP 2007, Corvallis, OR, USA, June 19-21, 2007 => ILP 2007
+
+%p62
+ILP 2016, London, UK, September 4-6, 2016 => London
+ILP 2015, Kyoto, Japan, August 20-22, 2015 => Kyoto
+ILP 2014, Nancy, France, September 14-16, 2014 => Nancy
+ILP 2013, Rio de Janeiro, Brazil, August 28-30, 2013 => Rio de Janeiro
+ILP 2012, Dubrovnik, Croatia, September 17-19, 2012 => Dubrovnik
+ILP 2011, Windsor Great Park, UK, July 31 - August 3, 2011 => Windsor Great Park
+ILP 2010, Florence, Italy, June 27-30, 2010 => Florence
+ILP 2009, Leuven, Belgium, July 02-04, 2009 => Leuven
+ILP 2008, Prague, Czech Republic, September 10-12, 2008 => Prague
+ILP 2007, Corvallis, OR, USA, June 19-21, 2007 => Corvallis
+
+%p63
+ILP 2016, London, UK, September 4-6, 2016 => 2016
+ILP 2015, Kyoto, Japan, August 20-22, 2015 => 2015
+ILP 2014, Nancy, France, September 14-16, 2014 => 2014
+ILP 2013, Rio de Janeiro, Brazil, August 28-30, 2013 => 2013
+ILP 2012, Dubrovnik, Croatia, September 17-19, 2012 => 2012
+ILP 2011, Windsor Great Park, UK, July 31 - August 3, 2011 => 2011
+ILP 2010, Florence, Italy, June 27-30, 2010 => 2010
+ILP 2009, Leuven, Belgium, July 02-04, 2009 => 2009
+ILP 2008, Prague, Czech Republic, September 10-12, 2008 => 2008
+ILP 2007, Corvallis, OR, USA, June 19-21, 2007 => 2007
+
+%p64
+ILP 2016, London, UK, September 4-6, 2016 => UK
+ILP 2015, Kyoto, Japan, August 20-22, 2015 => Japan
+ILP 2014, Nancy, France, September 14-16, 2014 => France
+ILP 2013, Rio de Janeiro, Brazil, August 28-30, 2013 => Brazil
+ILP 2012, Dubrovnik, Croatia, September 17-19, 2012 => Croatia
+ILP 2011, Windsor Great Park, UK, July 31 - August 3, 2011 => UK
+ILP 2010, Florence, Italy, June 27-30, 2010 => Italy
+ILP 2009, Leuven, Belgium, July 02-04, 2009 => Belgium
+ILP 2008, Prague, Czech Republic, September 10-12, 2008 => Czech Republic
+ILP 2007, Corvallis, OR, USA, June 19-21, 2007 => USA
+
+%p65
+ILP 2016, London, UK, September 4-6, 2016 => September
+ILP 2015, Kyoto, Japan, August 20-22, 2015 => August
+ILP 2014, Nancy, France, September 14-16, 2014 => September
+ILP 2013, Rio de Janeiro, Brazil, August 28-30, 2013 => August
+ILP 2012, Dubrovnik, Croatia, September 17-19, 2012 => September
+ILP 2011, Windsor Great Park, UK, July 31 - August 3, 2011 => August
+ILP 2010, Florence, Italy, June 27-30, 2010 => June
+ILP 2009, Leuven, Belgium, July 02-04, 2009 => July
+ILP 2008, Prague, Czech Republic, September 10-12, 2008 => September
+ILP 2007, Corvallis, OR, USA, June 19-21, 2007 => June
+
+%p66
+5-79---5--24- => 579524
+-075--3-474- => 0753474
+-1-0 => 10
+-9-1--345835 => 91345835
+-4---13-54---82- => 4135482
+-9--640019 => 9640019
+-3-6--0--270- => 360270
+4---5----9 => 459
+5---- => 5
+-1---7266 => 17266
+
+%p67
+<h2 id="2017">26. IJCAI 2017: Melbourne, VIC, Australia</h2> => 2017
+<h2 id="2016">25. IJCAI 2016: New York, NY, USA</h2> => 2016
+<h2 id="2015">24. IJCAI 2015: Buenos Aires, Argentina</h2> => 2015
+<h2 id="2013">23. IJCAI 2013: Beijing, China</h2> => 2013
+<h2 id="2011">22. IJCAI 2011: Barcelona, Catalonia, Spain</h2> => 2011
+<h2 id="2009">21. IJCAI 2009: Pasadena, California, USA</h2> => 2009
+<h2 id="2007">20. IJCAI 2007: Hyderabad, India</h2> => 2007
+<h2 id="2005">19. IJCAI 2005: Edinburgh, Scotland, UK</h2> => 2005
+<h2 id="2003">18. IJCAI 2003: Acapulco, Mexico</h2> => 2003
+<h2 id="2001">17. IJCAI 2001: Seattle, USA</h2> => 2001
+
+%p68
+<h2 id="2017">26. IJCAI 2017: Melbourne, VIC, Australia</h2> => Melbourne
+<h2 id="2016">25. IJCAI 2016: New York, NY, USA</h2> => New York
+<h2 id="2015">24. IJCAI 2015: Buenos Aires, Argentina</h2> => Buenos Aires
+<h2 id="2013">23. IJCAI 2013: Beijing, China</h2> => Beijing
+<h2 id="2011">22. IJCAI 2011: Barcelona, Catalonia, Spain</h2> => Barcelona
+<h2 id="2009">21. IJCAI 2009: Pasadena, California, USA</h2> => Pasadena
+<h2 id="2007">20. IJCAI 2007: Hyderabad, India</h2> => Hyderabad
+<h2 id="2005">19. IJCAI 2005: Edinburgh, Scotland, UK</h2> => Edinburgh
+<h2 id="2003">18. IJCAI 2003: Acapulco, Mexico</h2> => Acapulco
+<h2 id="2001">17. IJCAI 2001: Seattle, USA</h2> => Seattle
+
+%p69
+<h2 id="2017">26. IJCAI 2017: Melbourne, VIC, Australia</h2> => Australia
+<h2 id="2016">25. IJCAI 2016: New York, NY, USA</h2> => USA
+<h2 id="2015">24. IJCAI 2015: Buenos Aires, Argentina</h2> => Argentina
+<h2 id="2013">23. IJCAI 2013: Beijing, China</h2> => China
+<h2 id="2011">22. IJCAI 2011: Barcelona, Catalonia, Spain</h2> => Spain
+<h2 id="2009">21. IJCAI 2009: Pasadena, California, USA</h2> => USA
+<h2 id="2007">20. IJCAI 2007: Hyderabad, India</h2> => India
+<h2 id="2005">19. IJCAI 2005: Edinburgh, Scotland, UK</h2> => UK
+<h2 id="2003">18. IJCAI 2003: Acapulco, Mexico</h2> => Mexico
+<h2 id="2001">17. IJCAI 2001: Seattle, USA</h2> => USA
+
+%p70
+ILP 2016, London, UK, September 4-6, 2016 => September, 2016
+ILP 2015, Kyoto, Japan, August 20-22, 2015 => August, 2015
+ILP 2014, Nancy, France, September 14-16, 2014 => September, 2014
+ILP 2013, Rio de Janeiro, Brazil, August 28-30, 2013 => August, 2013
+ILP 2012, Dubrovnik, Croatia, September 17-19, 2012 => September, 2012
+ILP 2011, Windsor Great Park, UK, July 31 - August 3, 2011 => July-August, 2011
+ILP 2010, Florence, Italy, June 27-30, 2010 => June, 2010
+ILP 2009, Leuven, Belgium, July 02-04, 2009 => July, 2009
+ILP 2008, Prague, Czech Republic, September 10-12, 2008 => September, 2008
+ILP 2007, Corvallis, OR, USA, June 19-21, 2007 => June, 2007
+
+%p71
+spotify:track:6wMTeVootJ8RdCLNOZy5Km => 6wMTeVootJ8RdCLNOZy5Km
+spotify:track:3BiIPNWmMeJAK9iwEFTeDX => 3BiIPNWmMeJAK9iwEFTeDX
+spotify:track:6JYxLv2GGPaZDkyJaHSQJY => 6JYxLv2GGPaZDkyJaHSQJY
+spotify:track:5An6plSS4zk3mLQyA3IoFr => 5An6plSS4zk3mLQyA3IoFr
+spotify:track:6jRAiWrKhURIcFGPEeMnsD => 6jRAiWrKhURIcFGPEeMnsD
+spotify:track:1OxcIUqVmVYxT6427tbhDW => 1OxcIUqVmVYxT6427tbhDW
+spotify:track:6HJujxcjMmVZhd8z5EpPri => 6HJujxcjMmVZhd8z5EpPri
+spotify:track:5Wo7vtVNx8Hz2L9CSf7tKd => 5Wo7vtVNx8Hz2L9CSf7tKd
+spotify:track:2WjkOw9JVbvAdKKUaGs3OK => 2WjkOw9JVbvAdKKUaGs3OK
+spotify:track:2MWyl7mj5wM75B3t3D5z4E => 2MWyl7mj5wM75B3t3D5z4E
+
+%p72
+"Mark Buehrle", "CWS", "Starting Pitcher" => Mark Buehrle
+"Vladimir Guerrero", "ANA", "Outfielder" => Vladimir Guerrero
+"Barry Bonds", "SF", "Outfielder" => Barry Bonds
+"Albert Pujols", "STL", "First Baseman" => Albert Pujols
+"Alex Rodriguez", "NYY", "Third Baseman" => Alex Rodriguez
+"Scott Podsednik", "CWS", "Outfielder" => Scott Podsednik
+"Jeff Mathis", "ANA", "Catcher" => Jeff Mathis
+"Kenji Johjima", "SEA", "Catcher" => Kenji Johjima
+"Roberto Novoa", "CHC", "Relief Pitcher" => Roberto Novoa
+"Tom Gordon", "PHI", "Relief Pitcher" => Tom Gordon
+
+%p73
+"Mark Buehrle", "CWS", "Starting Pitcher" => CWS
+"Vladimir Guerrero", "ANA", "Outfielder" => ANA
+"Barry Bonds", "SF", "Outfielder" => SF
+"Albert Pujols", "STL", "First Baseman" => STL
+"Alex Rodriguez", "NYY", "Third Baseman" => NYY
+"Scott Podsednik", "CWS", "Outfielder" => CWS
+"Jeff Mathis", "ANA", "Catcher" => ANA
+"Kenji Johjima", "SEA", "Catcher" => SEA
+"Roberto Novoa", "CHC", "Relief Pitcher" => CHC
+"Tom Gordon", "PHI", "Relief Pitcher" => PHI
+
+%p74
+"Mark Buehrle", "CWS", "Starting Pitcher" => Starting Pitcher
+"Vladimir Guerrero", "ANA", "Outfielder" => Outfielder
+"Barry Bonds", "SF", "Outfielder" => Outfielder
+"Albert Pujols", "STL", "First Baseman" => First Baseman
+"Alex Rodriguez", "NYY", "Third Baseman" => Third Baseman
+"Scott Podsednik", "CWS", "Outfielder" => Outfielder
+"Jeff Mathis", "ANA", "Catcher" => Catcher
+"Kenji Johjima", "SEA", "Catcher" => Catcher
+"Roberto Novoa", "CHC", "Relief Pitcher" => Relief Pitcher
+"Tom Gordon", "PHI", "Relief Pitcher" => Relief Pitcher
+
+%p75
+"Mark Buehrle", "CWS", "Starting Pitcher" => Mark Buehrle, CWS
+"Vladimir Guerrero", "ANA", "Outfielder" => Vladimir Guerrero, ANA
+"Barry Bonds", "SF", "Outfielder" => Barry Bonds, SF
+"Albert Pujols", "STL", "First Baseman" => Albert Pujols, STL
+"Alex Rodriguez", "NYY", "Third Baseman" => Alex Rodriguez, NYY
+"Scott Podsednik", "CWS", "Outfielder" => Scott Podsednik, CWS
+"Jeff Mathis", "ANA", "Catcher" => Jeff Mathis, ANA
+"Kenji Johjima", "SEA", "Catcher" => Kenji Johjima, SEA
+"Roberto Novoa", "CHC", "Relief Pitcher" => Roberto Novoa, CHC
+"Tom Gordon", "PHI", "Relief Pitcher" => Tom Gordon, PHI
+
+%p76
+"Nationals",81.34,98 => Nationals
+"Reds",82.20,97 => Reds
+"Yankees",197.96,95 => Yankees
+"Giants",117.62,94 => Giants
+"Braves",83.31,94 => Braves
+"Athletics",55.37, 94 => Athletics
+"Rangers",120.51, 93 => Rangers
+"Orioles",81.43, 93 => Orioles
+"Rays",64.17, 90 => Rays
+"Angels",154.49, 89 =>Angels
+
+%p77
+"Nationals",81.34,98 => Nationals,81.34,98
+"Reds",82.20,97 => Reds,82.20,97
+"Yankees",197.96,95 => Yankees,197.96,95
+"Giants",117.62,94 => Giants,117.62,94
+"Braves",83.31,94 => Braves,83.31,94
+"Athletics",55.37,94 => Athletics,94
+"Rangers",120.51,93 => Rangers,93
+"Orioles",81.43,93 => Orioles,93
+"Rays",64.17,90 => Rays,90
+"Angels",154.49,89 =>Angels,89
+
+%p78
+"Alex","M",41,74,170 => Alex,M
+"Bert","M",42,68,166 => Bert,M
+"Carl","M",32,70,155 => Carl,M
+"Dave","M",39,72,167 => Dave,M
+"Elly","F",30,66,124 => Elly,F
+"Fran","F",33,66,115 => Fran,F
+"Gwen","F",26,64,121 => Gwen,F
+"Hank","M",30,71,158 => Hank,M
+"Ivan","M",53,72,175 => Ivan,M
+"Jake","M",32,69,143 => Jake,M
+
+%p79
+"Alex","M",41,74,170 => Alex,M,41,74,170
+"Bert","M",42,68,166 => Bert,M,42,68,166
+"Carl","M",32,70,155 => Carl,M,32,70,155
+"Dave","M",39,72,167 => Dave,M,39,72,167
+"Elly","F",30,66,124 => Elly,F,30,66,124
+"Fran","F",33,66,115 => Fran,F,33,66,115
+"Gwen","F",26,64,121 => Gwen,F,26,64,121
+"Hank","M",30,71,158 => Hank,M,30,71,158
+"Ivan","M",53,72,175 => Ivan,M,53,72,175
+"Jake","M",32,69,143 => Jake,M,32,69,143
+
+%p80
+"Alex","M",41,74,170 => Alex
+"Bert","M",42,68,166 => Bert
+"Carly","F",32,70,155 =>Carly
+"Dave","M",39,72,167 => Dave
+"Elly","F",30,66,124 => Elly
+"Fran","F",33,66,115 => Fran
+"Gwen","F",26,64,121 => Gwen
+"Hank","M",30,71,158 => Hank
+"Ivan","M",53,72,175 => Ivan
+"Jake","M",32,69,143 => Jake
+
+%p81
+"Alex","M",41,74,170 => M
+"Bert","M",42,68,166 => M
+"Carly","F",32,70,155 => F
+"Dave","M",39,72,167 => M
+"Elly","F",30,66,124 => F
+"Fran","F",33,66,115 => F
+"Gwen","F",26,64,121 => F
+"Hank","M",30,71,158 => M
+"Ivan","M",53,72,175 => M
+"Jake","M",32,69,143 => M
+
+%p82
+<country>Norway</country> => Norway
+<country>Finland</country> => Finland
+<country>Sweden</country> => Sweden
+<country>Iceland</country> => Iceland
+<country>Denmark</country> => Denmark
+<country>Italy</country> => Italy
+<country>France</country> => France
+<country>Germany</country> => Germany
+<country>Scotland</country> => Scotland
+<country>Spain</country> => Spain
+
+%p83
+<price>9.90</price> => 9.90
+<price>19.90</price> => 19.90
+<price>22.20</price> => 22.20
+<price>30.66</price> => 30.66
+<price>124.00</price> => 124.00
+<price>16.66</price> => 16.66
+<price>10.00</price> => 10.00
+<price>21.21</price> => 21.21
+<price>30.21</price> => 30.21
+<price>12.00</price> => 12.00
+
+%p84
+<book id="bk101"><price>44.95</price></book> => bk101
+<book id="bk102"><price>5.95</price></book> => bk102
+<book id="bk103"><price>5.95</price></book> => bk103
+<book id="bk104"><price>5.95</price></book> => bk104
+<book id="bk105"><price>5.95</price></book> => bk105
+<book id="bk106"><price>1.95</price></book> => bk106
+<book id="bk107"><price>2.95</price></book> => bk107
+<book id="bk108"><price>12.95</price></book> => bk108
+<book id="bk109"><price>11.00</price></book> => bk109
+<book id="bk110"><price>41.00</price></book> => bk110
+
+%p85
+<book id="bk101"><price>44.95</price></book> => 44.95
+<book id="bk102"><price>5.95</price></book> => 5.95
+<book id="bk103"><price>5.95</price></book> => 5.95
+<book id="bk104"><price>5.95</price></book> => 5.95
+<book id="bk105"><price>5.95</price></book> => 5.95
+<book id="bk106"><price>1.95</price></book> => 1.95
+<book id="bk107"><price>2.95</price></book> => 2.95
+<book id="bk108"><price>12.95</price></book> => 12.95
+<book id="bk109"><price>11.00</price></book> => 11.00
+<book id="bk110"><price>41.00</price></book> => 41.00
+
+%p86
+<book id="bk101"><price>44.95</price></book> => <price>44.95</price>
+<book id="bk102"><price>5.95</price></book> => <price>5.95</price>
+<book id="bk103"><price>5.95</price></book> => <price>5.95</price>
+<book id="bk104"><price>5.95</price></book> => <price>5.95</price>
+<book id="bk105"><price>5.95</price></book> => <price>5.95</price>
+<book id="bk106"><price>1.95</price></book> => <price>1.95</price>
+<book id="bk107"><price>2.95</price></book> => <price>2.95</price>
+<book id="bk108"><price>12.95</price></book> => <price>12.95</price>
+<book id="bk109"><price>11.00</price></book> => <price>11.00</price>
+<book id="bk110"><price>41.00</price></book> => <price>41.00</price>
+
+%p87
+IMG1898.JPG => JPG
+IMG1298.JPEG => JPEG
+DGC1298.JPEG => JPEG
+IMG13414.PNG => PNG
+IMG134141.jpg => jpg
+IMG0972.mov => mov
+probs.txt => txt
+results.py => py
+stack.txt => txt
+test.sh => sh
+
+%p88
+Exeter College, Turl St, Oxford OX1 3DP => OX1 3DP
+Hertford College, Catte St, Oxford OX1 3BW => OX1 3BW
+St Cross College, 61 St Giles, Oxford, OX1 3LZ => OX1 3LZ
+University College, Oxford, OX1 4BH => OX1 4BH
+New College, Holywell St, Oxford OX1 3BN => OX1 3BN
+Merton College, Merton St, Oxford OX1 4JD => OX1 4JD
+University College, High Street, Oxford OX1 4BH => OX1 4BH
+Jesus College, Turl St, Oxford OX1 3DW => OX1 3DW
+Trinity College, Broad St, Oxford OX1 3BH => OX1 3BH
+Worcester College, 1 Walton St, Oxford OX1 2HB => OX1 2HB
+
+%p89
+Exeter College, Turl St, Oxford OX1 3DP => Exeter College
+Hertford College, Catte St, Oxford OX1 3BW => Hertford College
+St Cross College, 61 St Giles, Oxford, OX1 3LZ => St Cross College
+University College, Oxford, OX1 4BH => University College
+New College, Holywell St, Oxford OX1 3BN => New College
+Merton College, Merton St, Oxford OX1 4JD => Merton College
+University College, High Street, Oxford OX1 4BH => University College
+Jesus College, Turl St, Oxford OX1 3DW => Jesus College
+Trinity College, Broad St, Oxford OX1 3BH => Trinity College
+Worcester College, 1 Walton St, Oxford OX1 2HB => Worcester College
+
+%p90
+Exeter College, Turl St, Oxford OX1 3DP => Exeter College, OX1 3DP
+Hertford College, Catte St, Oxford OX1 3BW => Hertford College, OX1 3BW
+St Cross College, 61 St Giles, Oxford, OX1 3LZ => St Cross College, OX1 3LZ
+University College, Oxford, OX1 4BH => University College, OX1 4BH
+New College, Holywell St, Oxford OX1 3BN => New College, OX1 3BN
+Merton College, Merton St, Oxford OX1 4JD => Merton College, OX1 4JD
+University College, High Street, Oxford OX1 4BH => University College, Oxford OX1 4BH
+Jesus College, Turl St, Oxford OX1 3DW => Jesus College, OX1 3DW
+Trinity College, Broad St, Oxford OX1 3BH => Trinity College, OX1 3BH
+Worcester College, 1 Walton St, Oxford OX1 2HB => Worcester College, OX1 2HB
+
+%p91
+james => jm
+charles => ca
+thomas => to
+paul => pu
+chris => cr
+alice => ai
+laura => lu
+sarah => sr
+nigel => ng
+edith => ei
+
+%p92
+james => js
+charles => cs
+thomas => ts
+paul => pl
+chris => cs
+alice => ae
+laura => la
+sarah => sh
+nigel => nl
+edith => eh
+
+%p93
+DarkSlateGray3\n#79cdcd => DarkSlateGray3
+OrangeRed1\n#ff4500 => OrangeRed1
+DodgerBlue4\n#104e8b => DodgerBlue4
+LightBlue1\n#bfefff => LightBlue1
+brown4\n#8b2323 => brown4
+PaleGreen2\n#90ee90 => PaleGreen2
+SlateGray4\n#6c7b8b => SlateGray4
+DarkOliveGreen\n#556b2f => DarkOliveGreen
+AntiqueWhite2\n#eedfcc => AntiqueWhite2
+chocolate3\n#cd661d => chocolate3
+
+%p94
+a l i c e => alice
+b o b => bob
+c a r o l => carol
+d a v i d => david
+e d i t h => edith
+f r e d => fred
+g e r a d l i n e => geradline
+h e n r y => henry
+i n g e => inge
+j e a n n e => jeanne
+
+%p95
+26 October,1998 (20 years old) => OCT 1998
+25 September,1980 (38 years old) => SEP 1980
+22 July,1983 (35 years old) => JUL 1983
+30 October,1955 (63 years old) => OCT 1955
+23 November,1954 (64 years old) => NOV 1954
+28 December,1958 (60 years old) => DEC 1958
+21 October,1943 (75 years old) => OCT 1943
+21 April,1965 (53 years old) => APR 1965
+11 July,1947 (71 years old) => JUL 1947
+2 May,1941 (77 years old) => MAY 1941
+
+%p96
+Boxing Day 9am-5pm => 9am-5pm
+Boxing Day 8am-7pm => 8am-7pm
+Boxing Day 9am-6pm => 9am-6pm
+Boxing Day 9am-6pm => 9am-6pm
+Boxing Day 9am-5pm => 9am-5pm
+Boxing Day 8am-5pm => 8am-5pm
+Boxing Day 10am-1pm => 10am-1pm
+Boxing Day 10am-10pm => 10am-10pm
+Boxing Day 9am-10pm => 9am-10pm
+Boxing Day 10am-11pm => 10am-11pm
+
+%p97
+\section{framework} => Framework
+\section{introduction} => Introduction
+\section{experiments} => Experiments
+\section{related work} => Related work
+\section{implementation} => Implementation
+\section{conclusions} => Conclusions
+\section{theory} => Theory
+\section{background} => Background
+\section{metagol} => Metagol
+\section{discussion} => Discussion
+
+%p98
+letter('a'). => a
+letter('b'). => b
+letter('c'). => c
+letter('d'). => d
+letter('e'). => e
+letter('f'). => f
+letter('g'). => g
+letter('h'). => h
+letter('i'). => i
+letter('j'). => i
+
+%p99
+number(1) => 1
+number(2) => 2
+number(3) => 3
+number(4) => 4
+number(5) => 5
+number(10) => 10
+number(20) => 20
+number(30) => 30
+number(40) => 40
+number(50) => 50
+
+%p100
+433M 10 Oct 13:24 mercury-14.01.1.tar => 10 Oct
+1.6M 15 Oct 17:19 summary.pdf => 15 Oct
+732K 11 Oct 17:59 guide.pdf => 11 Oct
+720K 16 Oct 09:49 logic_primer.ppt => 16 Oct
+582K 18 Oct 12:13 make-01.pdf => 18 Oct
+369K 16 Oct 17:30 JCR-Menu.ppt => 16 Oct
+321K 10 Oct 13:12 ECRC-LP-61.ps => 10 Oct
+313K 15 Oct 15:11 KR_2018_paper_91.pdf => 15 Oct
+300K 6 Oct 14:49 Retirement.pdf => 6 Oct
+71K 16 Oct 17:29 events.ics => 16 Oct
+
+%p101
+\section{framework} => \section{Framework}
+\section{introduction} => \section{Introduction}
+\section{experiments} => \section{Experiments}
+\section{related work} => \section{Related work}
+\section{implementation} => \section{Implementation}
+\section{conclusions} => \section{Conclusions}
+\section{framework} => \section{Framework}
+\section{background} => \section{Background}
+\section{metagol} => \section{Metagol}
+\section{discussion} => \section{Discussion}
+
+%p102
+BA History => History
+BA Geography => Geography
+BA Mathematics => Mathematics
+BA Modern History => Modern History
+BA Philosophy, Politics and Economics => Philosophy, Politics and Economics
+BA Computer Science => Computer Science
+BA Anthropology => Anthropology
+BA Media Studies => Media Studies
+BA English => English
+BA French => French
+
+%p103
+1 Journal of Biological Chemistry 54,695 1,652,432 => 1
+2 Proc. Natl. Acad. Sci. USA (PNAS) 30,396 1,376,541 => 2
+3 Nature 10,549 1,242,392 => 3
+4 Science 9,369 1,125,022 => 4
+5 Physical Review Letters 31,112 884,911 => 5
+6 J. American Chemical Society 29,272 881,457 => 6
+7 Physical Review B 48,888 612,377 => 7
+8 Astrophysical Journal 26,418 581,299 => 8
+9 New England Journal of Medicine 3,564 568,698 => 9
+10 Applied Physics Letters 36,759 549,224 => 10
+
+%p104
+1 Journal of Biological Chemistry 54,695 1,652,432 => 54,695
+2 Proc. Natl. Acad. Sci. USA (PNAS) 30,396 1,376,541 => 30,396
+3 Nature 10,549 1,242,392 => 10,549
+4 Science 9,369 1,125,022 => 9,369
+5 Physical Review Letters 31,112 884,911 => 31,112
+6 J. American Chemical Society 29,272 881,457 => 29,272
+7 Physical Review B 48,888 612,377 => 48,888
+8 Astrophysical Journal 26,418 581,299 => 26,418
+9 New England Journal of Medicine 3,564 568,698 => 3,564
+10 Applied Physics Letters 36,759 549,224 => 36,759
+
+%p105
+1 Journal of Biological Chemistry 54,695 1,652,432 => Journal of Biological Chemistry
+2 Proc. Natl. Acad. Sci. USA (PNAS) 30,396 1,376,541 => Proc. Natl. Acad. Sci. USA (PNAS)
+3 Nature 10,549 1,242,392 => Nature
+4 Science 9,369 1,125,022 => Science
+5 Physical Review Letters 31,112 884,911 => Physical Review Letters
+6 J. American Chemical Society 29,272 881,457 => J. American Chemical Society
+7 Physical Review B 48,888 612,377 => Physical Review B
+8 Astrophysical Journal 26,418 581,299 => Astrophysical Journal
+9 New England Journal of Medicine 3,564 568,698 => New England Journal of Medicine
+10 Applied Physics Letters 36,759 549,224 => Applied Physics Letters
+
+%p106
+William Cohen @professorwcohen => @professorwcohen
+Michael Wooldridge @wooldridgemike => @wooldridgemike
+Tom M Mitchell @tommmitchell => @tommmitchell
+Rishabh Singh @rishabhs => @rishabhs
+Sam Henry @g7vdj => @g7vdj
+Laura Haapio-Kirk @LauraLHK => @LauraLHK
+Shriram Venkatraman @venkatshriram => @venkatshriram
+Xinyuan Wang @amberwanguk => @amberwanguk
+Daniel Miller @DannyAnth => @DannyAnth
+Elisabetta Costa @elisax00 => @elisax00
+
+%p107
+433M 10 Oct 13:24 mercury-14.01.1.tar => 13:24
+1.6M 15 Oct 17:19 summary.pdf => 17:19
+732K 11 Oct 17:59 guide.pdf => 17:59
+720K 16 Oct 09:49 logic_primer.ppt => 09:49
+582K 18 Oct 12:13 make-01.pdf => 12:13
+369K 16 Oct 17:30 JCR-Menu.ppt => 17:30
+321K 10 Oct 13:12 ECRC-LP-61.ps => 13:12
+313K 15 Oct 15:11 KR_2018_paper_91.pdf => 15:11
+300K 6 Oct 14:49 Retirement.pdf => 14:49
+71K 16 Oct 17:29 events.ics => 17:29
+
+%p108
+a,l,i,c,e => alice
+b,o,b => bob
+c,a,r,o,l => carol
+d,a,v,i,d => david
+e,d,i,t,h => edith
+f,r,e,d => fred
+g,e,r,a,d,l,i,n,e => geradline
+h,e,n,r,y => henry
+i,n,g,e => inge
+j,e,a,n,n,e => jeanne
+
+%p109
+Arthur,Joe,Juan => AJJ
+Jose,Larry,Scott => JLS
+Kevin,Jason,Matthew => KJM
+Donald,Steven,George => DSG
+Raymond,Frank,Timothy => RFT
+David,James,James => DJJ
+Alice,Bob,Charlie => ABC
+Bob,Ben,Carol => BBC
+Sam,Andy,Sid => SAS
+Jeanne,Laura,Sarah => JLS
+
+%p110
+Joanie Faas => Joanie FAAS
+Annita Nicely => Annita NICELY
+Verlene Ottley => Verlene OTTLEY
+Oma Cornelison => Oma CORNELISON
+Marin Lorentzen => Marin LORENTZEN
+David Beckham => David BECKHAM
+Micheal Owen => Micheal OWEN
+James Brown => James BROWN
+Tim Howard => Tim HOWARD
+David Batty => David BATTY
+
+%p111
+Joanie Faas => FAAS
+Annita Nicely => NICELY
+Verlene Ottley => OTTLEY
+Oma Cornelison => CORNELISON
+Marin Lorentzen => LORENTZEN
+David Beckham => BECKHAM
+Micheal Owen => OWEN
+James Brown => BROWN
+Tim Howard => HOWARD
+David Batty => BATTY
+
+%p112
+JOANIE FAAS => Joanie Faas
+ANNITA NICELY => Annita Nicely
+VERLENE OTTLEY => Verlene Ottley
+OMA CORNELISON => Oma Cornelison
+MARIN LORENTZEN => Marin Lorentzen
+DAVID BECKHAM => David Beckham
+MICHEAL OWEN => Micheal Owen
+JAMES BROWN => James Brown
+TIM HOWARD => Tim Howard
+DAVID BATTY => David Batty
+
+%p113
+ox1 3dp => OX13DP
+ox1 3bw => OX13BW
+ox1 3lz => OX13LZ
+ox1 4bh => OX14BH
+ox1 3bn => OX13BN
+ox1 3cp => OX13CP
+ox1 3xw => OX13XW
+ox1 3lp => OX13LP
+ox1 4ah => OX14AH
+ox1 0bn => OX10BN
+
+%p114
+433M 10 Oct 13:24 mercury-14.01.1.tar => mercury-14.01.1.tar
+1.6M 15 Oct 17:19 summary.pdf => summary.pdf
+732K 11 Oct 17:59 guide.pdf => guide.pdf
+720K 16 Oct 09:49 logic_primer.ppt => logic_primer.ppt
+582K 18 Oct 12:13 make-01.pdf => make-01.pdf
+369K 16 Oct 17:30 JCR-Menu.ppt => JCR-Menu.ppt
+321K 10 Oct 13:12 ECRC-LP-61.ps => ECRC-LP-61.ps
+313K 15 Oct 15:11 KR_2018_paper_91.pdf => KR_2018_paper_91.pdf
+300K 6 Oct 14:49 Retirement.pdf => Retirement.pdf
+71K 16 Oct 17:29 events.ics => events.ics
+
+%p115
+433M 10 Oct 13:24 mercury-14.01.1.tar => tar
+1.6M 15 Oct 17:19 summary.pdf => pdf
+732K 11 Oct 17:59 guide.pdf => pdf
+720K 16 Oct 09:49 logic_primer.ppt => ppt
+582K 18 Oct 12:13 make-01.pdf => pdf
+369K 16 Oct 17:30 JCR-Menu.ppt => ppt
+321K 10 Oct 13:12 ECRC-LP-61.ps => ps
+313K 15 Oct 15:11 KR_2018_paper_91.pdf => pdf
+300K 6 Oct 14:49 Retirement.pdf => pdf
+71K 16 Oct 17:29 events.ics => ics
+
+%p116
+Book and Theses;11; => 11
+Book and Theses;10; => 10
+Book and Theses;13; => 13
+Book and Theses;12; => 12
+Book and Theses;14; => 14
+Book and Theses;20; => 20
+Book and Theses;3; => 3
+Book and Theses;2; => 2
+Book and Theses;4; => 4
+Book and Theses;0; => 0
+
+%p117
+joanie faas => Joanie Faas
+annita nicely => Annita Nicely
+verlene ottley => Verlene Ottley
+oma cornelison => Oma Cornelison
+marin lorentzen => Marin Lorentzen
+david beckham => David Beckham
+micheal owen => Micheal Owen
+james brown => James Brown
+tim howard => Tim Howard
+david batty => David Batty
+
+%p118
+Andrew Cropper: Learning Efficient Logic Programs. IJCAI 2015: 4359-4360 => Learning Efficient Logic Programs
+Stephen Muggleton: Inductive Logic Programming. ALT 1990: 42-62 => Inductive Logic Programming
+Michael Bain: Experiments in Non-Monotonic Learning. ML 1991: 380-384 => Experiments in Non-Monotonic Learning
+Donald Michie: Heuristic Search. Comput. J. 14(1): 96-102 (1971) => Heuristic Search
+Ivan Bratko: Machine learning in artificial intelligence. AI in Engineering 8(3): 159-164 (1993) => Machine learning in artificial intelligence
+Luc De Raedt: Panel: Logic and Learnability. EWSL 1991: 344 => Panel: Logic and Learnability
+Claude Sammut: Concept Learning by Experiment. IJCAI 1981: 104-105 => Concept Learning by Experiment
+Katsumi Inoue: Extended Logic Programs with Default Assumptions. ICLP 1991: 490-504 => Extended Logic Programs with Default Assumptions
+Ute Schmid: KI und Informatik. KI 26(1): 1-4 (2012) => KI und Informatik
+Hendrik Blockeel: Top-Down Induction of First Order Logical Decision Trees. AI Commun. 12(1-2): 119-120 (1999) => Top-Down Induction of First Order Logical Decision Trees
+
+%p119
+Andrew Cropper: Learning Efficient Logic Programs. IJCAI 2015: 4359-4360 => Cropper
+Stephen Muggleton: Inductive Logic Programming. ALT 1990: 42-62 => Muggleton
+Michael Bain: Experiments in Non-Monotonic Learning. ML 1991: 380-384 => Bain
+Donald Michie: Heuristic Search. Comput. J. 14(1): 96-102 (1971) => Michie
+Ivan Bratko: Machine learning in artificial intelligence. AI in Engineering 8(3): 159-164 (1993) => Bratko
+Luc De Raedt: Panel: Logic and Learnability. EWSL 1991: 344 => Panel: Logic and Learnability => De Raedt
+Claude Sammut: Concept Learning by Experiment. IJCAI 1981: 104-105 => Sammut
+Katsumi Inoue: Extended Logic Programs with Default Assumptions. ICLP 1991: 490-504 => Inoue
+Ute Schmid: KI und Informatik. KI 26(1): 1-4 (2012) => Schmid
+Hendrik Blockeel: Top-Down Induction of First Order Logical Decision Trees. AI Commun. 12(1-2): 119-120 (1999) => Blockeel
+
+%p120
+Player Piano (1952) => 1952
+The Sirens of Titan (1959) => 1959
+Mother Night (1961) => 1961
+Cat's Cradle (1963) => 1963
+Slaughterhouse-Five (1969) => 1969
+Breakfast of Champions (1973) => 1973
+Slapstick (1976) => 1976
+Jailbird (1979) => 1979
+Deadeye Dick (1982) => 1982
+Galapagos (1985) => 1985
+
+%p121
+Player Piano (1952) => Player Piano
+The Sirens of Titan (1959) => The Sirens of Titan
+Mother Night (1961) => Mother Night
+Cat's Cradle (1963) => Cat's Cradle
+Slaughterhouse-Five (1969) => Slaughterhouse-Five
+Breakfast of Champions (1973) => Breakfast of Champions
+Slapstick (1976) => Slapstick
+Jailbird (1979) => Jailbird
+Deadeye Dick (1982) => Deadeye Dick
+Galapagos (1985) => Galapagos
+
+%p122
+William Cohen @professorwcohen => William Cohen
+Michael Wooldridge @wooldridgemike => Michael Wooldridge
+Tom M Mitchell @tommmitchell => Tom M Mitchell
+Rishabh Singh @rishabhs => Rishabh Singh
+Sam Henry @g7vdj => Sam Henry
+Laura Haapio-Kirk @LauraLHK => Laura Haapio-Kirk
+Shriram Venkatraman @venkatshriram => Shriram Venkatraman
+Xinyuan Wang @amberwanguk => Xinyuan Wang
+Daniel Miller @DannyAnth => Daniel Miller
+Elisabetta Costa @elisax00 => Elisabetta Costa
+
+%p123
+jjaammeess => james
+cchhaarrlleess => charles
+tthhoommaass => thomas
+ppaauull => paul
+cchhrriiss => chris
+aalliiccee => alice
+llaauurraa => laura
+ssaarraah => sarah
+nniiggeell => nigel
+eeddiitth => edith
+
+%p124
+3 Jan 1975 8 May 1993 => 1975 1993
+13 May 1993 19 Dec 1996 => 1993 1996
+20 Dec 1996 8 May 1997 => 1996 1997
+8 May 1997 5 Jan 1999 => 1997 1999
+5 Jan 1999 11 Jan 1999 => 1999 1999
+11 Jan 1999 16 May 1999 => 1999 1999
+1 Jul 1999 12 Jul 2001 => 1999 2001
+12 Jul 2001 7 Feb 2004 => 2001 2004
+10 Feb 2004 16 Dec 2004 => 2004 2004
+16 Dec 2004 10 Jan 2005 => 2004 2005
+
+%p125
+34 Scotland Alex McLeish => Scotland
+35 England Rob Kelly => England
+36 Scotland Billy Davies => Scotland
+38 England Stuart Pearce => England
+39 Scotland Dougie Freedman => Scotland
+41 France Philippe Montanier => France
+42 England Gary brazil => England
+43 England Mark Warburton => England
+45 Spain Aitor Karanka => Spain
+71 England Nigel Clough => England
+
+%p126
+4 England DF Michael Mancienne => 4 Mancienne
+5 Algeria MF Adlene Guedioura => 5 Guedioura
+7 Scotland MF Liam Bridcutt => 7 Bridcutt
+8 England MF Chris Cohen => 8 Cohen
+10 Scotland MF Barrie McKay => 10 McKay
+11 England MF Ben Osborn => 11 Osborn
+13 Scotland DF Danny Fox => 13 Fox
+14 England MF Matty Cash => 14 Cash
+17 England FW Ben Brereton => 17 Brereton
+19 Wales FW Sam Jones => 19 Jones
+
+%p127
+1986 England Nigel Clough => 1986 Nigel Clough
+1987 England Des Walker => 1987 Des Walker
+1988 England Nigel Clough => 1988 Nigel Clough
+1989 England Stuart Pearce => 1989 Stuart Pearce
+1990 England Des Walker => 1990 Des Walker
+1991 England Stuart Pearce => 1991 Stuart Pearce
+1992 England Des Walker => 1992 Des Walker
+1993 England Steve Sutton => 1993 Steve Sutton
+1994 Wales David Phillips => 1994 David Phillips
+1995 England Steve Stone => 1995 Steve Stone
+1996 England Stuart Pearce => 1996 Stuart Pearce
+
+%p128
+About 5,320,000 results (0.63 seconds) => 5,320,000
+About 37,400,000 results (0.52 seconds) => 37,400,000
+About 6,240,000 results (0.65 seconds) => 6,240,000
+About 1,620,000 results (0.66 seconds) => 1,620,000
+About 8,630,000 results (0.50 seconds) => 8,630,000
+About 31,900,000 results (0.70 seconds) => 31,900,000
+About 520,000 results (0.59 seconds) => 520,000
+About 1,390,000 results (0.70 seconds) => 1,390,000
+About 5,090,000 results (0.90 seconds) => 5,090,000
+About 299,000 results (0.57 seconds) => 299,000
+
+%p129
+About 5,320,000 results (0.63 seconds) => 0.63 seconds
+About 37,400,000 results (0.52 seconds) => 0.52 seconds
+About 6,240,000 results (0.65 seconds) => 0.65 seconds
+About 1,620,000 results (0.66 seconds) => 0.66 seconds
+About 8,630,000 results (0.50 seconds) => 0.50 seconds
+About 31,900,000 results (0.70 seconds) => 0.70 seconds
+About 520,000 results (0.59 seconds) => 0.59 seconds
+About 1,390,000 results (0.70 seconds) => 0.70 seconds
+About 5,090,000 results (0.90 seconds) => 0.90 seconds
+About 299,000 results (0.57 seconds) => 0.57 seconds
+
+%p130
+player piano (1952) => Player Piano
+the sirens of titan (1959) => The Sirens of Titan
+mother night (1961) => Mother Night
+cats cradle (1963) => Cats Cradle
+slaughterhouse five (1969) => Slaughterhouse Five
+breakfast of champions (1973) => Breakfast of Champions
+slapstick (1976) => Slapstick
+jailbird (1979) => Jailbird
+deadeye dick (1982) => Deadeye Dick
+galapagos (1985) => Galapagos
+
+%p131
+1. Wonder, $6.37 => Wonder
+2. Giraffes Cant Dance, $2.32 => Giraffes Cant Dance
+3. Diary of a Wimpy Kid, $7.50 => Diary of a Wimpy Kid
+4. The Instant Pot, $6.61 => The Instant Pot
+5. Harry Potter and the Prisoner of Azkaban, $17.99 => Harry Potter and the Prisoner of Azkaban
+6. The Pout-Pout Fish, $3.74 => The Pout-Pout Fish
+7. Harry Potter: A Journey Through a History of Magic, $6.70 => Harry Potter: A Journey Through a History of Magic
+8. Leonardo da Vinci, $14.88 => Leonardo da Vinci
+9. The Sun and Her Flowers, $6.49 => The Sun and Her Flowers
+10. Milk and Vine, $3.79 => Milk and Vine
+
+%p132
+625,000 => 625000
+775,000 => 775000
+2,950,000 => 2950000
+625,000 => 625000
+635,000 => 635000
+31,900,000 => 31900000
+520,000 => 520000
+1,390,000 => 1390000
+5,090,000 => 5090000
+299,000 => 299000
+
+%p133
+About 5,320,000 results (0.63 seconds) => 5320000
+About 37,400,000 results (0.52 seconds) => 37400000
+About 6,240,000 results (0.65 seconds) => 6240000
+About 1,620,000 results (0.66 seconds) => 1620000
+About 8,630,000 results (0.50 seconds) => 8630000
+About 31,900,000 results (0.70 seconds) => 31900000
+About 520,000 results (0.59 seconds) => 520000
+About 1,390,000 results (0.70 seconds) => 1390000
+About 5,090,000 results (0.90 seconds) => 5090000
+About 299,000 results (0.57 seconds) => 299000
+
+%p134
+jjjjaaaammmmeeeessss => james
+cccchhhhaaaarrrrlllleeeessss => charles
+tttthhhhoooommmmaaaassss => thomas
+ppppaaaauuuullll => paul
+cccchhhhrrrriiiissss => chris
+aaaalllliiiicccceeee => alice
+llllaaaauuuurrrraaaa => laura
+ssssaaaarrrraaaahhhh => sarah
+nnnniiiiggggeeeellll => nigel
+eeeeddddiiiitttthhhh => edith
+
+%p135
+jjjjjjjjaaaaaaaammmmmmmmeeeeeeeessssssss => james
+cccccccchhhhhhhhaaaaaaaarrrrrrrrlllllllleeeeeeeessssssss => charles
+tttttttthhhhhhhhoooooooommmmmmmmaaaaaaaassssssss => thomas
+ppppppppaaaaaaaauuuuuuuullllllll => paul
+cccccccchhhhhhhhrrrrrrrriiiiiiiissssssss => chris
+aaaaaaaalllllllliiiiiiiicccccccceeeeeeee => alice
+llllllllaaaaaaaauuuuuuuurrrrrrrraaaaaaaa => laura
+ssssssssaaaaaaaarrrrrrrraaaaaaaahhhhhhhh => sarah
+nnnnnnnniiiiiiiiggggggggeeeeeeeellllllll => nigel
+eeeeeeeeddddddddiiiiiiiitttttttthhhhhhhh => edith
+
+%p136
+ijcai15.sty => sty
+metaprob.blg => blg
+ourbib15.bib => bib
+01-intro.tex => tex
+05-e1.tex => tex
+metaprob.log => log
+sketch.txt => txt
+metaprob.aux => aux
+metaprob.pdf => pdf
+metaprob.bbl => bbl
+
+%p137
+--2-X628-2-1-- => --2-
+41-1X54 => 41-1
+-X27----6--97-1 => -
+-553---930--26--8--X1 => -553---930--26--8--
+9---X4 => 9---
+-92-2-----1X9-1--229-080 => -92-2-----1
+-59-0X-5-5-0-964043--48 => -59-0
+2509-3-2--536-8-X6-266----- => 2509-3-2--536-8-
+0--3X943030 => 0--3
+57-1-X-82-5-4---93-0-2 => 57-1-
+
+%p138
+:-use_module(library(timeout)). => timeout
+:-use_module(library(lists)). => lists
+:-use_module(library(apply)). => apply
+:-use_module(library(pairs)). => pairs
+:-use_module(library(system)). => system
+:-use_module(library(random)). => random
+:-use_module(library(error)). => error
+:-use_module(library(sockets)). => sockets
+:-use_module(library(python)). => python
+:-use_module(library(metagol)). => metagol
+
+%p139
+628 posts 201 followers 617 following => 628 posts
+570 posts 479 followers 1025 following => 570 posts
+144 posts 248 followers 872 following => 144 posts
+217 posts 3268 followers 18 following => 217 posts
+240 posts 522 followers 522 following => 240 posts
+467 posts 906 followers 288 following => 467 posts
+661 posts 426 followers 567 following => 661 posts
+368 posts 22600 followers 95 following => 368 posts
+4536 posts 12000 followers 338 following => 4536 posts
+361 posts 435 followers 709 following => 361 posts
+
+%p140
+628 posts 201 followers 617 following => 201 followers
+570 posts 479 followers 1025 following => 479 followers
+144 posts 248 followers 872 following => 248 followers
+217 posts 3268 followers 18 following => 3,268 followers
+240 posts 522 followers 522 following => 522 followers
+467 posts 906 followers 288 following => 906 followers
+661 posts 426 followers 567 following => 426 followers
+368 posts 22600 followers 95 following => 22600 followers
+4536 posts 12000 followers 338 following => 12000 followers
+361 posts 435 followers 709 following => 435 followers
+
+%p141
+628 posts 201 followers 617 following => 617 following
+570 posts 479 followers 1025 following => 1025 following
+144 posts 248 followers 872 following => 872 following
+217 posts 3268 followers 18 following => 3268 following
+240 posts 522 followers 522 following => 522 following
+467 posts 906 followers 288 following => 288 following
+661 posts 426 followers 567 following => 567 following
+368 posts 22600 followers 95 following => 95 following
+4536 posts 12000 followers 338 following => 338 following
+361 posts 435 followers 709 following => 709 following
+
+%p142
+R049M7Ui8o73q4-Wu3dmi => R049M7Ui8o73q4
+S3kb-82 => S3kb
+442E5T-e83kHj5 => 442E5T
+53c5mS440S-lWd4 => 53c5mS440S
+2JM141x60n-XnEH048J5W1g => 2JM141x60n
+51V1v40794Ng8Vd89X-2 => 51V1v40794Ng8Vd89X
+X062u85Rb2-ba016f4X4bf652wx20 => X062u85Rb2
+UB6-Ogf55H394m => UB6
+9U5MsnhH5rM6-5ic6Xi9c4 => 9U5MsnhH5rM6
+a24TFafO59s0B-JX => a24TFafO59s0B
+
+%p143
+5 Jacques Anquetil (FRA) => 5 Anquetil
+5 Eddy Merckx (BEL) => 5 Merckx
+5 Bernard Hinault (FRA) => 5 Hinault
+5 Miguel Indurain (ESP) => 5 Indurain
+4 Chris Froome (GBR) => 4 Froome
+3 Philippe Thys (BEL) => 3 Thys
+3 Louison Bobet (FRA) => 3 Bobet
+3 Greg LeMond (USA) => 3 LeMond
+2 Alberto Contador (ESP) => 2 Contador
+2 Ottavio Bottecchia (ITA) => 2 Bottecchia
+
+%p144
+5 Jacques Anquetil (FRA) => Jacques Anquetil
+5 Eddy Merckx (BEL) => Eddy Merckx
+5 Bernard Hinault (FRA) => Bernard Hinault
+5 Miguel Indurain (ESP) => Miguel Indurain
+4 Chris Froome (GBR) => Chris Froome
+3 Philippe Thys (BEL) => Philippe Thys
+3 Louison Bobet (FRA) => Louison Bobet
+3 Greg LeMond (USA) => Greg LeMond
+2 Alberto Contador (ESP) => Alberto Contador
+2 Ottavio Bottecchia (ITA) => Ottavio Bottecchia
+
+%p145
+2007 Spain Alberto Contador => 2007 Contador
+2008 Spain Carlos Sastre => 2008 Sastre
+2009 Spain Alberto Contador => 2009 Contador
+2010 Luxembourg Andy Schleck => 2010 Schleck
+2011 Australia Cadel Evans => 2011 Evans
+2012 Great Britain Bradley Wiggins => 2012 Wiggins
+2013 Great Britain Chris Froome => 2013 Froome
+2014 Italy Vincenzo Nibali => 2014 Nibali
+2015 Great Britain Chris Froome => 2015 Froome
+2016 Great Britain Chris Froome => 2016 Froome
+2017 Great Britain Chris Froome => 2017 Froome
+
+%p146
+3,496 km (2,172 mi) 87h 34' 47" => 2,172
+3,404 km (2,115 mi) 83h 56' 20" => 2,115
+3,660 km (2,274 mi) 89h 59' 06" => 2,274
+3,360 km (2,088 mi) 84h 46' 14" => 2,088
+3,529 km (2,193 mi) 89h 04' 48" => 2,193
+3,540 km (2,200 mi) 86h 20' 55" => 2,200
+3,430 km (2,130 mi) 86h 12' 22" => 2,130
+3,459 km (2,149 mi) 85h 48' 35" => 2,149
+3,559 km (2,211 mi) 87h 52' 52" => 2,211
+3,570 km (2,220 mi) 91h 00' 26" => 2,220
+
+%p147
+Cairo, Egypt: 24.5 million people => Cairo, 24.5
+Karachi, Pakistan: 24.8 million people => Karachi, 24.8
+Dhaka, Bangladesh: 27.4 million people => Dhaka, 27.4
+Beijing, China: 27.7 million people => Beijing, 27.7
+Mumbai, India: 27.8 million people => Mumbai, 27.8
+Shanghai, China: 30.8 million people => Shanghai, 30.8
+Delhi, India: 36.1 million people => Delhi, 36.1
+Tokyo, Japan: 37.2 million people => Tokyo, 37.2
+New York, USA: 8.26 million people => New York, 8.26
+London, UK: 8.136 million people => London, 8.136
+
+%p148
+Cairo, Egypt: 24.5 million people => Egypt
+Karachi, Pakistan: 24.8 million people => Pakistan
+Dhaka, Bangladesh: 27.4 million people => Bangladesh
+Beijing, China: 27.7 million people => China
+Mumbai, India: 27.8 million people => India
+Shanghai, China: 30.8 million people => China
+Delhi, India: 36.1 million people => India
+Tokyo, Japan: 37.2 million people => Japan
+New York, USA: 8.26 million people => USA
+London, UK: 8.136 million people => UK
+
+%p149
+22.6 (72.7) => 72.7
+24.9 (76.8) => 76.8
+25.3 (77.5) => 77.5
+29.2 (84.6) => 84.6
+32.2 (90) => 90
+36.2 (97.2) => 97.2
+39.5 (103.1) => 103.1
+39.1 (102.4) => 102.4
+38.1 (100.6) => 100.6
+32.6 (90.7) => 90.7
+27.3 (81.1) => 81.1
+
+%p150
+china 161,169 => China 161,169
+south korea 99,880 => South Korea 99,880
+philippines 27,929 => Philippines 27,929
+united states 15,901 => United States 15,901
+nepal 8,669 => Nepal 8,669
+india 8,313 => India 8,313
+thailand 6,906 => Thailand 6,906
+united kingdom 5,522 => United Kingdom 5,522
+myanmar 4,781 => Myanmar 4,781
+france 4,781 => France 4,781
+
+%p151
+james => jms
+charles => cals
+thomas => toa
+paul => pu
+chris => crs
+alice => aie
+laura => lua
+sarah => srh
+nigel => ngl
+edith => eih
+
+%p152
+www.twitter.com/poplconf =>poplconf
+www.twitter.com/RealAAAI => RealAAAI
+www.twitter.com/PLDI => PLDI
+www.twitter.com/professorwcohen => professorwcohen
+www.twitter.com/TobyWalsh => TobyWalsh
+www.twitter.com/pelotonespresso => pelotonespresso
+www.twitter.com/UdiShapiro => UdiShapiro
+www.twitter.com/HertfordCollege => HertfordCollege
+www.twitter.com/SumitGulwani => SumitGulwani
+www.twitter.com/tommmitchell => tommmitchell
+
+%p153
+www.twitter.com/poplconf =>twitter.com
+www.twitter.com/RealAAAI => twitter.com
+www.twitter.com/PLDI => twitter.com
+www.twitter.com/professorwcohen => twitter.com
+www.twitter.com/TobyWalsh => twitter.com
+www.twitter.com/pelotonespresso => twitter.com
+www.twitter.com/UdiShapiro => twitter.com
+www.twitter.com/HertfordCollege => twitter.com
+www.twitter.com/SumitGulwani => twitter.com
+www.twitter.com/tommmitchell => twitter.com
+
+%p154
+American Express,346743115587584 => American Express
+American Express,373976083599365 => American Express
+American Express,343660986553409 => American Express
+Diners Club,30239396183269 => Diners Club
+Diners Club,30189831127696 => Diners Club
+Diners Club,30353191710174 => Diners Club
+Visa,4916944185554908 => Visa
+Visa,4532333294347962 => Visa
+Visa,4556876501562519 => Visa
+Visa,4532035570024922 => Visa
+
+%p155
+American Express,346743115587584 => 346743115587584
+American Express,373976083599365 => 373976083599365
+American Express,343660986553409 => 343660986553409
+Diners Club,30239396183269 => 30239396183269
+Diners Club,30189831127696 => 30189831127696
+Diners Club,30353191710174 => 30353191710174
+Visa,4916944185554908 => 4916944185554908
+Visa,4532333294347962 => 4532333294347962
+Visa,4556876501562519 => 4556876501562519
+Visa,4532035570024922 => 4532035570024922
+
+%p156
+5405 1083 2063 8654, 05/22, 648, MasterCard => MasterCard
+5405 1087 3189 9176, 11/21, 694, MasterCard => MasterCard
+5405 1005 1530 5793, 08/23, 915, MasterCard => MasterCard
+5405 1062 9387 1716, 03/20, 429, MasterCard => MasterCard
+5137 4852 1289 3133, 01/22, 431, MasterCard => MasterCard
+5314 5016 8586 8462, 01/21, 850, MasterCard => MasterCard
+5404 3650 8176 1320, 02/23, 549, MasterCard => MasterCard
+5218 4106 1475 1970, 09/22, 397, MasterCard => MasterCard
+5122 1790 8893 7705, 09/21, 284, MasterCard => MasterCard
+5405 1052 2515 1916, 01/20, 340, MasterCard => MasterCard
+
+%p157
+5405 1083 2063 8654, 05/22, 648, MasterCard => 05/22
+5405 1087 3189 9176, 11/21, 694, MasterCard => 11/21
+5405 1005 1530 5793, 08/23, 915, MasterCard => 08/23
+5405 1062 9387 1716, 03/20, 429, MasterCard => 03/20
+5137 4852 1289 3133, 01/22, 431, MasterCard => 01/22
+5314 5016 8586 8462, 01/21, 850, MasterCard => 01/21
+5404 3650 8176 1320, 02/23, 549, MasterCard => 02/23
+5218 4106 1475 1970, 09/22, 397, MasterCard => 09/22
+5122 1790 8893 7705, 09/21, 284, MasterCard => 09/21
+5405 1052 2515 1916, 01/20, 340, MasterCard => 01/20
+
+%p158
+5405 1083 2063 8654, 05/22, 648, MasterCard => 5405 1083 2063 8654
+5405 1087 3189 9176, 11/21, 694, MasterCard => 5405 1087 3189 9176
+5405 1005 1530 5793, 08/23, 915, MasterCard => 5405 1005 1530 5793
+5405 1062 9387 1716, 03/20, 429, MasterCard => 5405 1062 9387 1716
+5137 4852 1289 3133, 01/22, 431, MasterCard => 5137 4852 1289 3133
+5314 5016 8586 8462, 01/21, 850, MasterCard => 5314 5016 8586 8462
+5404 3650 8176 1320, 02/23, 549, MasterCard => 5404 3650 8176 1320
+5218 4106 1475 1970, 09/22, 397, MasterCard => 5218 4106 1475 1970
+5122 1790 8893 7705, 09/21, 284, MasterCard => 5122 1790 8893 7705
+5405 1052 2515 1916, 01/20, 340, MasterCard => 5405 1052 2515 1916
+
+%p159
+5405 1083 2063 8654, 05/22, 648, MasterCard => 648
+5405 1087 3189 9176, 11/21, 694, MasterCard => 694
+5405 1005 1530 5793, 08/23, 915, MasterCard => 915
+5405 1062 9387 1716, 03/20, 429, MasterCard => 429
+5137 4852 1289 3133, 01/22, 431, MasterCard => 431
+5314 5016 8586 8462, 01/21, 850, MasterCard => 850
+5404 3650 8176 1320, 02/23, 549, MasterCard => 549
+5218 4106 1475 1970, 09/22, 397, MasterCard => 397
+5122 1790 8893 7705, 09/21, 284, MasterCard => 284
+5405 1052 2515 1916, 01/20, 340, MasterCard => 340
+
+%p160
+5520 7165 1105 8274, 04/22, 705, Emina Burkley, MasterCard => Emina Burkley
+5405 1040 5693 1652, 07/21, 177, Holli Claxton, MasterCard => Holli Claxton
+5404 3677 2397 0897, 12/20, 710, Fulk Sharkey, MasterCard => Fulk Sharkey
+5127 1743 3998 9394, 01/20, 588, Gilbertha Stamey, MasterCard => Gilbertha Stamey
+5323 5254 7005 2676, 07/23, 627, Simmona Elzey, MasterCard => Simmona Elzey
+5121 6409 6639 2751, 11/20, 275, Wioleta Sheffer, MasterCard => Wioleta Sheffer
+5137 4823 6957 8278, 06/22, 231, Affonso Tousignant, MasterCard => Affonso Tousignant
+5218 4136 7761 5496, 05/20, 505, Devell Blaisdell, MasterCard => Devell Blaisdell
+5315 7150 6827 2113, 06/21, 130, Sariel Reale, MasterCard => Sariel Reale
+5315 7317 7561 0495, 12/23, 207, Deval O'Donnell, MasterCard => Deval O'Donnell
+
+%p161
+Brand: Nokia Model: 6310 => 6310
+Brand: Apple Model: iPhone 5 => iPhone 5
+Brand: Nokia Model: 2680 => 2680
+Brand: Nokia Model: 6150 => 6150
+Brand: LG Model: MG155c => MG155c
+Brand: Feton Technology Model: ALPS A618 => ALPS A618
+Brand: Nokia Model: 6208c => 6208c
+Brand: Sony Ericsson Model: W580 => W580
+Brand: Nokia Model: 3210 => 3210
+Brand: Nokia Model: 7370 => 7370
+
+%p162
+Brand: Nokia Model: 6310 => Nokia
+Brand: Apple Model: iPhone 5 => Apple
+Brand: Nokia Model: 2680 => Nokia
+Brand: Nokia Model: 6150 => Nokia
+Brand: LG Model: MG155c => LG
+Brand: Feton Model: ALPS A618 => Feton
+Brand: Nokia Model: 6208c => Nokia
+Brand: Sony Model: W580 =>Sony
+Brand: Nokia Model: 3210 => Nokia
+Brand: Nokia Model: 7370 => Nokia
+
+%p163
+Brand: Nokia Model: 6310 => Nokia 6310
+Brand: Apple Model: iPhone 5 => Apple iPhone 5
+Brand: Nokia Model: 2680 => Nokia 2680
+Brand: Nokia Model: 6150 => Nokia 6150
+Brand: LG Model: MG155c => LG MG155c
+Brand: Feton Model: ALPS A618 => Feton ALPS A618
+Brand: Nokia Model: 6208c => Nokia 6208c
+Brand: Sony Model: W580 =>Sony W580
+Brand: Nokia Model: 3210 => Nokia 3210
+Brand: Nokia Model: 7370 => Nokia 7370
+
+%p164
+15 Cooper's Cl, Mill Ln, Wareham BH20 4RB => BH20 4RB
+122c High St, Aylesbury HP20 1RB => HP20 1RB
+18 Russell Rd, Edinburgh EH11 3YT => EH11 3YT
+17 Bruce Pl, East Kilbride, Glasgow G75 0PU => G75 0PU
+1 Treworthal Rd, Perranwell Station, Truro TR3 7QB => TR3 7QB
+5 Bayswater Terrace, Leeds LS8 5QL => LS8 5QL
+18 Round Hills, Waltham Abbey EN9 1TP => EN9 1TP
+10 Weybank, Wisley, Woking GU23 6QF => GU23 6QF
+11 The Oak Field, Pett, Hastings TN35 4HQ => TN35 4HQ
+9-15 Ribbleton Ln, Preston PR0 2BP => PR0 2BP
+28 Majors Loan, Falkirk FK1 5QA => FK1 5QA
+
+%p165
+15 Cooper's Cl, Mill Ln, Wareham BH20 4RB => Wareham
+122c High St, Aylesbury HP20 1RB => Aylesbury
+18 Russell Rd, Edinburgh EH11 3YT => Edinburgh
+17 Bruce Pl, East Kilbride, Glasgow G75 0PU => Glasgow
+1 Treworthal Rd, Perranwell Station, Truro TR3 7QB => Truro
+5 Bayswater Terrace, Leeds LS8 5QL => Leeds
+18 Round Hills, Waltham Abbey EN9 1TP => Waltham Abbey
+10 Weybank, Wisley, Woking GU23 6QF => Woking
+11 The Oak Field, Pett, Hastings TN35 4HQ => Hastings
+9-15 Ribbleton Ln, Preston PR0 2BP => Preston
+28 Majors Loan, Falkirk FK1 5QA => Falkirk
+
+%p166
+15 Cooper's Cl, Mill Ln, Wareham BH20 4RB => 15 Cooper's Cl, BH20 4RB
+122c High St, Aylesbury HP20 1RB => 122c High St, HP20 1RB
+18 Russell Rd, Edinburgh EH11 3YT => 18 Russell Rd, EH11 3YT
+17 Bruce Pl, East Kilbride, Glasgow G75 0PU => 17 Bruce Pl, G75 0PU
+1 Treworthal Rd, Perranwell Station, Truro TR3 7QB => 1 Treworthal Rd, TR3 7QB
+5 Bayswater Terrace, Leeds LS8 5QL => 5 Bayswater Terrace, LS8 5QL
+18 Round Hills, Waltham Abbey EN9 1TP => 18 Round Hills, EN9 1TP
+10 Weybank, Wisley, Woking GU23 6QF => 10 Weybank, GU23 6QF
+11 The Oak Field, Pett, Hastings TN35 4HQ => 11 The Oak Field, TN35 4HQ
+9-15 Ribbleton Ln, Preston PR0 2BP => 9-15 Ribbleton Ln, PR0 2BP
+28 Majors Loan, Falkirk FK1 5QA => 28 Majors Loan, FK1 5QA
+
+%p167
+16, Chemin Du Lavarin Sud 2935 CAEN, France => 2935
+95, rue de la Boetie 772 POITIERS, France => 772
+65, boulevard Bryas 2619 COURBEVOIE, France => 2619
+4, Chemin Des Bateliers 2663 ANGLET, France => 2663
+43, Faubourg Saint Honore 9489 PARIS, France => 9489
+57, Rue Roussy 6711 ORANGE, France => 6711
+33, rue Nationale 5752 PARIS, France => 5752
+27, avenue de Bouvines 2867 SCHOELCHER, France => 2867
+30, Place de la Gare 5036 COLOMIERS, France => 5036
+55, rue Descartes 5306 SURESNES, France => 5306
+
+%p168
+16, Chemin Du Lavarin Sud 2935 CAEN, France => 16, Chemin Du Lavarin Sud
+95, rue de la Boetie 772 POITIERS, France => 95, rue de la Boetie
+65, boulevard Bryas 2619 COURBEVOIE, France => 65, boulevard Bryas
+4, Chemin Des Bateliers 2663 ANGLET, France => 4, Chemin Des Bateliers
+43, Faubourg Saint Honore 9489 PARIS, France => 43, Faubourg Saint Honore
+57, Rue Roussy 6711 ORANGE, France => 57, Rue Roussy
+33, rue Nationale 5752 PARIS, France => 33, rue Nationale
+27, avenue de Bouvines 2867 SCHOELCHER, France => 27, avenue de Bouvines
+30, Place de la Gare 5036 COLOMIERS, France => 30, Place de la Gare
+55, rue Descartes 5306 SURESNES, France => 55, rue Descartes
+
+%p169
+16, Chemin Du Lavarin Sud 2935 CAEN, France => CAEN
+95, rue de la Boetie 772 POITIERS, France => POITIERS
+65, boulevard Bryas 2619 COURBEVOIE, France => COURBEVOIE
+4, Chemin Des Bateliers 2663 ANGLET, France => ANGLET
+43, Faubourg Saint Honore 9489 PARIS, France => PARIS
+57, Rue Roussy 6711 ORANGE, France => ORANGE
+33, rue Nationale 5752 PARIS, France => PARIS
+27, avenue de Bouvines 2867 SCHOELCHER, France => SCHOELCHER
+30, Place de la Gare 5036 COLOMIERS, France => COLOMIERS
+55, rue Descartes 5306 SURESNES, France => SURESNES
+
+%p170
+16, Chemin Du Lavarin Sud 2935 CAEN, France => Chemin Du Lavarin Sud
+95, rue de la Boetie 772 POITIERS, France => rue de la Boetie
+65, boulevard Bryas 2619 COURBEVOIE, France => boulevard Bryas
+4, Chemin Des Bateliers 2663 ANGLET, France => Chemin Des Bateliers
+43, Faubourg Saint Honore 9489 PARIS, France => Faubourg Saint Honore
+57, Rue Roussy 6711 ORANGE, France => Rue Roussy
+33, rue Nationale 5752 PARIS, France => rue Nationale
+27, avenue de Bouvines 2867 SCHOELCHER, France => avenue de Bouvines
+30, Place de la Gare 5036 COLOMIERS, France => Place de la Gare
+55, rue Descartes 5306 SURESNES, France => 55, rue Descartes
+
+%p171
+16, Chemin Du Lavarin Sud 2935 CAEN, France => Caen
+95, rue de la Boetie 772 POITIERS, France => Poitiers
+65, boulevard Bryas 2619 COURBEVOIE, France => Courbevoie
+4, Chemin Des Bateliers 2663 ANGLET, France => Anglet
+43, Faubourg Saint Honore 9489 PARIS, France => Paris
+57, Rue Roussy 6711 ORANGE, France => Orange
+33, rue Nationale 5752 PARIS, France => Paris
+27, avenue de Bouvines 2867 SCHOELCHER, France => Schoelcher
+30, Place de la Gare 5036 COLOMIERS, France => Colomiers
+55, rue Descartes 5306 SURESNES, France => Suresnes
+
+%p172
+16, Chemin Du Lavarin Sud 2935 CAEN, France => France
+95, rue de la Boetie 772 POITIERS, France => France
+65, boulevard Bryas 2619 COURBEVOIE, France => France
+4, Chemin Des Bateliers 2663 ANGLET, France => France
+43, Faubourg Saint Honore 9489 PARIS, France => France
+57, Rue Roussy 6711 ORANGE, France => France
+33, rue Nationale 5752 PARIS, France => France
+27, avenue de Bouvines 2867 SCHOELCHER, France => France
+30, Place de la Gare 5036 COLOMIERS, France => France
+55, rue Descartes 5306 SURESNES, France => France
+
+%p173
+Flughafenstrasse 2472 5370 Leonberg, Germany => Germany
+Marseiller Strasse 5542 7619 Schwabsoien, Germany => Germany
+Scharnweberstrasse 7308 9751 Mannheim Friedrichsfeld, Germany => Germany
+Brandenburgische Str 7737 5061 Martinstein, Germany => Germany
+An Der Urania 211 6544 Aebtissinwisch, Germany => Germany
+Paderborner Strasse 6836 5660 Sielenbach, Germany => Germany
+Alsterkrugchaussee 3048 2847 Megesheim, Germany => Germany
+Waldowstr 3442 4532 Dorzbach, Germany => Germany
+Ellmenreichstrasse 7660 5523 Adelsdorf, Germany => Germany
+Ufnau Strasse 1464 2320 Fellheim, Germany => Germany
+
+%p174
+Flughafenstrasse 2472 5370 Leonberg, Germany => Leonberg
+Marseiller Strasse 5542 7619 Schwabsoien, Germany => Schwabsoien
+Scharnweberstrasse 7308 9751 Mannheim Friedrichsfeld, Germany => Mannheim Friedrichsfeld
+Brandenburgische Str 7737 5061 Martinstein, Germany => Martinstein
+An Der Urania 211 6544 Aebtissinwisch, Germany => Aebtissinwisch
+Paderborner Strasse 6836 5660 Sielenbach, Germany => Sielenbach
+Alsterkrugchaussee 3048 2847 Megesheim, Germany => Megesheim
+Waldowstr 3442 4532 Dorzbach, Germany => Dorzbach
+Ellmenreichstrasse 7660 5523 Adelsdorf, Germany => Adelsdorf
+Ufnau Strasse 1464 2320 Fellheim, Germany => Fellheim
+
+%p175
+Flughafenstrasse 2472 5370 Leonberg, Germany => 2472 5370
+Marseiller Strasse 5542 7619 Schwabsoien, Germany => 5542 7619
+Scharnweberstrasse 7308 9751 Mannheim Friedrichsfeld, Germany => 7308 9751
+Brandenburgische Str 7737 5061 Martinstein, Germany => 7737 5061
+An Der Urania 211 6544 Aebtissinwisch, Germany => 211 6544
+Paderborner Strasse 6836 5660 Sielenbach, Germany => 6836 5660
+Alsterkrugchaussee 3048 2847 Megesheim, Germany => 3048 2847
+Waldowstr 3442 4532 Dorzbach, Germany => 3442 4532
+Ellmenreichstrasse 7660 5523 Adelsdorf, Germany => 7660 5523
+Ufnau Strasse 1464 2320 Fellheim, Germany => 1464 2320
+
+%p176
+Flughafenstrasse 2472 5370 Leonberg, Germany => Flughafenstrasse
+Marseiller Strasse 5542 7619 Schwabsoien, Germany => Marseiller Strasse
+Scharnweberstrasse 7308 9751 Mannheim Friedrichsfeld, Germany => Scharnweberstrasse
+Brandenburgische Str 7737 5061 Martinstein, Germany => Brandenburgische Str
+An Der Urania 211 6544 Aebtissinwisch, Germany => An Der Urania
+Paderborner Strasse 6836 5660 Sielenbach, Germany => Paderborner Strasse
+Alsterkrugchaussee 3048 2847 Megesheim, Germany => Alsterkrugchaussee
+Waldowstr 3442 4532 Dorzbach, Germany => Waldowstr
+Ellmenreichstrasse 7660 5523 Adelsdorf, Germany => Ellmenreichstrasse
+Ufnau Strasse 1464 2320 Fellheim, Germany => Ufnau Strasse
+
+%p177
+Via Foria, 9145 71030-Macchia FG, Italy => Via Foria
+Via Duomo, 7754 57024-Donoratico LI, Italy => Via Duomo
+Via Matteo Schilizzi, 1513 16045-Lorsica GE, Italy => Via Matteo Schilizzi
+Corso Garibaldi, 6254 03010-Patrica FR, Italy => Corso Garibaldi
+Via Santa Teresa, 9341 53049-Torrita Di Siena SI, Italy => Via Santa Teresa
+Piazza Trieste e Trento, 1005 12078-Ormea CN, Italy => Piazza Trieste e Trento
+Via Valpantena, 9266 84032-Buonabitacolo SA, Italy => Via Valpantena
+Piazza Giuseppe Garibaldi, 2402 43010-Castelguelfo PR, Italy => Piazza Giuseppe Garibaldi
+Via Bologna, 4069 26849-Santo Stefano Lodigiano LO, Italy => Via Bologna
+Via Cavour, 6561 81030-Lusciano CE, Italy => Via Cavour
+
+%p178
+Via Foria, 9145 71030-Macchia FG, Italy => Italy
+Via Duomo, 7754 57024-Donoratico LI, Italy => Italy
+Via Matteo Schilizzi, 1513 16045-Lorsica GE, Italy => Italy
+Corso Garibaldi, 6254 03010-Patrica FR, Italy => Italy
+Via Santa Teresa, 9341 53049-Torrita Di Siena SI, Italy => Italy
+Piazza Trieste e Trento, 1005 12078-Ormea CN, Italy => Italy
+Via Valpantena, 9266 84032-Buonabitacolo SA, Italy => Italy
+Piazza Giuseppe Garibaldi, 2402 43010-Castelguelfo PR, Italy => Italy
+Via Bologna, 4069 26849-Santo Stefano Lodigiano LO, Italy => Italy
+Via Cavour, 6561 81030-Lusciano CE, Italy => Italy
+
+%p179
+Via Foria, 9145 71030-Macchia FG, Italy => FG
+Via Duomo, 7754 57024-Donoratico LI, Italy => LI
+Via Matteo Schilizzi, 1513 16045-Lorsica GE, Italy => GE
+Corso Garibaldi, 6254 03010-Patrica FR, Italy => FR
+Via Santa Teresa, 9341 53049-Torrita Di Siena SI, Italy => SI
+Piazza Trieste e Trento, 1005 12078-Ormea CN, Italy => CN
+Via Valpantena, 9266 84032-Buonabitacolo SA, Italy => SA
+Piazza Giuseppe Garibaldi, 2402 43010-Castelguelfo PR, Italy => PR
+Via Bologna, 4069 26849-Santo Stefano Lodigiano LO, Italy => LO
+Via Cavour, 6561 81030-Lusciano CE, Italy => CE
+
+%p180
+Via Foria, 9145 71030-Macchia FG, Italy => 9145
+Via Duomo, 7754 57024-Donoratico LI, Italy => 7754
+Via Matteo Schilizzi, 1513 16045-Lorsica GE, Italy => 1513
+Corso Garibaldi, 6254 03010-Patrica FR, Italy => 6254
+Via Santa Teresa, 9341 53049-Torrita Di Siena SI, Italy => 9341
+Piazza Trieste e Trento, 1005 12078-Ormea CN, Italy => 1005
+Via Valpantena, 9266 84032-Buonabitacolo SA, Italy => 9266
+Piazza Giuseppe Garibaldi, 2402 43010-Castelguelfo PR, Italy => 2402
+Via Bologna, 4069 26849-Santo Stefano Lodigiano LO, Italy => 4069
+Via Cavour, 6561 81030-Lusciano CE, Italy => 6561
+
+%p181
+Via Foria, 9145 71030-Macchia FG, Italy => 71030
+Via Duomo, 7754 57024-Donoratico LI, Italy => 57024
+Via Matteo Schilizzi, 1513 16045-Lorsica GE, Italy => 16045
+Corso Garibaldi, 6254 03010-Patrica FR, Italy => 03010
+Via Santa Teresa, 9341 53049-Torrita Di Siena SI, Italy => 53049
+Piazza Trieste e Trento, 1005 12078-Ormea CN, Italy => 12078
+Via Valpantena, 9266 84032-Buonabitacolo SA, Italy => 84032
+Piazza Giuseppe Garibaldi, 2402 43010-Castelguelfo PR, Italy => 43010
+Via Bologna, 4069 26849-Santo Stefano Lodigiano LO, Italy => 26849
+Via Cavour, 6561 81030-Lusciano CE, Italy => 81030
+
+%p182
+26 October,1998 (20 years old) => October
+25 September,1980 (38 years old) => September
+22 July,1983 (35 years old) => July
+30 October,1955 (63 years old) => October
+23 November,1954 (64 years old) => November
+28 December,1958 (60 years old) => December
+21 October,1943 (75 years old) => October
+21 April,1965 (53 years old) => April
+11 July,1947 (71 years old) => July
+2 May,1941 (77 years old) => May
+
+%p183
+26 October,1998 (20 years old) => 1998
+25 September,1980 (38 years old) => 1980
+22 July,1983 (35 years old) => 1983
+30 October,1955 (63 years old) => 1955
+23 November,1954 (64 years old) => 1954
+28 December,1958 (60 years old) => 1958
+21 October,1943 (75 years old) => 1943
+21 April,1965 (53 years old) => 1965
+11 July,1947 (71 years old) => 1947
+2 May,1941 (77 years old) => 1941
+
+%p184
+26 October,1998 (20 years old) => 20
+25 September,1980 (38 years old) => 38
+22 July,1983 (35 years old) => 35
+30 October,1955 (63 years old) => 63
+23 November,1954 (64 years old) => 64
+28 December,1958 (60 years old) => 60
+21 October,1943 (75 years old) => 75
+21 April,1965 (53 years old) => 53
+11 July,1947 (71 years old) => 71
+2 May,1941 (77 years old) => 194
+
+%p185
+26 October,1998 (20 years old) => 26 October,1998
+25 September,1980 (38 years old) => 25 September,1980
+22 July,1983 (35 years old) => 22 July,1983
+30 October,1955 (63 years old) => 30 October,1955
+23 November,1954 (64 years old) => 23 November,1954
+28 December,1958 (60 years old) => 28 December,1958
+21 October,1943 (75 years old) => 21 October,1943
+21 April,1965 (53 years old) => 21 April,1965
+11 July,1947 (71 years old) => 11 July,1947
+11 July,1950 (74 years old) => 11 July,1950
+
+%p186
+Forbandede barndom (2003) => 2003
+Homes (1973) => 1973
+Carnival Lady (1933) => 1933
+Rapturious (2007) => 2007
+Beginning at the End (1915) => 1915
+Common Law (2012) => 2012
+Surf Chronicles (2011) => 2011
+Here and There (2010) => 2010
+Das Gold der Liebe (1983) => 1983
+Lahu Ke Do Rang (1979) => 1979
+
+%p187
+OMA (daughter) => daughter
+TULLIO (daughter) => daughter
+BORNA (daughter) => daughter
+MUNCEL (daughter) => daughter
+AGATHANGELOS (daughter) => daughter
+CONSTANTIA (son) => son
+CONSUELA (son) => son
+CORONA (son) => son
+MERRIDY (son) => son
+BRO (brother) => brother
+
+%p188
+2008 Mazda MAZDA3 => 2008
+2008 Volkswagen Cabriolet => 2008
+2008 Infiniti G35 => 2008
+2004 Citroen Evasion => 2004
+2007 Ford Capri => 2007
+2005 Peugeot Partner => 2005
+2005 Subaru Justy => 2005
+2005 Ford Puma => 2005
+2005 Peugeot Partner => 2005
+2010 Renault Megane => 2010
+
+%p189
+2008 Mazda MAZDA3 => Mazda
+2008 Volkswagen Cabriolet => Volkswagen
+2008 Infiniti G35 => Infiniti
+2004 Citroen Evasion => Citroen
+2007 Ford Capri => Ford
+2005 Peugeot Partner => Peugeot
+2005 Subaru Justy => Subaru
+2005 Ford Puma => Ford
+2005 Peugeot Partner => Peugeot
+2010 Renault Megane => Renault
+
+%p190
+2008 Mazda MAZDA3 => MAZDA3
+2008 Volkswagen Cabriolet => Cabriolet
+2008 Infiniti G35 => G35
+2004 Citroen Evasion => Evasion
+2007 Ford Capri => Capri
+2005 Peugeot Partner => Partner
+2005 Subaru Justy => Justy
+2005 Ford Puma => Puma
+2005 Peugeot Partner => Partner
+2010 Renault Megane => Megane
+
+%p191
+HandbagDealer.co.nz => .co.nz
+InformationAffiliate.si => .si
+UpgradePros.fr => .fr
+HybridDay.com => .com
+BannerVan.co.uk => .co.uk
+ScamVenture.co.nz => .co.nz
+MedicationProvider.at => .at
+InternetFraternity.be => .be
+PopPath.se => .se
+BohemianToo.pl => .pl
+
+%p192
+1Z 152945 78 51391 09 3 => 1Z1529457851391093
+1Z 9D65A9 41 77947 08 3 => 1Z9D65A94177947083
+1Z 511O48 A1 96827 01 7 => 1Z511O48A196827017
+1Z R71911 A1 79947 07 8 => 1ZR71911A179947078
+1Z LT8716 01 90235 08 7 => 1ZLT87160190235087
+1Z 76648Y 33 89112 02 2 => 1Z76648Y3389112022
+1Z 5T616R A1 35796 08 3 => 1Z5T616RA135796083
+1Z 8X5779 15 95844 09 4 => 1Z8X57791595844094
+1Z 92566P 42 09152 09 4 => 1Z92566P4209152094
+1Z 69DW1T 42 96959 06 6 => 1Z69DW1T4296959066
+
+%p193
+1Z 152945 78 51391 09 3 => 11529457851391093
+1Z 9D65A9 41 77947 08 3 => 196594177947083
+1Z 511O48 A1 96827 01 7 => 1511O48196827017
+1Z R71911 A1 79947 07 8 => 171911179947078
+1Z LT8716 01 90235 08 7 => 187160190235087
+1Z 76648Y 33 89112 02 2 => 1766483389112022
+1Z 5T616R A1 35796 08 3 => 15616135796083
+1Z 8X5779 15 95844 09 4 => 1857791595844094
+1Z 92566P 42 09152 09 4 => 1925664209152094
+1Z 69DW1T 42 96959 06 6 => 16914296959066
+
+%p194
+Guy Broeck @guyvdb 14h14 hours ago => guyvdb
+Jakob Foerster @j_foerst 16h16 hours ago => j_foerst
+Sam Harris @SamHarrisOrg 16h16 hours ago => SamHarrisOrg
+Ari Morcos @arimorcos 17h17 hours ago => arimorcos
+Hertford College @HertfordCollege 17h17 hours ago => HertfordCollege
+Sam Henry @g7vdj 20h20 hours ago => g7vdj
+Toby Walsh @TobyWalsh Mar 7 => TobyWalsh
+Denny Britz @dennybritz Mar 7 => dennybritz
+Oxford UCU @OxfordUCU Mar 6 => OxfordUCU
+Karthik Balakrishnan @karthikb351 Mar 2 => karthikb351
+
+%p195
+32.995209(latitude), -96.687759(longitude) => 32.995209 -96.687759
+38.410809(latitude), -82.378563(longitude) => 38.410809 -82.378563
+36.166019(latitude), -115.065933(longitude) => 36.166019 -115.065933
+29.858896(latitude), -95.475952(longitude) => 29.858896 -95.475952
+40.369873(latitude), -74.757622(longitude) => 40.369873 -74.757622
+41.966038(latitude), -87.646660(longitude) => 41.966038 -87.646660
+40.746647(latitude), -73.454643(longitude) => 40.746647 -73.454643
+45.018974(latitude), -93.093773(longitude) => 45.018974 -93.093773
+37.780544(latitude), -122.413055(longitude) => 37.780544 -122.413055
+39.486244(latitude), -87.452957(longitude) => 39.486244 -87.452957
+
+%p196
+32.995209(latitude), -96.687759(longitude) => 32.995209
+38.410809(latitude), -82.378563(longitude) => 38.410809
+36.166019(latitude), -115.065933(longitude) => 36.166019
+29.858896(latitude), -95.475952(longitude) => 29.858896
+40.369873(latitude), -74.757622(longitude) => 40.369873
+41.966038(latitude), -87.646660(longitude) => 41.966038
+40.746647(latitude), -73.454643(longitude) => 40.746647
+45.018974(latitude), -93.093773(longitude) => 45.018974
+37.780544(latitude), -122.413055(longitude) => 37.780544
+39.486244(latitude), -87.452957(longitude) => 39.486244
+
+%p197
+32.995209(latitude), -96.687759(longitude) => -96.687759
+38.410809(latitude), -82.378563(longitude) => -82.378563
+36.166019(latitude), -115.065933(longitude) => -115.065933
+29.858896(latitude), -95.475952(longitude) => -95.475952
+40.369873(latitude), -74.757622(longitude) => -74.757622
+41.966038(latitude), -87.646660(longitude) => -87.646660
+40.746647(latitude), -73.454643(longitude) => -73.454643
+45.018974(latitude), -93.093773(longitude) => -93.093773
+37.780544(latitude), -122.413055(longitude) => -122.413055
+39.486244(latitude), -87.452957(longitude) => -87.452957
+
+%p198
+City, State, Zip: Huntington, West Virginia(WV), 25701 => City: Huntington
+City, State, Zip: Las Vegas, Nevada(NV), 89109 => City: Las Vegas
+City, State, Zip: Houston, Texas(TX), 77587 => City: Houston
+City, State, Zip: Princeton, New Jersey(NJ), 08540 => City: Princeton
+City, State, Zip: Chicago, Illinois(IL), 60606 => City: Chicago
+City, State, Zip: Bethpage, New York(NY), 11714 => City: Bethpage
+City, State, Zip: Conger, Minnesota(MN), 56020 => City: Conger
+City, State, Zip: North St Paul, Minnesota(MN), 55109 => City: North St Paul
+City, State, Zip: San Francisco, California(CA), 94143 => City: San Francisco
+City, State, Zip: Terre Haute, Indiana(IN), 47807 => City: Terre Haute
+
+%p199
+City, State, Zip: Huntington, West Virginia(WV), 25701 => State: West Virginia
+City, State, Zip: Las Vegas, Nevada(NV), 89109 => State: Nevada
+City, State, Zip: Houston, Texas(TX), 77587 => State: Texas
+City, State, Zip: Princeton, New Jersey(NJ), 08540 => State: New Jersey
+City, State, Zip: Chicago, Illinois(IL), 60606 => State: Illinois
+City, State, Zip: Bethpage, New York(NY), 11714 => State: New York
+City, State, Zip: Conger, Minnesota(MN), 56020 => State: Minnesota
+City, State, Zip: North St Paul, Minnesota(MN), 55109 => State: Minnesota
+City, State, Zip: San Francisco, California(CA), 94143 => State: California
+City, State, Zip: Terre Haute, Indiana(IN), 47807 => State: Indiana
+
+%p200
+City, State, Zip: Huntington, West Virginia(WV), 25701 => Zip: 25701
+City, State, Zip: Las Vegas, Nevada(NV), 89109 => Zip: 89109
+City, State, Zip: Houston, Texas(TX), 77587 => Zip: 77587
+City, State, Zip: Princeton, New Jersey(NJ), 08540 => Zip: 08540
+City, State, Zip: Chicago, Illinois(IL), 60606 => Zip: 60606
+City, State, Zip: Bethpage, New York(NY), 11714 => Zip: 11714
+City, State, Zip: Conger, Minnesota(MN), 56020 => Zip: 56020
+City, State, Zip: North St Paul, Minnesota(MN), 55109 => Zip: 55109
+City, State, Zip: San Francisco, California(CA), 94143 => Zip: 94143
+City, State, Zip: Terre Haute, Indiana(IN), 47807 => Zip: 47807
+
+%p201
+Huntington, West Virginia(WV), 25701 => Huntington, West Virginia, 25701
+Las Vegas, Nevada(NV), 89109 => Las Vegas, Nevada, 89109
+Houston, Texas(TX), 77587 => Houston, Texas, 77587
+Princeton, New Jersey(NJ), 08540 => Princeton, New Jersey, 08540
+Chicago, Illinois(IL), 60606 => Chicago, Illinois, 60606
+Bethpage, New York(NY), 11714 => Bethpage, New York, 11714
+Conger, Minnesota(MN), 56020 => Conger, Minnesota, 56020
+North St Paul, Minnesota(MN), 55109 => North St Paul, Minnesota, 55109
+San Francisco, California(CA), 94143 => San Francisco, California, 94143
+Terre Haute, Indiana(IN), 47807 => Terre Haute, Indiana, 47807
+
+%p202
+Company\Code\index.html => Company
+Company\Docs\Spec\specs.doc => Company
+Work\Presentations\talk.ppt => Work
+Work\Records\2010\January.dat => Work
+Proj\Numerical\NBody\nbody.c => Proj
+/usr/local/bin/ncdu.exe => /usr/local/bin/ncdu.exe
+/usr/local/Homebrew/CONTRIBUTING.md => /usr/local/Homebrew/CONTRIBUTING.md
+/usr/local/texlive/2017/doc.html => /usr/local/texlive/2017/doc.html
+/var/db/auth.db => /var/db/auth.db
+/Users/jim/Downloads/pdf.pdf => /Users/jim/Downloads/pdf.pdf
+
+%p203
+1 Journal of Biological Chemistry 54,695 1,652,432 => 1,652,432
+2 Proc. Natl. Acad. Sci. USA (PNAS) 30,396 1,376,541 => 1,376,541
+3 Nature 10,549 1,242,392 => 1,242,392
+4 Science 9,369 1,125,022 => 1,125,022
+5 Physical Review Letters 31,112 884,911 => 884,911
+6 J. American Chemical Society 29,272 881,457 => 881,457
+7 Physical Review B 48,888 612,377 => 612,377
+8 Astrophysical Journal 26,418 581,299 => 581,299
+9 New England Journal of Medicine 3,564 568,698 => 568,698
+10 Applied Physics Letters 36,759 549,224 => 549,224
+
+%p204
+1986 England Nigel Clough => N Clough
+1987 England Des Walker => D Walker
+1988 England Nigel Clough => N Clough
+1989 England Stuart Pearce => S Pearce
+1990 England Des Walker => D Walker
+1991 England Stuart Pearce => S Pearce
+1992 England Des Walker => D Walker
+1993 England Steve Sutton => S Sutton
+1994 Wales David Phillips => D Phillips
+1995 England Steve Stone => S Stone
+1996 England Stuart Pearce => S Pearce
+
+%p205
+Brian Clough 3 Jan 1975 8 May 1993 => B Clough
+Frank Clark 13 May 1993 19 Dec 1996 => F Clark
+Stuart Pearce 20 Dec 1996 8 May 1997 => S Pearce
+Dave Bassett 8 May 1997 5 Jan 1999 => D Bassett
+Micky Adams 5 Jan 1999 11 Jan 1999 => M Adams
+Ron Atkinson 11 Jan 1999 16 May 1999 => R Atkinson
+David Platt 1 Jul 1999 12 Jul 2001 => D Platt
+Paul Hart 12 Jul 2001 7 Feb 2004 => P Hart
+Billy Davies 7 Feb 2013 24 Mar 2014 => B Davies
+Philippe Montanier 27 June 2016 14 Jan 2017 => P Montanier
+
+%p206
+Brian Clough 3 Jan 1975 8 May 1993 => Clough
+Frank Clark 13 May 1993 19 Dec 1996 => Clark
+Stuart Pearce 20 Dec 1996 8 May 1997 => Pearce
+Dave Bassett 8 May 1997 5 Jan 1999 => Bassett
+Micky Adams 5 Jan 1999 11 Jan 1999 => Adams
+Ron Atkinson 11 Jan 1999 16 May 1999 => Atkinson
+David Platt 1 Jul 1999 12 Jul 2001 => Platt
+Paul Hart 12 Jul 2001 7 Feb 2004 => Hart
+Billy Davies 7 Feb 2013 24 Mar 2014 => Davies
+Philippe Montanier 27 June 2016 14 Jan 2017 => Montanier
+
+%p207
+Brian Clough 3 Jan 1975 8 May 1993 => Brian Clough 1975 1994
+Frank Clark 13 May 1993 19 Dec 1996 => Frank Clark 1993 1996
+Stuart Pearce 20 Dec 1996 8 May 1997 => Stuart Pearce 1996 1997
+Dave Bassett 8 May 1997 5 Jan 1999 => Dave Bassett 1997 1999
+Micky Adams 5 Jan 1999 11 Jan 1999 => Micky Adams 1999 1999
+Ron Atkinson 11 Jan 1999 16 May 1999 => Ron Atkinson 1999 1999
+David Platt 1 Jul 1999 12 Jul 2001 => David Platt 1999 2001
+Paul Hart 12 Jul 2001 7 Feb 2004 => Paul Hart 2001 2004
+Billy Davies 7 Feb 2013 24 Mar 2014 => Billy Davies 2013 2014
+Philippe Montanier 27 June 2016 14 Jan 2017 => Philippe Montanier 2016 2017
+
+%p208
+jim.smith@gmail.com => jim.smith@GMAIL.COM
+ruby.clinton@mit.edu => ruby.clinton@MIT.EDU
+jim.james@fas.harvard.edu => jim.james@FAS.HARVARD.EDU
+brent.harold@hotmail.com => brent.harold@HOTMAIL.COM
+matthew.rosman@yahoo.com => matthew.rosman@YAHOO.COM
+alan.turing@cam.ac.uk => alan.turing@CAM.AC.UK
+thom.yorke@radiohead.com => thom.yorke@RADIOHEAD.COM
+lisa.simpson@yahoo.com => lisa.simpson@YAHOO.COM
+bob.smith@gmail.com => bob.smith@GMAIL.COM
+alice.cooper@rock.com => alice.cooper@ROCK.COM
+
+%p209
+4 England DF Michael Mancienne => M Mancienne
+5 Algeria MF Adlene Guedioura => A Guedioura
+7 Scotland MF Liam Bridcutt => L Bridcutt
+8 England MF Chris Cohen => C Cohen
+10 Scotland MF Barrie McKay => B McKay
+11 England MF Ben Osborn => B Osborn
+13 Scotland DF Danny Fox => F Fox
+14 England MF Matty Cash => M Cash
+17 England FW Ben Brereton => B Brereton
+19 Wales FW Sam Jones => S Jones
+
+%p210
+1986 England Nigel Clough => 1986 N Clough
+1987 England Des Walker => 1987 D Walker
+1988 England Nigel Clough => 1988 N Clough
+1989 England Stuart Pearce => 1989 S Pearce
+1990 England Des Walker => 1990 D Walker
+1991 England Stuart Pearce => 1991 S Pearce
+1992 England Des Walker => 1992 D Walker
+1993 England Steve Sutton => 1993 S Sutton
+1994 Wales David Phillips => 1994 D Phillips
+1995 England Steve Stone => 1995 S Stone
+1996 England Stuart Pearce => 1996 S Pearce
+
+%p211
+City, State, Zip: Huntington, West Virginia(WV), 25701 => Huntington, West Virginia, 25701
+City, State, Zip: Las Vegas, Nevada(NV), 89109 => Las Vegas, Nevada, 89109
+City, State, Zip: Houston, Texas(TX), 77587 => Houston, Texas, 77587
+City, State, Zip: Princeton, New Jersey(NJ), 08540 => Princeton, New Jersey, 08540
+City, State, Zip: Chicago, Illinois(IL), 60606 => Chicago, Illinois, 60606
+City, State, Zip: Bethpage, New York(NY), 11714 => Bethpage, New York, 11714
+City, State, Zip: Conger, Minnesota(MN), 56020 => Conger, Minnesota, 56020
+City, State, Zip: North St Paul, Minnesota(MN), 55109 => North St Paul, Minnesota, 55109
+City, State, Zip: San Francisco, California(CA), 94143 => San Francisco, California, 94143
+City, State, Zip: Terre Haute, Indiana(IN), 47807 => Terre Haute, Indiana, 47807
+
+%p212
+City, State, Zip: Huntington, West Virginia(WV), 25701 => West Virginia
+City, State, Zip: Las Vegas, Nevada(NV), 89109 => Nevada
+City, State, Zip: Houston, Texas(TX), 77587 => Texas
+City, State, Zip: Princeton, New Jersey(NJ), 08540 => New Jersey
+City, State, Zip: Chicago, Illinois(IL), 60606 => Illinois
+City, State, Zip: Bethpage, New York(NY), 11714 => New York
+City, State, Zip: Conger, Minnesota(MN), 56020 => Minnesota
+City, State, Zip: North St Paul, Minnesota(MN), 55109 => Minnesota
+City, State, Zip: San Francisco, California(CA), 94143 => California
+City, State, Zip: Terre Haute, Indiana(IN), 47807 => Indiana
+
+%p213
+OMA (daughter) => Oma (daughter)
+TULLIO (daughter) => Tullio (daughter)
+BORNA (daughter) => Borna (daughter)
+MUNCEL (daughter) => Muncel (daughter)
+AGATHANGELOS (daughter) => Agathangelos (daughter)
+CONSTANTIA (son) => Constantia (son)
+CONSUELA (son) => Consuela (son)
+CORONA (son) => Corona (son)
+MERRIDY (son) => Merridy (son)
+JOE (brother) => Joe (brother)
+
+%p214
+OMA (daughter) => Oma (DAUGHTER)
+TULLIO (daughter) => Tullio (DAUGHTER)
+BORNA (daughter) => Borna (DAUGHTER)
+MUNCEL (daughter) => Muncel (DAUGHTER)
+AGATHANGELOS (daughter) => Agathangelos (DAUGHTER)
+CONSTANTIA (son) => Constantia (SON)
+CONSUELA (son) => Consuela (SON)
+CORONA (son) => Corona (SON)
+MERRIDY (son) => Merridy (SON)
+JOE (brother) => Joe (BROTHER)
+
+%p215
+5 Jacques Anquetil (FRA) => FRA
+5 Eddy Merckx (BEL) => BEL
+5 Bernard Hinault (FRA) => FRA
+5 Miguel Indurain (ESP) => ESP
+4 Chris Froome (GBR) => GBR
+3 Philippe Thys (BEL) => BEL
+3 Louison Bobet (FRA) => FRA
+3 Greg LeMond (USA) => USA
+2 Fausto Coppi (ITA) => ITA
+2 Alberto Contador (ESP) => ESP
+
+%p216
+5 Jacques Anquetil (FRA) => J Anquetil
+5 Eddy Merckx (BEL) => E Merckx
+5 Bernard Hinault (FRA) => B Hinault
+5 Miguel Indurain (ESP) => M Indurain
+4 Chris Froome (GBR) => C Froome
+3 Philippe Thys (BEL) => P Thys
+3 Louison Bobet (FRA) => L Bobet
+3 Greg LeMond (USA) => G LeMond
+2 Fausto Coppi (ITA) => F Coppi
+2 Alberto Contador (ESP) => A Contador
+
+%p217
+5 Jacques Anquetil (FRA) => J Anquetil (FRA)
+5 Eddy Merckx (BEL) => E Merckx (BEL)
+5 Bernard Hinault (FRA) => B Hinault (FRA)
+5 Miguel Indurain (ESP) => M Indurain (ESP)
+4 Chris Froome (GBR) => C Froome (GBR)
+3 Philippe Thys (BEL) => P Thys (BEL)
+3 Louison Bobet (FRA) => L Bobet (FRA)
+3 Greg LeMond (USA) => G LeMond (USA)
+2 Fausto Coppi (ITA) => F Coppi (ITA)
+2 Alberto Contador (ESP) => A Contador (ESP)
+
+%p218
+my name is john => John
+my name is bill => Bill
+my name is josh => Josh
+my name is albert => Albert
+my name is richard => Richard
+my name is alice => Alice
+my name is bob => Bob
+my name is charlie => Charlie
+my name is jeanne => Jeanne
+my name is laura => Jeanne
+
+%p219
+IaN RoDny => I Rodny
+miKe dwIGHT => M Dwight
+mary gelman => M Gelman
+MELVIN Julian => M Julian
+StaNleY TRAVis => S Travis
+AliCe HEEr => A Heer
+BoB BAD => B Bad
+CHArlie PEAnuts => C Peanuts
+DAVE daviD => D David
+LAUrA Love => L Love
+
+%p220
+Mr Spongebob Squarepants => Mr S Squarepants
+Mr Patrick Starfish => Mr P Starfish
+Professor Minerva Mcgonagall => Professor M Mcgonagall
+Professor Severus Snape => Professor S Snape
+Dr Ray Stantz => Dr R Stantz
+Ms Hermione Granger => Ms H Granger
+Mr Harry Potter => Mr H Potter
+Dr Bernard Rieux => Dr B Rieux
+Dr Montgomery Montgomery => Dr M Montgomery
+Ms Daenerys Targaryen => Ms D Targaryen
+
+%p221
+"Mark Buehrle", "CWS", "Starting Pitcher" => Mark Buehrle CWS Starting Pitcher
+"Vladimir Guerrero", "ANA", "Outfielder" => Vladimir Guerrero ANA Outfielder
+"Barry Bonds", "SF", "Outfielder" => Barry Bonds SF Outfielder
+"Albert Pujols", "STL", "First Baseman" => Albert Pujols STL First Baseman
+"Alex Rodriguez", "NYY", "Third Baseman" => Alex Rodriguez NYY Third Baseman
+"Scott Podsednik", "CWS", "Outfielder" => Scott Podsednik CWS Outfielder
+"Jeff Mathis", "ANA", "Catcher" => Jeff Mathis ANA Catcher
+"Kenji Johjima", "SEA", "Catcher" => Kenji Johjima SEA Catcher
+"Roberto Novoa", "CHC", "Relief Pitcher" => Roberto Novoa CHC Relief Pitcher
+"Tom Gordon", "PHI", "Relief Pitcher" => Tom Gordon PHI Relief Pitcher
+
+%p222
+<country>norway</country> => Norway
+<country>finland</country> => Finland
+<country>sweden</country> => Sweden
+<country>iceland</country> => Iceland
+<country>denmark</country> => Denmark
+<country>italy</country> => Italy
+<country>france</country> => France
+<country>germany</country> => Germany
+<country>scotland</country> => Scotland
+<country>spain</country> => Spain
+
+%p223
+IMG1898.JPG => img1898.jpg
+IMG1298.JPEG => img1298.jpeg
+DGC1298.JPEG => dgc1298.jpeg
+IMG13414.PNG => img13414.png
+IMG134141.jpg => img134141.jpg
+IMG0972.mov => img0972.mov
+probs.txt => probs.txt
+results.py => results.py
+stack.txt => stack.txt
+test.sh => test.sh
+
+%p224
+26 October,1998 (20 years old) => OCT
+25 September,1980 (38 years old) => SEP
+22 July,1983 (35 years old) => JUL
+30 October,1955 (63 years old) => OCT
+23 November,1954 (64 years old) => NOV
+28 December,1958 (60 years old) => DEC
+21 October,1943 (75 years old) => OCT
+21 April,1965 (53 years old) => APR
+11 July,1947 (71 years old) => JUL
+2 May,1941 (77 years old) => MAY
+
+%p225
+Boxing Day 9am-5pm => 9-5
+Boxing Day 8am-7pm => 8-7
+Boxing Day 9am-6pm => 9-6
+Boxing Day 9am-6pm => 9-6
+Boxing Day 9am-5pm => 9-5
+Boxing Day 8am-5pm => 8-5
+Boxing Day 10am-1pm => 10-1
+Boxing Day 10am-10pm => 10-10
+Boxing Day 9am-10pm => 9-10
+Boxing Day 10am-11pm => 10-11
+
+%p226
+\section{Framework} => Framework
+\section{Introduction} => Introduction
+\section{Experiments} => Experiments
+\section{Related work} => Related work
+\section{implementation} => Implementation
+\section{Conclusions} => Conclusions
+\section{Theory} => Theory
+\section{Background} => Background
+\section{Metagol} => Metagol
+\section{Discussion} => Discussion
+
+%p227
+ba history => History
+ba geography => Geography
+ba mathematics => Mathematics
+ba modern history => Modern History
+ba philosophy, politics and economics => Philosophy, Politics and Economics
+ba computer science => Computer Science
+ba anthropology => Anthropology
+ba media studies => Media Studies
+ba english => English
+ba french => French
+
+%p228
+ba history => BA History
+ba geography => BA Geography
+ba mathematics => BA Mathematics
+ba modern history => BA Modern History
+ba philosophy, politics and economics => BA Philosophy, Politics and Economics
+ba computer science => BA Computer Science => Computer Science
+ba anthropology => Anthropology
+ba media studies => Media Studies
+ba english => English
+ba french => French
+
+%p229
+1 Journal of Biological Chemistry 54,695 1,652,432 => 1 Journal of Biological Chemistry
+2 Proc. Natl. Acad. Sci. USA (PNAS) 30,396 1,376,541 => 2 Proc. Natl. Acad. Sci. USA (PNAS)
+3 Nature 10,549 1,242,392 => 3 Nature
+4 Science 9,369 1,125,022 => 4 Science
+5 Physical Review Letters 31,112 884,911 => 5 Physical Review Letters
+6 J. American Chemical Society 29,272 881,457 => 6 J. American Chemical Society
+7 Physical Review B 48,888 612,377 => 7 Physical Review B
+8 Astrophysical Journal 26,418 581,299 => 8 Astrophysical Journal
+9 New England Journal of Medicine 3,564 568,698 => 9 New England Journal of Medicine
+10 Applied Physics Letters 36,759 549,224 => 10 Applied Physics Letters
+
+%p230
+Andrew Cropper: Learning Efficient Logic Programs. IJCAI 2015: 4359-4360 => A Cropper
+Stephen Muggleton: Inductive Logic Programming. ALT 1990: 42-62 => S Muggleton
+Michael Bain: Experiments in Non-Monotonic Learning. ML 1991: 380-384 => M Bain
+Donald Michie: Heuristic Search. Comput. J. 14(1): 96-102 (1971) => D Michie
+Ivan Bratko: Machine learning in artificial intelligence. AI in Engineering 8(3): 159-164 (1993) => I Bratko
+Luc De Raedt: Panel: Logic and Learnability. EWSL 1991: 344 => L De Raedt
+Claude Sammut: Concept Learning by Experiment. IJCAI 1981: 104-105 => C Sammut
+Katsumi Inoue: Extended Logic Programs with Default Assumptions. ICLP 1991: 490-504 => K Inoue
+Ute Schmid: KI und Informatik. KI 26(1): 1-4 (2012) => U Schmid
+Hendrik Blockeel: Top-Down Induction of First Order Logical Decision Trees. AI Commun. 12(1-2): 119-120 (1999) => H Blockeel
+
+%p231
+34 scotland alex mcleish => Scotland
+35 england rob kelly => England
+36 scotland billy davies => Scotland
+38 england stuart pearce => England
+39 scotland dougie freedman => Scotland
+41 france philippe montanier => France
+42 england gary brazil => England
+43 england mark warburton => England
+45 spain aitor karanka => Spain
+71 england nigel clough => England
+
+%p232
+cairo, egypt: 24.5 million people => Cairo, Egypt
+karachi, pakistan: 24.8 million people => Karachi, Pakistan
+dhaka, bangladesh: 27.4 million people => Dhaka, Bangladesh
+beijing, china: 27.7 million people => Beijing, China
+mumbai, india: 27.8 million people => Mumbai, India
+shanghai, china: 30.8 million people => Shanghai, China
+delhi, india: 36.1 million people => Delhi, India
+tokyo, japan: 37.2 million people => Tokyo, Japan
+new york, usa: 8.26 million people => New York, USA
+london, uk: 8.136 million people => London, UK
+
+%p233
+5520 7165 1105 8274, 04/22, 705, Emina Burkley, MasterCard => E Burkley
+5405 1040 5693 1652, 07/21, 177, Holli Claxton, MasterCard => H Claxton
+5404 3677 2397 0897, 12/20, 710, Fulk Sharkey, MasterCard => F Sharkey
+5127 1743 3998 9394, 01/20, 588, Gilbertha Stamey, MasterCard => G Stamey
+5323 5254 7005 2676, 07/23, 627, Simmona Elzey, MasterCard => G Elzey
+5121 6409 6639 2751, 11/20, 275, Wioleta Sheffer, MasterCard => W Sheffer
+5137 4823 6957 8278, 06/22, 231, Affonso Tousignant, MasterCard => A Tousignant
+5218 4136 7761 5496, 05/20, 505, Devell Blaisdell, MasterCard => D Blaisdell
+5315 7150 6827 2113, 06/21, 130, Sariel Reale, MasterCard => S Reale
+5315 7317 7561 0495, 12/23, 207, Deval O'Donnell, MasterCard => D O'Donnell
+
+%p234
+5520 7165 1105 8274, 04/22, 705, Emina Burkley, MasterCard => 5520 7165 1105 8274
+5405 1040 5693 1652, 07/21, 177, Holli Claxton, MasterCard => 5405 1040 5693 1652
+5404 3677 2397 0897, 12/20, 710, Fulk Sharkey, MasterCard => 5404 3677 2397 0897
+5127 1743 3998 9394, 01/20, 588, Gilbertha Stamey, MasterCard => 5127 1743 3998 9394
+5323 5254 7005 2676, 07/23, 627, Simmona Elzey, MasterCard => 5323 5254 7005 2676
+5121 6409 6639 2751, 11/20, 275, Wioleta Sheffer, MasterCard => 5121 6409 6639 2751
+5137 4823 6957 8278, 06/22, 231, Affonso Tousignant, MasterCard => 5137 4823 6957 8278
+5218 4136 7761 5496, 05/20, 505, Devell Blaisdell, MasterCard => 5218 4136 7761 5496
+5315 7150 6827 2113, 06/21, 130, Sariel Reale, MasterCard => 5315 7150 6827 2113
+5315 7317 7561 0495, 12/23, 207, Deval O'Donnell, MasterCard => 5315 7317 7561 0495
+
+%p235
+5520 7165 1105 8274, 04/22, 705, Emina Burkley, MasterCard => 5520716511058274
+5405 1040 5693 1652, 07/21, 177, Holli Claxton, MasterCard => 5405104056931652
+5404 3677 2397 0897, 12/20, 710, Fulk Sharkey, MasterCard => 5404367723970897
+5127 1743 3998 9394, 01/20, 588, Gilbertha Stamey, MasterCard => 5127174339989394
+5323 5254 7005 2676, 07/23, 627, Simmona Elzey, MasterCard => 5323525470052676
+5121 6409 6639 2751, 11/20, 275, Wioleta Sheffer, MasterCard => 5121640966392751
+5137 4823 6957 8278, 06/22, 231, Affonso Tousignant, MasterCard => 5137482369578278
+5218 4136 7761 5496, 05/20, 505, Devell Blaisdell, MasterCard => 5218413677615496
+5315 7150 6827 2113, 06/21, 130, Sariel Reale, MasterCard => 5315715068272113
+5315 7317 7561 0495, 12/23, 207, Deval O'Donnell, MasterCard => 5315731775610495
+
+%p236
+Sometimes you just can't find anywhere to park #oxfordproblems => #oxfordproblems
+Thanks to Joel Rabinowitz for the shot #snow #BeastFromTheEast => #BeastFromTheEast
+Twilight on a snowy OB quad #BestFromTheEast => #BestFromTheEast
+Hertford looks pretty as a picture in the snow from up here #snow #BeastFromTheEast => #BeastFromTheEast
+Dydd Gwyl Dewi Hapus to all our Welsh alumni and friends #StDavidsDay => #StDavidsDay
+Slow-mo footage of our annual pancake race #pancakeday => #pancakeday
+Twas the night before Christmas - #day24 => #day24
+It was a frosty morning atop the Sheldonian today #advent19 => #advent19
+Things have been getting a little spooky in the Hertford College library today... #Halloween => #Halloween
+This trio of choux nuns found their way into our stunning chapel for Day 4 of #NationalBakingWeek => #NationalBakingWeek
+
+%p237
+Brian Clough 3 Jan 1975 8 May 1993 => Brian Clough
+Frank Clark 13 May 1993 19 Dec 1996 => Frank Clark
+Stuart Pearce 20 Dec 1996 8 May 1997 => Stuart Pearce
+Dave Bassett 8 May 1997 5 Jan 1999 => Dave Bassett
+Micky Adams 5 Jan 1999 11 Jan 1999 => Micky Adams
+Ron Atkinson 11 Jan 1999 16 May 1999 => Ron Atkinson
+David Platt 1 Jul 1999 12 Jul 2001 => David Platt
+Paul Hart 12 Jul 2001 7 Feb 2004 => Paul Hart
+Billy Davies 7 Feb 2013 24 Mar 2014 => Billy Davies
+Philippe Montanier 27 June 2016 14 Jan 2017 => Philippe Montanier
+
+%p238
+OMA (daughter) => Oma
+TULLIO (daughter) => Tullio
+BORNA (daughter) => Borna
+MUNCEL (daughter) => Muncel
+AGATHANGELOS (daughter) => Agathangelos
+CONSTANTIA (son) => Constantia
+CONSUELA (son) => Consuela
+CORONA (son) => Corona
+MERRIDY (son) => Merridy
+JIM (brother) => Jim
+
+%p239
+data-1.pl => data1.pl
+data-2.pl => data2.pl
+data-3.pl => data3.pl
+data-4.pl => data4.pl
+data-5.pl => data5.pl
+data-16.pl => data16.pl
+data-17.pl => data17.pl
+data-18.pl => data18.pl
+data-19.pl => data19.pl
+data-20.pl => data20.pl
+
+%p240
+345K 27 Apr 2015 ourbib15.bib => ourbib15.bib
+125K 9 Mar 11:54 metaprob.pdf => metaprob.pdf
+32K 9 Mar 11:54 metaprob.log => metaprob.log
+13K 31 Aug 2015 ijcai15.sty => ijcai15.sty
+7.4K 7 Mar 11:12 04-imp.tex => 04-imp.tex
+6.9K 28 Apr 2015 fig1-old.tex => fig1-old.tex
+6.6K 9 Mar 09:11 02-related.tex => 02-related.tex
+6.5K 8 Mar 16:55 05-e1.tex => 05-e1.tex
+5.1K 8 Mar 09:15 03-framework.tex => 03-framework.tex
+4.9K 25 Apr 2015 fig-e4.tex => fig-e4.tex
+
+%p241
+345K 27 Apr 2015 ourbib15.bib => 345K
+125K 9 Mar 11:54 metaprob.pdf => 125K
+32K 9 Mar 11:54 metaprob.log => 32K
+13K 31 Aug 2015 ijcai15.sty => 13K
+7.4K 7 Mar 11:12 04-imp.tex => 7.4K
+6.9K 28 Apr 2015 fig1-old.tex => 6.9K
+6.6K 9 Mar 09:11 02-related.tex => 6.6K
+6.5K 8 Mar 16:55 05-e1.tex => 6.5K
+5.1K 8 Mar 09:15 03-framework.tex => 5.1K
+4.9K 25 Apr 2015 fig-e4.tex => 4.9K
+
+%p242
+345K 27 Apr 2015 ourbib15.bib => 345K 27 Apr 2015 ourbib15.bib
+125K 9 Mar 11:54 metaprob.pdf => 125K 9 Mar 11:54 metaprob.pdf
+32K 9 Mar 11:54 metaprob.log => 32K 9 Mar 11:54 metaprob.log
+13K 31 Aug 2015 ijcai15.sty => 13K 31 Aug 2015 ijcai15.sty
+7.4K 7 Mar 11:12 04-imp.tex => 7.4K 7 Mar 11:12 04-imp.tex
+6.9K 28 Apr 2015 fig1-old.tex => 6.9K 28 Apr 2015 fig1-old.tex
+6.6K 9 Mar 09:11 02-related.tex => 6.6K 9 Mar 09:11 02-related.tex
+6.5K 8 Mar 16:55 05-e1.tex => 6.5K 8 Mar 16:55 05-e1.tex
+5.1K 8 Mar 09:15 03-framework.tex => 5.1K 8 Mar 09:15 03-framework.tex
+4.9K 25 Apr 2015 fig-e4.tex => 4.9K 25 Apr 2015 fig-e4.tex
+
+%p243
+345K 27 Apr 2015 ourbib15.bib => 27 Apr
+125K 9 Mar 11:54 metaprob.pdf => 9 Ma
+32K 9 Mar 11:54 metaprob.log => 9 Mar
+13K 31 Aug 2015 ijcai15.sty => 31 Aug
+7.4K 7 Mar 11:12 04-imp.tex => 7 Mar
+6.9K 28 Apr 2015 fig1-old.tex => 28 Apr
+6.6K 9 Mar 09:11 02-related.tex => 9 Mar
+6.5K 8 Mar 16:55 05-e1.tex => 8 Mar
+5.1K 8 Mar 09:15 03-framework.tex => 8 Mar
+4.9K 25 Apr 2015 fig-e4.tex => 25 Apr
+
+%p244
+345K 27 Apr 2015 ourbib15.bib => 345K ourbib15.bib
+125K 9 Mar 11:54 metaprob.pdf =>125K metaprob.pdf
+32K 9 Mar 11:54 metaprob.log => 32K metaprob.log
+13K 31 Aug 2015 ijcai15.sty => 13K ijcai15.sty
+7.4K 7 Mar 11:12 04-imp.tex => 7.4K 04-imp.tex
+6.9K 28 Apr 2015 fig1-old.tex => 6.9K fig1-old.tex
+6.6K 9 Mar 09:11 02-related.tex => 6.6K 02-related.tex
+6.5K 8 Mar 16:55 05-e1.tex => 6.5K 05-e1.tex
+5.1K 8 Mar 09:15 03-framework.tex => 5.1K 03-framework.tex
+4.9K 25 Apr 2015 fig-e4.tex => 4.9K fig-e4.tex
+
+%p245
+352B 10 Nov 10:58 theses => 10 Nov 10:58
+288B 10 Nov 10:59 writing => 10 Nov 10:59
+256B 13 Nov 19:16 logic => 13 Nov 19:16
+192B 19 Dec 10:57 logic-programming => 19 Dec 10:57
+160B 10 Nov 11:10 computer-science => 10 Nov 11:10
+160B 28 Jan 13:18 ilp => 28 Jan 13:18
+160B 10 Nov 10:58 maths => 10 Nov 10:58
+96B 10 Nov 10:58 ir => 10 Nov 10:58
+96B 10 Nov 10:58 machine-learning => 10 Nov 10:58
+96B 10 Nov 11:00 programming => 10 Nov 11:00
+
+%p246
+l,o,n,d,o,n => london
+m,a,n,c,h,e,s,t,e,r => manchester
+n,o,t,t,i,n,g,h,a,m => nottingham
+d,e,r,b,y => derby
+p,a,r,i,s => paris
+t,o,k,y,o => tokyo
+o,x,f,o,r,d => oxford
+c,a,m,b,r,i,d,g,e => cambridge
+b,o,s,t,o,n => boston
+y,o,r,k => york
+
+%p247
+p..a..r..i..s => paris
+t..o..k..y..o => tokyo
+o..x..f..o..r..d => oxford
+d..e..r..b..y => derby
+c..a..m..b..r..i..d..g..e => cambridge
+y..o..r..k => york
+b..o..s..t..o..n => boston
+l..o..n..d..o..n => london
+n..o..t..t..i..n..g..h..a..m => nottingham
+b..o..s..t..o..n => boston
+
+%p248
+p..a..r..i..s => paris
+t..o..k..y..o => tokyo
+o....x....f....o....r....d => oxford
+d.....e.....r.....b.....y => derby
+c....a....m....b....r....i....d....g....e => cambridge
+y......o......r......k => york
+b......o......s......t......o......n => boston
+l.o.n.d.o.n => london
+n...o...t...t...i...n...g...h...a...m => nottingham
+b.....o.....s.....t.....o.....n => boston
+
+%p249
+$22.06($16.97 / kg) => 22.06
+$43.75($62.50 / l) => 43.75
+$46.18($65.97 / l) => 46.18
+$11.71 => 11.71
+$54.30 => 54.30
+$215.84 => 215.84
+$15.92($0.84 / 100 ml) => 15.92
+$29.99 => 29.99
+$37.65($53.79 / l) => 37.65
+$40.15($6.69 / 75 cl) => 40.15
+
+%p250
+JIM.SMITH@GMAIL.COM => Jim Smith
+RUBY.CLINTON@MIT.EDU => Ruby Clinton
+JIM.JAMES@FAS.HARVARD.EDU => Jim James
+BRENT.HAROLD@HOTMAIL.COM => Brent Harold
+MATTHEW.ROSMAN@YAHOO.COM => Matthew Rosman
+ALAN.TURING@CAM.AC.UK => Alan Turing
+THOM.YORKE@RADIOHEAD.COM => Thom Yorke
+LISA.SIMPSON@YAHOO.COM => Lisa Simpson
+BOB.SMITH@GMAIL.COM => Bob Smith
+ALICE.COOPER@ROCK.COM => Alice Cooper
+
+%p251
+JIM.SMITH@GMAIL.COM => gmail.com
+RUBY.CLINTON@MIT.EDU => mit.edu
+JIM.JAMES@FAS.HARVARD.EDU => fas.harvard.edu
+BRENT.HAROLD@HOTMAIL.COM => hotmail.com
+MATTHEW.ROSMAN@YAHOO.COM => yahoo.com
+ALAN.TURING@CAM.AC.UK => cam.ac.uk
+THOM.YORKE@RADIOHEAD.COM => radiohead.com
+LISA.SIMPSON@YAHOO.COM => yahoo.com
+BOB.SMITH@GMAIL.COM => gmail.com
+ALICE.COOPER@ROCK.COM => rock.com
+
+%p252
+DarkSlateGray3 #79cdcd => #79cdcd
+OrangeRed1 #ff4500 => #ff4500
+DodgerBlue4 #104e8b => #104e8b
+LightBlue1 #bfefff => #bfefff
+brown4 #8b2323 => #8b2323
+PaleGreen2 #90ee90 => #90ee90
+SlateGray4 #6c7b8b => #6c7b8b
+DarkOliveGreen #556b2f => #556b2f
+AntiqueWhite2 #eedfcc => #eedfcc
+chocolate3 #cd661d => #cd661d
+
+%p253
+Manchester United v Liverpool, 12:30 GMT (BBC Radio 5 live) => Manchester United v Liverpool
+Newcastle v Southampton, 15:00 GMT, (BBC Radio 5 live) => Newcastle v Southampton
+West Ham United v Burnley, 15:00 GMT (BBC Radio London) => West Ham United v Burnley
+Chelsea v Crystal Palace, 17:30 GMT (BBC Radio London) => Chelsea v Crystal Palace
+AFC Fylde v Aldershot Town, 15:00 GMT (BBC Surrey) => AFC Fylde v Aldershot Town
+Gateshead v Maidenhead United, 15:00 GMT (BBC Radio Berkshire) => Gateshead v Maidenhead United
+Hartlepool United v Boreham Wood, 15:00 GMT (BBC Tees) => Hartlepool United v Boreham Wood
+Macclesfield Town v Barrow, 15:00 GMT (BBC Radio Cumbria) => Macclesfield Town v Barrow
+Maidstone United v Torquay United, 15:00 GMT (BBC Radio Devon) => Maidstone United v Torquay United
+Woking v FC Halifax Town, 15:00 GMT (BBC Surrey) => Woking v FC Halifax Town
+
+%p254
+Manchester United v Liverpool, 12:30 GMT (BBC Radio 5 live) => 12:30
+Newcastle v Southampton, 15:00 GMT, (BBC Radio 5 live) => 15:00
+West Ham United v Burnley, 15:00 GMT (BBC Radio London) => 15:00
+Chelsea v Crystal Palace, 17:30 GMT (BBC Radio London) => 17:30
+AFC Fylde v Aldershot Town, 15:00 GMT (BBC Surrey) => 15:00
+Gateshead v Maidenhead United, 15:00 GMT (BBC Radio Berkshire) => 15:00
+Hartlepool United v Boreham Wood, 15:00 GMT (BBC Tees) => 15:00
+Macclesfield Town v Barrow, 15:00 GMT (BBC Radio Cumbria) => 15:00
+Maidstone United v Torquay United, 15:00 GMT (BBC Radio Devon) => 15:00
+Woking v FC Halifax Town, 15:00 GMT (BBC Surrey) => 15:00 GMT
+
+%p255
+Manchester United v Liverpool, 12:30 GMT (BBC Radio 5 live) => BBC Radio 5 live
+Newcastle v Southampton, 15:00 GMT, (BBC Radio 5 live) => BBC Radio 5 live
+West Ham United v Burnley, 15:00 GMT (BBC Radio London) => BBC Radio London
+Chelsea v Crystal Palace, 17:30 GMT (BBC Radio London) => BBC Radio London
+AFC Fylde v Aldershot Town, 15:00 GMT (BBC Surrey) => BBC Surrey
+Gateshead v Maidenhead United, 15:00 GMT (BBC Radio Berkshire) => BBC Radio Berkshire
+Hartlepool United v Boreham Wood, 15:00 GMT (BBC Tees) => BBC Tees
+Macclesfield Town v Barrow, 15:00 GMT (BBC Radio Cumbria) => BBC Radio Cumbria
+Maidstone United v Torquay United, 15:00 GMT (BBC Radio Devon) => BBC Radio Devon
+Woking v FC Halifax Town, 15:00 GMT (BBC Surrey) => BBC Surrey
+
+%p256
+England Wembley Stadium, London 7 1963, 1968, 1971, 1978, 1992, 2011, 2013 => Wembley Stadium
+Spain Santiago Bernabeu Stadium, Madrid 4 1957, 1969, 1980, 2010 => Santiago Bernabeu
+Belgium King Baudouin Stadium, Brussels 4 1958, 1966, 1974, 1985 => King Baudouin Stadium
+Austria Ernst-Happel-Stadion, Vienna 4 1964, 1987, 1990, 1995 => Ernst-Happel-Stadion
+Italy San Siro, Milan 4 1965, 1970, 2001, 2016 => San Siro
+Italy Stadio Olimpico, Rome 4 1977, 1984, 1996, 2009 => Stadio Olimpico
+France Parc des Princes, Paris 3 1956, 1975, 1981 => Parc des Princes
+Scotland Hampden Park, Glasgow 3 1960, 1976, 2002 => Hampden Park
+Germany Olympiastadion, Munich 3 1979, 1993, 1997 => Olympiastadion
+Greece Olympic Stadium, Athens 3 1983, 1994, 2007 => Olympic Stadium
+
+%p257
+England Wembley Stadium, London 7 1963, 1968, 1971, 1978, 1992, 2011, 2013 => London
+Spain Santiago Bernabeu Stadium, Madrid 4 1957, 1969, 1980, 2010 => Madrid
+Belgium King Baudouin Stadium, Brussels 4 1958, 1966, 1974, 1985 => Brussels
+Austria Ernst-Happel-Stadion, Vienna 4 1964, 1987, 1990, 1995 => Vienna
+Italy San Siro, Milan 4 1965, 1970, 2001, 2016 => Milan
+Italy Stadio Olimpico, Rome 4 1977, 1984, 1996, 2009 => Rome
+France Parc des Princes, Paris 3 1956, 1975, 1981 => Paris
+Scotland Hampden Park, Glasgow 3 1960, 1976, 2002 => Glasgow
+Germany Olympiastadion, Munich 3 1979, 1993, 1997 => Munich
+Greece Olympic Stadium, Athens 3 1983, 1994, 2007 => Athens
+
+%p258
+England Wembley Stadium, London 7 1963, 1968, 1971, 1978, 1992, 2011, 2013 => Wembley Stadium, 7
+Spain Santiago Bernabeu Stadium, Madrid 4 1957, 1969, 1980, 2010 => Santiago Bernabeu, 4
+Belgium King Baudouin Stadium, Brussels 4 1958, 1966, 1974, 1985 => King Baudouin Stadium, 4
+Austria Ernst-Happel-Stadion, Vienna 4 1964, 1987, 1990, 1995 => Ernst-Happel-Stadion, 4
+Italy San Siro, Milan 4 1965, 1970, 2001, 2016 => San Siro, 4
+Italy Stadio Olimpico, Rome 4 1977, 1984, 1996, 2009 => Stadio Olimpico, 4
+France Parc des Princes, Paris 3 1956, 1975, 1981 => Parc des Princes, 3
+Scotland Hampden Park, Glasgow 3 1960, 1976, 2002 => Hampden Park, 3
+Germany Olympiastadion, Munich 3 1979, 1993, 1997 => Olympiastadion, 3
+Greece Olympic Stadium, Athens 3 1983, 1994, 2007 => Olympic Stadium, 3
+
+%p259
+England Wembley Stadium, London 7 1963, 1968, 1971, 1978, 1992, 2011, 2013 => 1963, 1968, 1971, 1978, 1992, 2011, 2013
+Spain Santiago Bernabeu Stadium, Madrid 4 1957, 1969, 1980, 2010 => 1957, 1969, 1980, 2010
+Belgium King Baudouin Stadium, Brussels 4 1958, 1966, 1974, 1985 => 1958, 1966, 1974, 1985
+Austria Ernst-Happel-Stadion, Vienna 4 1964, 1987, 1990, 1995 => 1964, 1987, 1990, 1995
+Italy San Siro, Milan 4 1965, 1970, 2001, 2016 => 1965, 1970, 2001, 2016
+Italy Stadio Olimpico, Rome 4 1977, 1984, 1996, 2009 => 1977, 1984, 1996, 2009
+France Parc des Princes, Paris 3 1956, 1975, 1981 => 1956, 1975, 1981
+Scotland Hampden Park, Glasgow 3 1960, 1976, 2002 => 1960, 1976, 2002
+Germany Olympiastadion, Munich 3 1979, 1993, 1997 => 1979, 1993, 1997
+Greece Olympic Stadium, Athens 3 1983, 1994, 2007 => 1983, 1994, 2007
+
+%p260
+England Wembley Stadium, London 7 1963, 1968, 1971, 1978, 1992, 2011, 2013 => Wembley Stadium, London
+Spain Santiago Bernabeu Stadium, Madrid 4 1957, 1969, 1980, 2010 => Santiago Bernabeu Stadium, Madrid
+Belgium King Baudouin Stadium, Brussels 4 1958, 1966, 1974, 1985 => King Baudouin Stadium, Brussels
+Austria Ernst-Happel-Stadion, Vienna 4 1964, 1987, 1990, 1995 => Austria Ernst-Happel-Stadion, Vienna
+Italy San Siro, Milan 4 1965, 1970, 2001, 2016 => San Siro, Milan
+Italy Stadio Olimpico, Rome 4 1977, 1984, 1996, 2009 => Stadio Olimpico, Rome
+France Parc des Princes, Paris 3 1956, 1975, 1981 => Parc des Princes, Paris
+Scotland Hampden Park, Glasgow 3 1960, 1976, 2002 => Hampden Park, Glasgow
+Germany Olympiastadion, Munich 3 1979, 1993, 1997 => Olympiastadion, Munich
+Greece Olympic Stadium, Athens 3 1983, 1994, 2007 => Olympic Stadium, Athens
+
+%p261
+1180 1240 Malmesbury Abbey Tower Malmesbury, UK 131.3 m => 131.3
+1240 1311 Tower of Old St Paul's Cathedral London, UK 150 m => 150
+1311 1549 Tower of Lincoln Cathedral Lincoln, UK 159.7 m => 159.7
+1549 1647 Tower of St Mary's church Stralsund, Germany 151 m => 151
+1647 1874 Tower of Strasbourg Cathedral Strasbourg, France 142 m => 142
+1874 1876 Tower of St. Nikolai Hamburg, Germany 147 m => 147
+1876 1880 Tower of Rouen Cathedral Rouen, France 151 m => 151
+1880 1889 Tower of Cologne Cathedral Cologne, Germany 157.38 m => 157.38
+1889 1958 Eiffel Tower Paris, France 312.3 m => 312.3
+1958 1967 Tokyo Tower Tokyo, Japan 332.6 m => 332.6
+1967 1975 Ostankino Tower Moscow, Russia 540.1 m => 540.1
+1975 2010 CN Tower Toronto, Ontario, Canada 553.33 m => 553.33
+2010 2011 Canton Tower Guangzhou, China 600 m => 600
+
+%p262
+1 Clement Attlee 1945-1951 Labour => Clement Attlee Labour
+2 Margaret Thatcher 1979-1990 Conservative => Margaret Thatcher Conservative
+3 Tony Blair 1997-2007 Labour => Tony Blair Labour
+4 Harold Macmillan 1957-1963 Conservative => Harold Macmillan Conservative
+5 Harold Wilson 1964-1970, 1974-1976 Labour => Harold Wilson Labour
+6 Sir Winston Churchill (1940-1945), 1951-1955 Conservative => Sir Winston Churchill Conservative
+7 James Callaghan 1976-1979 Labour => James Callaghan Labour
+8 John Major 1990-1997 Conservative => John Major Conservative
+9 Edward Heath 1970-1974 Conservative => Edward Heath Conservative
+10 Gordon Brown 2007-2010 Labour => Gordon Brown Labour
+
+%p263
+1 Clement Attlee 1945-1951 Labour => Clement Attlee
+2 Margaret Thatcher 1979-1990 Conservative => Margaret Thatcher
+3 Tony Blair 1997-2007 Labour => Tony Blair
+4 Harold Macmillan 1957-1963 Conservative => Harold Macmillan
+5 Harold Wilson 1964-1970, 1974-1976 Labour => Harold Wilson
+6 Sir Winston Churchill (1940-1945), 1951-1955 Conservative => Sir Winston Churchill
+7 James Callaghan 1976-1979 Labour => James Callaghan
+8 John Major 1990-1997 Conservative => John Major
+9 Edward Heath 1970-1974 Conservative => Edward Heath
+10 Gordon Brown 2007-2010 Labour => Gordon Brown
+
+%p264
+ILP 2016, London, UK, September 4-6, 2016 => ILP 2016, UK
+ILP 2015, Kyoto, Japan, August 20-22, 2015 => ILP 2015, Japan
+ILP 2014, Nancy, France, September 14-16, 2014 => ILP 2014, France
+ILP 2013, Rio de Janeiro, Brazil, August 28-30, 2013 => ILP 2013, Brazil
+ILP 2012, Dubrovnik, Croatia, September 17-19, 2012 => ILP 2012, Croatia
+ILP 2011, Windsor Great Park, UK, July 31 - August 3, 2011 => ILP 2011, UK
+ILP 2010, Florence, Italy, June 27-30, 2010 => ILP 2010, Italy
+ILP 2009, Leuven, Belgium, July 02-04, 2009 => ILP 2009, Belgium
+ILP 2008, Prague, Czech Republic, September 10-12, 2008 => ILP 2008, Czech Republic
+ILP 2007, Corvallis, OR, USA, June 19-21, 2007 => ILP 2007, USA
+
+%p265
+ILP 2016, London, UK, September 4-6, 2016 => September 4-6, 2016
+ILP 2015, Kyoto, Japan, August 20-22, 2015 => August 20-22, 2015
+ILP 2014, Nancy, France, September 14-16, 2014 => September 14-16, 2014
+ILP 2013, Rio de Janeiro, Brazil, August 28-30, 2013 => August 28-30, 2013
+ILP 2012, Dubrovnik, Croatia, September 17-19, 2012 => September 17-19, 2012
+ILP 2011, Windsor Great Park, UK, July 31 - August 3, 2011 => July 31 - August 3, 2011
+ILP 2010, Florence, Italy, June 27-30, 2010 => June 27-30, 2010
+ILP 2009, Leuven, Belgium, July 02-04, 2009 => July 02-04, 2009
+ILP 2008, Prague, Czech Republic, September 10-12, 2008 => September 10-12, 2008
+ILP 2007, Corvallis, OR, USA, June 19-21, 2007 => June 19-21, 2007
+
+%p266
+<h2 id="2017">26. IJCAI 2017: Melbourne, VIC, Australia</h2> => IJCAI 2017, Australia
+<h2 id="2016">25. IJCAI 2016: New York, NY, USA</h2> => IJCAI 2016, USA
+<h2 id="2015">24. IJCAI 2015: Buenos Aires, Argentina</h2> => IJCAI 2015, Argentina
+<h2 id="2013">23. IJCAI 2013: Beijing, China</h2> => IJCAI 2013, China
+<h2 id="2011">22. IJCAI 2011: Barcelona, Catalonia, Spain</h2> => IJCAI 2011, Spain
+<h2 id="2009">21. IJCAI 2009: Pasadena, California, USA</h2> => IJCAI 2009, USA
+<h2 id="2007">20. IJCAI 2007: Hyderabad, India</h2> => IJCAI 2007, India
+<h2 id="2005">19. IJCAI 2005: Edinburgh, Scotland, UK</h2> => IJCAI 2005, UK
+<h2 id="2003">18. IJCAI 2003: Acapulco, Mexico</h2> => IJCAI 2003, Mexico
+<h2 id="2001">17. IJCAI 2001: Seattle, USA</h2> => IJCAI 2001, USA
+
+%p267
+About 5,320,000 results (0.63 seconds) => 5,320,000 0.63
+About 37,400,000 results (0.52 seconds) => 37,400,000 0.52
+About 6,240,000 results (0.65 seconds) => 6,240,000 0.65
+About 1,620,000 results (0.66 seconds) => 1,620,000 0.66
+About 8,630,000 results (0.50 seconds) => 8,630,000 0.50
+About 31,900,000 results (0.70 seconds) => 31,900,000 0.70
+About 520,000 results (0.59 seconds) => 520,000 0.59
+About 1,390,000 results (0.70 seconds) => 1,390,000 0.70
+About 5,090,000 results (0.90 seconds) => 5,090,000 0.90
+About 299,000 results (0.57 seconds) => 299,000 0.57
+
+%p268
+2007 Spain Alberto Contador => 2007 A Contador
+2008 Spain Carlos Sastre => 2008 C Sastre
+2009 Spain Alberto Contador => 2009 A Contador
+2010 Luxembourg Andy Schleck => 2010 A Schleck
+2011 Australia Cadel Evans => 2011 C Evans
+2012 Great Britain Bradley Wiggins => 2012 B Wiggins
+2013 Great Britain Chris Froome => 2013 C Froome
+2014 Italy Vincenzo Nibali => 2014 V Nibali
+2015 Great Britain Chris Froome => 2015 C Froome
+2016 Great Britain Chris Froome => 2016 C Froome
+2017 Great Britain Chris Froome => 2017 C Froome
+
+%p269
+3,496 km (2,172 mi) 87h 34' 47" => 2,172
+3,404 km (2,115 mi) 83h 56' 20" => 2,115
+3,660 km (2,274 mi) 89h 59' 06" => 2,274
+3,360 km (2,088 mi) 84h 46' 14" => 2,088
+3,529 km (2,193 mi) 89h 04' 48" => 2,193
+3,540 km (2,200 mi) 86h 20' 55" => 2,200
+3,430 km (2,130 mi) 86h 12' 22" => 2,130
+3,459 km (2,149 mi) 85h 48' 35" => 2,149
+3,559 km (2,211 mi) 87h 52' 52" => 2,211
+3,570 km (2,220 mi) 91h 00' 26" => 2,220
+
+%p270
+/Company/Code/index.html => html
+/Company/Docs/Spec/specs.doc => doc
+/Work/Presentations/talk.ppt => ppt
+/Work/Records/2010/January.dat => dat
+/Proj/Numerical/Simulators/NBody/nbody.c => c
+/usr/local/bin/ncdu.exe => exe
+/usr/local/Homebrew/CONTRIBUTING.md => md
+/usr/local/texlive/2017/doc.html => html
+/var/db/auth.db => db
+/Users/jim/Downloads/pdf.pdf => pdf
+
+%p271
+2007 spain alberto contador => 2007 Contador
+2008 spain carlos sastre => 2008 Sastre
+2009 spain alberto contador => 2009 Contador
+2010 luxembourg andy schleck => 2010 Schleck
+2011 australia cadel evans => 2011 Evans
+2012 great britain bradley wiggins => 2012 Wiggins
+2013 great britain chris froome => 2013 Froome
+2014 italy vincenzo nibali => 2014 Nibali
+2015 great britain chris froome => 2015 Froome
+2016 great britain chris froome => 2016 Froome
+2017 great britain chris froome => 2017 Froome
+
+%p272
+2007 spain alberto contador => Spain
+2008 spain carlos sastre => Spain
+2009 spain alberto contador => Spain
+2010 luxembourg andy schleck => Luxembourg
+2011 australia cadel evans => 2011 Australia
+2012 great britain bradley wiggins => Great Britain
+2013 great britain chris froome => Great Britain
+2014 italy vincenzo nibali => Italy
+2015 great britain chris froome => Great Britain
+2016 great britain chris froome => Great Britain
+2017 great britain chris froome => Great Britain
+
+%p273
+jim.smith@gmail.com => @jimsmith
+ruby.clinton@mit.edu => @rubyclinton
+jim.james@fas.harvard.edu => @jimjames
+brent.harold@hotmail.com => @brentharold
+matthew.rosman@yahoo.com => @matthewrosman
+alan.turing@cam.ac.uk => @alanturing
+thom.yorke@radiohead.com => @thomyorke
+lisa.simpson@yahoo.com => @lisasimpson
+bob.smith@gmail.com => @bobsmith
+alice.cooper@rock.com => @alicecooper
+
+%p274
+Player Piano (1952) => Player Piano, 1952
+The Sirens of Titan (1959) => The Sirens of Titan, 1959
+Mother Night (1961) => Mother Night, 1961
+Cat's Cradle (1963) => Cat's Cradle, 1963
+Slaughterhouse-Five (1969) => Slaughterhouse-Five, 1969
+Breakfast of Champions (1973) => Breakfast of Champions, 1973
+Slapstick (1976) => Slapstick, 1976
+Jailbird (1979) => Jailbird, 1979
+Deadeye Dick (1982) => Deadeye Dick, 1982
+Galapagos (1985) => Galapagos, 1985
+
+%p275
+Alice is 39 and weights 56kg => 39, 56kg
+Bob is 65 and weights 65kg => 65, 65kg
+Charlie is 12 and weights 48kg => 12, 48kg
+David is 22 and weights 72kg => 22, 72kg
+Edith is 82 and weights 49kg => 82, 49kg
+
+%p276
+4 England DF Michael Mancienne => 4, Mancienne
+5 Algeria MF Adlene Guedioura => 5, Guedioura
+7 Scotland MF Liam Bridcutt => 7, Bridcutt
+8 England MF Chris Cohen => 8, Cohen
+10 Scotland MF Barrie McKay => 10, McKay
+11 England MF Ben Osborn => 11, Osborn
+13 Scotland DF Danny Fox => 13, Fox
+14 England MF Matty Cash => 14, Cash
+17 England FW Ben Brereton => 17, Brereton
+19 Wales FW Sam Jones => 19, Jones
+
+%p277
+3,496 km (2,172 mi) 87h 34' 47" => 3,496, 2,172
+3,404 km (2,115 mi) 83h 56' 20" => 3,404, 2,115
+3,660 km (2,274 mi) 89h 59' 06" => 3,660, 2,274
+3,360 km (2,088 mi) 84h 46' 14" => 3,360, 2,088
+3,529 km (2,193 mi) 89h 04' 48" => 3,529, 2,193
+3,540 km (2,200 mi) 86h 20' 55" => 3,540, 2,200
+3,430 km (2,130 mi) 86h 12' 22" => 3,430, 2,130
+3,459 km (2,149 mi) 85h 48' 35" => 3,459, 2,149
+3,559 km (2,211 mi) 87h 52' 52" => 3,559, 2,211
+3,570 km (2,220 mi) 91h 00' 26" => 3,570, 2,220
+
+%p278
+26 October,1998 (20 years old) => OCT, 1998
+25 September,1980 (38 years old) => SEP, 1980
+22 July,1983 (35 years old) => JUL, 1983
+30 October,1955 (63 years old) => OCT, 1955
+23 November,1954 (64 years old) => NOV, 1954
+28 December,1958 (60 years old) => DEC, 1958
+21 October,1943 (75 years old) => OCT, 1943
+21 April,1965 (53 years old) => APR, 1965
+11 July,1947 (71 years old) => JUL, 1947
+
+%p279
+32.995209(latitude), -96.687759(longitude) => 32.995209, -96.687759
+38.410809(latitude), -82.378563(longitude) => 38.410809, -82.378563
+36.166019(latitude), -115.065933(longitude) => 36.166019, -115.065933
+29.858896(latitude), -95.475952(longitude) => 29.858896, -95.475952
+40.369873(latitude), -74.757622(longitude) => 40.369873, -74.757622
+41.966038(latitude), -87.646660(longitude) => 41.966038, -87.646660
+40.746647(latitude), -73.454643(longitude) => 40.746647, -73.454643
+45.018974(latitude), -93.093773(longitude) => 45.018974, -93.093773
+37.780544(latitude), -122.413055(longitude) => 37.780544, -122.413055
+39.486244(latitude), -87.452957(longitude) => 39.486244, -87.452957
+
+%p280
+170cTY2nq0v2wPI2R0-9t3LjP457ihb => -9t3LjP457ihb
+5r2lw9O71G3r90jh-p1971FP656fjI => -p1971FP656fjI
+21973P6Ur426379X6I-924p6353W95Yl3aW05 => -924p6353W95Yl3aW05
+Yar70258v92gT25x-k509P8qH4JV => -k509P8qH4JV
+0s36X91SSK470ND4U7-18Y6x85P5xIY => -18Y6x85P5xIY
+397f25330KQ-laN50KJ16Yc0d => -laN50KJ16Yc0d
+u-XP8c1Iun7 => -XP8c1Iun7
+541441-34V3g4hYx26 => -34V3g4hYx26
+9l5l2NtcA8b3UIme6h-Y4i => -Y4i
+4df0lgc4934RK17A-pX52jNW17msH => -pX52jNW17msH
+
+
+
+%p281
+dKb-71749N-M => -71749N-M
+Q87039-Z4989h8H-mO3I => -Z4989h8H-mO3I
+J8j5-OBB01x-20p60T => -OBB01x-20p60T
+3C-G55CuJ9-808 => -G55CuJ9-808
+832n433-J-Ub51UALM0 => -J-Ub51UALM0
+2030p-q10-06990q99 => -q10-06990q99
+q6h451-26Ercy529-Ynx6yXpj => -26Ercy529-Ynx6yXpj
+5OVC6933z-99-7HD5R6H78 => -99-7HD5R6H78
+Y71L9405-08SEcZ07-r => -08SEcZ07-r
+O84UhplKv-2BJ-D => -2BJ-D
+
+%p282
+BnLjsxJH-EcLe-fAMZ => bnljsxjh-ecle-famz
+cqhss-KmDEOMWvi-qjAbAAeYA => cqhss-kmdeomwvi-qjabaaeya
+YTnWfSCC-YCshaWpm-sbFu => ytnwfscc-ycshawpm-sbfu
+H-dLtRQaoJ-zxOHOd => h-dltrqaoj-zxohod
+A-ndgjDCK-d => a-ndgjdck-d
+bDFJKAiKg-kQejU-kGrvUJ => bdfjkaikg-kqeju-kgrvuj
+iVmmds-VZxouO-sbF => ivmmds-vzxouo-sbf
+lSgUz-KPEApN-YINGMhgKY => lsguz-kpeapn-yingmhgky
+BKnpMD-XV-U => bknpmd-xv-u
+pj-vsLMRaYd-ZIuwVEznC => pj-vslmrayd-ziuwveznc
+
+%p283
+yD => yd
+jTN => jtn
+vuudr => vuudr
+jfcrCNNOMGimotpRA => jfcrcnnomgimotpra
+RXA => rxa
+mKSQd => mksqd
+fkBZtzbS => fkbztzbs
+qGzZUVfLhjr => qgzzuvflhjr
+bTd => btd
+KguBIkfCURtsMy => kgubikfcurtsmy
+
+%p284
+WNRhYJL => WNRHYJL
+HADrKhCZtWDvsR => HADRKHCZTWDVSR
+yubyISLqYUOE => YUBYISLQYUOE
+Xf => XF
+bcKmgc => BCKMGC
+AMGSlP => AMGSLP
+Llvjxpuu => LLVJXPUU
+WbaMhPAtJX => WBAMHPATJX
+FJCmIPvMOHfzv => FJCMIPVMOHFZV
+JDbH => JDBH
+
+%p285
+vmJ4JV0eEGp3ckeU => VMJ4JV0EEGP3CKEU
+7n3opJpc45wL7 => 7N3OPJPC45WL7
+y625E => Y625E
+gT5Go6xDd0U9 => GT5GO6XDD0U9
+b5T4300612LI70i29 => B5T4300612LI70I29
+L1k9669 => L1K9669
+S161c9R613366 => S161C9R613366
+1s9aW96t5Vah02y762n => 1S9AW96T5VAH02Y762N
+r1t8Ba7o5A56 => R1T8BA7O5A56
+o7rzN1 => O7RZN1
+
+%p286
+NuMiA IhRdASRG OVKRKj  => NuMiAIhRdASRGOVKRKj
+JaPiA XzaHum wZJ  => JaPiAXzaHumwZJ
+IxzNGvlT HTjydsQ tdnaBa  => IxzNGvlTHTjydsQtdnaBa
+Zw EkPD WTJFf PXHsgOZtK hozThRJ  => ZwEkPDWTJFf
+ocBzCP vHMV nkl X s  => ocBzCPvHMVnkl
+d SwGzS QdUvj xbXMng  => dSwGzSQdUvj
+kiLAe mqfBo pdag s  => kiLAemqfBopdag
+F bdQjiOW DRdoIz bPL  => FbdQjiOWDRdoIz
+JvL AjSpvMdWi MpW  => JvLAjSpvMdWiMpW
+Scfx IvfKW ZHIaA Meeh i  => ScfxIvfKWZHIaA
+
+%p287
+HWRZYXKdo bmlDIFpQ  => hwrzyxkdobmldifpq
+pmkHeK sILz orPTSgd  => pmkheksilzorptsgd
+ENGIJT  => engijt
+DyF HAlwXAJG jmcneKFkD zUUf  => dyfhalwxajgjmcnekfkd
+e Ma pmcOpBZJh Ri MxnyfUqy  => emapmcopbzjh
+AU YvBXswI VzxPpux Nk cQW  => auyvbxswivzxppux
+kTX YPUqolb atdCCo  => ktxypuqolbatdcco
+AaDHUAZdY hrMhUvYcG GEhoWrAU w  => aadhuazdyhrmhuvycggehowrau
+LMO pzTgUF  => lmopztguf
+dFqMswgT PeZ  => dfqmswgtpez
+
+%p288
+zfHgZpm SGC => ZFHGZPMsgc
+zxvsZxJ Ly => ZXVSZXJly
+onyotm eKrNxii => ONYOTMekrnxii
+USesXzut taoWps => USESXZUTtaowps
+Tpewr WDzetiYV => TPEWRwdzetiyv
+bvKoqsU DRndvD => BVKOQSUdrndvd
+KEFUFL Jfubczvi => KEFUFLjfubczvi
+MYa bgG => MYAbgg
+QrNcTrN iYdwQKrNe => QRNCTRNiydwqkrne
+osEdR LyvJOEUDB => OSEDRlyvjoeudb
+
+%p289
+JsXnZuF whgj => jsxnzufWHGJ
+VQhXfFm CywbukdQ => vqhxffmCYWBUKDQ
+CZKed NtNjy => czkedNTNJY
+giSG HYGixHQsB => gisgHYGIXHQSB
+Xl AxPxbl => xlAXPXBL
+GYKYaJbM xRspBD => gykyajbmXRSPBD
+Hembeth yZFRntjO => hembethYZFRNTJO
+JtHVzX pHVrb => jthvzxPHVRB
+gWJsx YhDmXFAG => gwjsxYHDMXFAG
+qJJcoVVc bXfYLNKbM => qjjcovvcBXFYLNKBM
+
+%p290
+qiIpilBKOiis => qipiliis
+qcpmZjmgLyPQq => qcpmjmgyq
+gNlSafY => glaf
+fUPlDJMOzQpxu => flzpxu
+CARAH =>
+QoGwt => owt
+AYUVnnKoVwyzf => nnowyzf
+RzTbGvf => zbvf
+EcOUU => c
+iGgKQRk => igk
+
+%p291
+zVXkFVpe => VXFV
+FcEQEhcFCq => FEQEFC
+fsgtu =>
+oNAzgf => NA
+NzafvxJoz => NJ
+xuklwfZLRhUt => ZLRU
+LZEiwnGjutafUk => LZEGU
+cOojjHFMgC => OHFMC
+cUs => U
+TrgyTP => TTP
+
+%p292
+zfxeabVpapncndbhep => zfxeab
+hlcsaHkqwnl => hlcsa
+smyztumwvllsy => smyztumwvllsy
+ptocxksAkunehwup => ptocxks
+moognkwkdqjtvnabu => moognkwkdqjtvnabu
+tanctbfwnhay => tanctbfwnhay
+otzotttrajw => otzotttrajw
+dcmesxodco => dcmesxodco
+pcptjrsnrpfMphnVxi => pcptjrsnrpf
+zTnctxgwuwlk => z
+
+%p293
+anhhisoctlzn => anhhisoctlzn
+jxpdHoqgtzeiVpyhtgqwagyaviws => jxpd
+uvwmukqqlPjuhuaCLIfk => uvwmukqql
+wegwqxpvmeltswcmuzojaNalkY => wegwqxpvmeltswcmuzoja
+htvpAsgrwbsoeigjvtryhtfp => htvp
+dmlzkyvtwkwqwhpfwoussfigm => dmlzkyvtwkwqwhpfwoussfigm
+hmjuuhqf => hmjuuhqf
+worCiqshrbrgrplzaaBirqvwic => wor
+cgiwuzwtawcwcfIslkylp => cgiwuzwtawcwcf
+dFqzrsinpyurusbuahd => d
+
+%p294
+IBSYXGGJKH => IBSYXGGJKH
+KPWNYXBLZHMGT => KPWNYXBLZHMGT
+FGYKTZLWAH => FGYKTZLWAH
+HRghPPIuJZGOrUR => HR
+GKODMOLEOHXUAAQKU => GKODMOLEOHXUAAQKU
+GQnBEFCKTUIkJAGD => GQ
+MOSWORXePDAYFQPRXbNLNW => MOSWORX
+VJQXXZVGZYECLKLKVlIUAkFVRU => VJQXXZVGZYECLKLKV
+GMFXUZVGCE => GMFXUZVGCE
+OOWTFWHMuSnNKOUQJUS => OOWTFWHM
+
+%p295
+ROISVIcBZPKTXADzPZCE => cBZPKTXADzPZCE
+RCVXXOQZoWYSPN => oWYSPN
+EQLUFJPWLIRZLRlWHDRAOnMaVAGG => lWHDRAOnMaVAGG
+ALWOAWPSLNXAhPZZGH => hPZZGH
+RWNZPJLXqLOSGL => qLOSGL
+KQrNGADLMOPPNBUGODmYVRMULPV => rNGADLMOPPNBUGODmYVRMULPV
+HSIHFPWSnUM => nUM
+NHMPEIxIQBJXWMCWU => xIQBJXWMCWU
+DVGURUPJAYVNDAFuNQKX => uNQKX
+uTTLYoWYMQKSFDSJDlKONA => uTTLYoWYMQKSFDSJDlKONA
+
+%p296
+TWJUMDlQNFWXbLIIy => QNFWXbLIIy
+QLnQIDJZSSELLBVUHZmIKHCC => QIDJZSSELLBVUHZmIKHCC
+JVXSBHUPGBXOZXLtYLXqGM => YLXqGM
+TNZQKWRDFCCcYKRQW => YKRQW
+FDHSMLTMOKOMIgBIYJHOMT => BIYJHOMT
+YbOVNCHEJNuMFMOEQAFXCLHBHKNCI => OVNCHEJNuMFMOEQAFXCLHBHKNCI
+NJFLTFCTrGBbOAFPKPNLUCYJZ => GBbOAFPKPNLUCYJZ
+RMGBDWQCFhFLEYEHTQYHGCJEY => FLEYEHTQYHGCJEY
+IMUXKAAxCHASLA => CHASLA
+TWHQEJHJTTBZDTBNrNTD => NTD
+
+%p297
+nsjbardneXOhptpxgoJvpstynbs => OhptpxgoJvpstynbs
+fugbluXkTker => kTker
+cIwcmniyfbfeCvtfc => wcmniyfbfeCvtfc
+esjcjRChduVkiwsVru => ChduVkiwsVru
+SxLgvpofhmrhehbdbemmlxkumq => xLgvpofhmrhehbdbemmlxkumq
+khaKemsjuclmjtlpdpy => emsjuclmjtlpdpy
+vlqZUxcvgyNnxrqktu => UxcvgyNnxrqktu
+qsfposvkuwdqqWqrq => qrq
+hjzwjpuqnxehyotVfllbjthRooyfm => fllbjthRooyfm
+hlkduxkvXsrhcuo => srhcuo
+
+%p298
+UhzjtjvizjspktqyIqUquboeEXyu => UhzjtjvizjspktqyIqUquboeEXyu
+cpudjegnmmqnedolmucvIqfrwjfh => Iqfrwjfh
+mUGnvikEyZpxumgbUvlhwcjgsy => UGnvikEyZpxumgbUvlhwcjgsy
+qkjyhyeAievdgd => Aievdgd
+goikhqoFem => Fem
+xZDxhiwtcugedsafqtylykmvnfyxf => ZDxhiwtcugedsafqtylykmvnfyxf
+qviiddVaqXuwPsjtrgwQOkzbhr => VaqXuwPsjtrgwQOkzbhr
+xaqrqgelhbstFpduxdwdzulqa => Fpduxdwdzulqa
+jpbpmuYzcnqugiAs => YzcnqugiAs
+xnndumsmeeXbnpadz => Xbnpadz
+
+% skip to number
+%p299
+kUDG1lTFnHetKkwYiCyXu => 1lTFnHetKkwYiCyXu
+onIptoRSijeZtlreKSEDfNR4c7M => 4c7M
+qYFDwMU3HQfZSSSz6NfhMP => 3HQfZSSSz6NfhMP
+VkfZ9mySrBJDHijpWT2CtWsvYY => 9mySrBJDHijpWT2CtWsvYY
+m6MHcqMTquNXGJCDC2cwiNXDtGJSL => 6MHcqMTquNXGJCDC2cwiNXDtGJSL
+jl3VoFNPv79VTKTECrcdweUGq => 3VoFNPv79VTKTECrcdweUGq
+Wp1raTviIFPYOaNNGEfgJDG84n => 1raTviIFPYOaNNGEfgJDG84n
+jDle1KKAyfwjdbKOZHzS => 1KKAyfwjdbKOZHzS
+kHTFEVhPVavKJlXilYTSVcNo1sCm => 1sCm
+ZH1xNlF51i => 1xNlF51i
+
+%take to number
+%p300
+AWhURyhlFkEkpstlfiDT3rtVGGX => AWhURyhlFkEkpstlfiDT
+YsWDXezsI7xhDF => YsWDXezsI
+kAaCyBkKcrLmI8mYlqJMcH => kAaCyBkKcrLmI
+ySYH7XjIgqkm => ySYH
+6XfjSRJnbXTkqTMTeyLxrs8gojHDx =>
+mb3lfJbglnVZ => mb
+rYSMvYruUxoOBaDJt4aGafRV => rYSMvYruUxoOBaDJt
+QUqkHN2oNWkwGlYrKahoB => QUqkHN
+bn3FIO1VLb1hVvTwea1PyvC8I => bn
+NC2x8CZPvyU15Ysa => NC
+
+%make lowerase after a number
+%p301
+NGwsfLyix51HFWsp => ngwsflyix51hfwsp
+gCQCDSQqECQLhVy0NsEWUs4FDQwWJ => gcqcdsqqecqlhvy0nsewus4fdqwwj
+tJ1AdGMDw36kPXYpDEIq2kHU => tj1adgmdw36kpxypdeiq2khu
+PldSac78PtEonlymdaLlY5r9m => pldsac78pteonlymdally5r9m
+lLGfvWo3AtfGDG5npPL => llgfvwo3atfgdg5nppl
+MmID4DvGSDjskx => mmid4dvgsdjskx
+P7IeFgqjFmYvSe => p7iefgqjfmyvse
+S8crew2vZJsU => s8crew2vzjsu
+VjA6FxarSFBBOhIdJ5mvYOSF => vja6fxarsfbbohidj5mvyosf
+erjNiEd5zFzwocVyzO => erjnied5zfzwocvyzo
+
+%uppercase until number
+%p302
+atsexbvmctq4bwghlb => ATSEXBVMCTQ4bwghlb
+mgjqa8ndwytllxtuxg8ruzaqpf => MGJQA8ndwytllxtuxg8ruzaqpf
+uqftqowltp6ubivqtexec => UQFTQOWLTP6ubivqtexec
+dobujfbtddsrx5kabbebdnl => DOBUJFBTDDSRX5kabbebdnl
+jiumpe6xithadsdqmerv => JIUMPE6xithadsdqmerv
+kaetzqew5vcmalerb => KAETZQEW5vcmalerb
+tawppx88hnhokarotf => TAWPPX88hnhokarotf
+wfbo5doeodnm9x => WFBO5doeodnm9x
+vxbrmtma0rrazvob => VXBRMTMA0rrazvob
+kafq91vfocw5joz0wzuhrqksklww => KAFQ91vfocw5joz0wzuhrqksklww
+
+%p303
+muxopq => MuxOpq
+qkultf => QkuLtf
+arpyu => ArpYu
+mifisnrxokepobjwmlk => MifIsnRxoKepObjWmlK
+gmjwqfpyuzpgoguia => GmjWqfPyuZpgOguIa
+gyzvxgpu => GyzVxgPu
+ysohbqfeapycwepvgnx => YsoHbqFeaPycWepVgnX
+tttqmg => TttQmg
+smteekpmn => SmtEekPmn
+jnnlqnrq => JnnLqnRq
+
+%p304
+<vmkioaovipbdw> => VmKiOaOvIpBdW
+<bgygkgokxhvbjkrlkl> => BgYgKgOkXhVbJkRlKl
+<magbuvlfohfm> => MaGbUvLfOhFm
+<swnumyw> => SwNuMyW
+<mgqkkze> => MgQkKzE
+<seccbq> => SeCcBq
+<hjzkxtuf> => HjZkXtUf
+<svlidrufpn> => SvLiDrUfPn
+<qgintscnpz> => QgInTsCnPz
+<moimw> => MoImW
+
+%p305
+n-nd-xe-bl-jl-eh- => nndxebljleh
+o-ia-ea-zd-tn-cw- => oiaeazdtncw
+g-mx-es-xn-am-nr-so- => gmxesxnamnrso
+o-wf-ck-qn-ip-rq-ax-lx- => owfckqniprqaxlx
+p-jz-vc-oi-g => pjzvcoig
+s-jn-jw-nz-zp-hw-oh-c => sjnjwnzzphwohc
+w-fn-rv-qq-ng-ng-wq-e => wfnrvqqngngwqe
+b-bn-no-lr-ps-xl-tp-o => bbnnolrpsxltpo
+e-nd-iz-hl-in-e => endizhline
+h-pw-qu-er-h => hpwquerh
+
+%p306
+-zm-dk-am-b => zmdkamb
+-bm-hf-vm-lb-xt-wz-my-ba => bmhfvmlbxtwzmyba
+-cu-mp-mq-wm-qz-lx-y => cumpmqwmqzlxy
+-hn-mj-oe-cw-nk-dj-zy-ui-xk-j => hnmjoecwnkdjzyuixkj
+-aw-od-gi-mk-pv => awodgimkpv
+-fi-mz-un-sg-bp-ky-td-g => fimzunsgbpkytdg
+-jj-sk-ut-ox-vj-uq => jjskutoxvjuq
+-ge-fb-cs-gh-ag-nz => gefbcsghagnz
+-tl-ay-qh-xj-dh-ma-bx-p => tlayqhxjdhmabxp
+-od-el-er-f => odelerf
+
+%p307
+mjnvafsuaki => jvfuk
+itdbgpeezmphqayhtz => tbpemhahz
+zmtbbvugarnhb => mbvgrh
+gwzkopwqrobvi => wkpqov
+csrfsgxaxpazwp => sfgapzp
+yepafosoqpcehkd => eaoopek
+ucaxjxqm => cxxm
+ttgqbur => tqu
+hvjwvrsvtbchxrfmirb => vwrvbhrmr
+hhlcgmbgibo => hcmgb
+
+%p308
+rgjtsrwuqvkrrlxcuvwrlaz => gjtrwuvkrlxcvwraz
+faufqzshowogczzcwfrbtx => aufzshwogzzcfrbx
+yokhigixkyyik => okhgixyyi
+uasdntcmvtmhvthhtiwpiyakaaj => asdtcmtmhthhiwpyakaj
+diipifebwtepfjnixdt => iipfebtepjnidt
+mkajankpvvajfqpjnx => kajnkpvajqpjx
+vgtkbjljwfrlsftgvkapnvyou => gtkjljfrlftgkapvyo
+ueieauttikclgvnhkbh => eieuttkclvnhbh
+vuqwyducyql => uqwducql
+wuqxyeuazupaisx => uqxeuaupasx
+
+%p309
+xgrmwzhcibanllaysffoadhmscbjp => xgrmwz
+rnklkflrwntytmeuairnubckobsl => rnklkf
+vpiclmujkk => vpiclm
+fdeslliwhwkxpnmozniaimxmoxk => fdesll
+tdtmzubhixmrjjms => tdtmzu
+irveqavgvqmyzcltqfoqbntplagi => irveqa
+kcitxjvdhvhbdjonh => kcitxj
+ltgxtpsyfctwfypox => ltgxtp
+gscjtjnzyafizcxauwse => gscjtj
+azrrgrzjywteyqmcto => azrrgr
+
+% take to second dot
+%p310
+yewjw.xbcmpvu.xabuh. => yewjw.xbcmpvu
+ximcze.nqldoth.ec. => ximcze.nqldoth
+stghem.smecb.x. => stghem.smecb
+oku.hjc.u.lfmg. => oku.hjc
+ewae.e.dmysdox.wbbjscg. => ewae.e
+eozn.fnigxfz.febjce.hkzaexz.q. => eozn.fnigxfz
+kltxdiq.pllgox.o. => kltxdiq.pllgox
+xcezlgz.pjjftt.o. => xcezlgz.pjjftt
+otdomcw.kwza.tul.ejvqlf.q. => otdomcw.kwza
+uuvmc.tamamze.sjq.oumbspw.brwdeiu. => uuvmc.tamamze
+
+% take from second dot
+%p311
+ipwnajf.ricl.exkyjr.md.p. => exkyjr.md.p.
+f.daxrvb.xxuqh. => xxuqh.
+on.pt.cvlgz. => cvlgz.
+vuktx.aj.zoeehg. => zoeehg.
+vhkjn.d.vyvqs.poacvw. => vyvqs.poacvw.
+cad.h.jki.uovgo. => jki.uovgo.
+qjczw.mdi.epmi. => epmi.
+seysams.k.ebzh. => ebzh.
+lajbbsy.wbex.jbkhhvf.gxk.ruaj. => jbkhhvf.gxk.ruaj.
+zzi.oqitbwh.gokwqm.qx.jxkx. => gokwqm.qx.jxkx.
+
+% uppercase after first dot
+%p312
+iidelv.v.jwkgkga. => iidelv.V.JWKGKGA.
+atxp.g. => atxp.G.
+jctopr.ytvnp.mxwzpaa. => jctopr.YTVNP.MXWZPAA.
+xolf.t.hs.glcglsq. => xolf.T.HS.GLCGLSQ.
+eis.t.uqxgue.nc. => eis.T.UQXGUE.NC.
+g.z. => g.Z.
+u.xh.wteqiu.qjl. => u.XH.WTEQIU.QJL.
+dlqxl.n.v.ocaal. => dlqxl.N.V.OCAAL.
+i.kxvo. => i.KXVO.
+nlyduoe.h.zzezx. => nlyduoe.H.ZZEZX.
+
+% get rid of lowercase letters
+%p313
+WzBloJWuK => WBJWK
+xctIolovMTt => IMT
+oyZSzJFyPgxx => ZSJFP
+ulbwUPWZgIzwcd => UPWZI
+LuBHrTxxQHP => LBHTQHP
+BFHoHLvmQlx => BFHHLQ
+RmOBMqA => ROBMA
+OCZFQqIzJ => OCZFQIJ
+bdSvHKWlOYSJaPAdZIEnIm => SHKWOYSJPAZIEI
+RvNujiusziMxu => RNM
+
+% get rid of lowercase letters and make the rest uppercase
+%p314
+NBxCgGLuo => nbcgl
+sUWqWbaDklSf => uwwds
+etoXMRY => xmry
+AIMf => aim
+WbUSvJwrSkw => wusjs
+qKAmikv => ka
+IJvOiAwcAzZYy => ijoaazy
+uP => p
+sazjsKqVXLyHy => kvxlh
+HgKLCaOejSj => hklcos
+
+%p315
+sSZE(Vwku)YoXoXivD => Vwku
+OuFCU(rWtGjB)litDFepN => rWtGjB
+pPl(Ffh)kkwSdgd => Ffh
+xH(cEiqL)DJFXj => cEiqL
+WwURvy(GBUSPf)Inmu => GBUSPf
+n(qO)rDpzmwKN => qO
+RmAa(UX)vI => UX
+IeXz(UzVt)Z => UzVt
+kBJtUY(KlZojAFG)sj => KlZojAFG
+z(My)ObBA => My
+
+%p316
+zDUxyFQ(sYuScose)JHriMPTpq => syuscose
+LDVZpEiS(jHMmCjNs)fbrsv => jhmmcjns
+mfGpmfl(Aln)kw => aln
+V(RCBA)rHjrdANU => rcba
+dTlC(ifyH)TWhyxDZ => ifyh
+L(CYQyjL)taS => cyqyjl
+GMKIFRqua(DFR)vPnn => dfr
+Bx(gI)Nky => gi
+pmmKuq(PhzDY)cDSjrJnr => phzdy
+owAP(kvHgGDCk)NksnMU => kvhggdck
+
+%p317
+Y(qBnXqfNNu)HdkTDlLZ => QBNXQFNNU
+igBUdS(yLlweY)d => YLLWEY
+NCorZif(dzOxjp)DgGiKHX => DZOXJP
+oLIizcWu(qTwS)b => QTWS
+faH(kTOKqSWK)AEHz => KTOKQSWK
+z(qAfBaVpj)UA => QAFBAVPJ
+nMelF(mFL)EboiEJ => MFL
+qxIvr(bxsJthBkb)ch => BXSJTHBKB
+YG(KmMNLPCe)W => KMMNLPCE
+z(OtmTx)HlTWQmz => OTMTX
+
+%p318
+jRNgR(YlY)Q(tT)K => YlYtT
+OfO(cDGV)NILu(PSyI)LEUr => cDGVPSyI
+Sl(QZsVX)sb(Dq)Kkx => QZsVXDq
+Or(AOIhr)Rdo(YYEB)ypLCT => AOIhrYYEB
+K(suvH)qrA(SEAg)iu => suvHSEAg
+J(zdPn)wZ(Lilou)CU => zdPnLilou
+Ty(QtyCw)X(HVu)JT => QtyCwHVu
+Cj(TPuB)q(Jutt)UT => TPuBJutt
+lGK(P)cZg(Sm)n => PSm
+ONv(CkIj)H(snLR)HC => CkIjsnLR
+
+%p319
+ZR(rLh)uIthK(ncFU)vQZS => RLHNCFU
+YUGOI(OgI)wbq(kuj)zKHl => OGIKUJ
+FWNP(ZSB)Vuwj(VQ)sFG => ZSBVQ
+exF(elvwy)MT(r)T => ELVWYR
+Md(OvWn)ycbI(ezX)zUl => OVWNEZX
+USUI(j)KeJ(Hq)VksiT => JHQ
+lcMr(GcxKn)zyPjp(S)cpgO => GCXKNS
+SQzhD(l)Lna(dUwK)sEva => LDUWK
+a(w)zi(nMGNo)AgTjY => WNMGNO
+ef(a)U(HpQLc)nEN => AHPQLC
+
+%p320
+ZpyH(Aqv)tfSTo(QlOX)ZiHEE => aqvqlox
+PD(Vzq)mR(zCpjw)Lp => vzqzcpjw
+c(Et)tHReC(tQjj)hYv => ettqjj
+RwVg(v)yOTS(w)pG => vw
+m(h)vsmm(a)zTigV => ha
+gHiD(LIkMB)meg(c)xSj => likmbc
+jFl(EMEb)io(bfGW)MolDn => emebbfgw
+OAMzG(wEP)wQx(D)x => wepd
+IYG(qGSAD)ajeRM(wDsh)CpN => qgsadwdsh
+Kz(u)K(tDfP)afP => utdfp
+
+%p321
+y(lc)rzz(oa)hC => yrzzhC
+p(UM)nS(R)V => pnSV
+qt(tA)ueC(I)S => qtueCS
+Hy(m)WE(nT)W => HyWEW
+K(T)qR(p)aJ => KqRaJ
+Vw(eP)uYH(Q)ok => VwuYHok
+bQ(Q)ePoL(Tg)gK => bQePoLgK
+V(O)JIIu(DY)Ff => VJIIuFf
+o(S)tuq(AB)S => otuqS
+Xw(DH)zvi(C)qe => Xwzviqe
+
+% take everything in the second brackets
+%p322
+v(GN)vIeu(W)a => W
+p(yE)oVa(I)Co => I
+BM(MZ)Kql(Sm)l => Sm
+DJ(fX)EXHs(mb)ng => mb
+lm(nx)BQU(Ga)H => Ga
+W(t)im(aB)hY => aB
+E(Ds)in(EX)g => EX
+yx(T)YCa(kP)M => kP
+mz(iN)glpS(jl)z => jl
+Tg(G)WVA(GA)j => GA
+
+% take to number
+%p323
+MCCPaN0odY => MCCPaN
+VIgHT0PWgasCD => VIgHT
+yWnlQfchU8lLcA => yWnlQfchU
+EWC3MPfYf => EWC
+nZB3KUiIUW => nZB
+Gus8ahv => Gus
+dkmzSBRaF1uDKd => dkmzSBRaF
+avfmzxQ3HZDFQJB => avfmzxQ
+HgCBXD3csJvqDQV => HgCBXD
+Kiuzs7xpUw => Kiuzs
+
+% take from number
+%p324
+LmZ4FCQiV => FCQiV
+tHwfnfmzS2iGPQ => iGPQ
+sWDST1dJZlz => dJZlz
+shraAsEG1vavDt => vavDt
+UOixXm4MaHjUeoH => MaHjUeoH
+zNm6RngMq => RngMq
+kreJz6pgWG => pgWG
+zvnEDwJxR8kYvKXq => kYvKXq
+oUCe3Xub => Xub
+JPghLUBvC4TAzlFEwi => TAzlFEwi
+
+% skip to number then take until number
+%p325
+ViZWG9QHSWjr3xgbl => QHSWjr
+TybinS5undWfw3aBb => undWfw
+tZp2YnKS1HKh => YnKS
+lZOIP5aGmlVm3TxXqV => aGmlVm
+Hasdv5dLh1XOIhzF => dLh
+FAE7dsZji1gKMO => dsZji
+qgfQt4hUvW4xQZvWi => hUvW
+YkJM3kXSMN5wqZE => kXSMN
+nLtOXA2EKnJ1WSBp => EKnJ
+rRvuki8rRARN0xXw => rRARN
+
+% skip to first letter
+%p326
+796931CwWPuoP => 796931
+5772t0VC => 5772
+3944bQK2f => 3944
+32174R8w5rf => 32174
+1766ycm7tv => 1766
+576Jyk32aQ => 576
+25547LplbcfJ => 25547
+581509kkEQFJ => 581509
+515788iUeVa => 515788
+626OuqMg2c => 626
+
+% skip to first letter
+%p327
+bAHds7170qzJW2F => bAHds
+eZFF380ny3yg8 => eZFF
+cAnOQ046885L3JjLu => cAnOQ
+hlwqEJ275449Tn => hlwqEJ
+HPU955526DPtC => HPU
+cLak966Y65 => cLak
+gsQ1140CFNp => gsQ
+wtESaN29294hselD3 => wtESaN
+WOGxR914151kdzl => WOGxR
+pNxYs521636Zc1Ju => pNxYs
+

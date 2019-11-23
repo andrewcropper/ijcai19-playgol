@@ -1,1 +1,0 @@
-# ijcai19-playgol
